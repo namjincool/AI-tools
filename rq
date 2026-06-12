@@ -1,0 +1,2049 @@
+![image](image_001.png)
+
+제안요청서
+
+| 사업명 | 정보자원 이전 및 정보인프라 구축 사업 |
+| --- | --- |
+| 주관기관 | 국회기록원 |
+
+2026. 5.
+
+| 기록관리실<br>기록정보관리과 | 사업<br>담당 | 유재희 주무관 | TEL : 02-6788-3411 |
+| --- | --- | --- | --- |
+| 기획관리관<br>총무담당관실 | 계약<br>담당 | 이해옥 주무관 | TEL : 02-6788-3471 |
+
+목 차
+
+**1. 사업 개요**
+  가. 개요
+  나. 사업 목적
+  다. 사업 범위
+  라. 기대 효과
+**2. 현황**
+  가. 운영 현황
+**3. 사업 추진방안**
+  가. 추진전략
+  나. 추진체계
+  다. 추진일정
+**4. 제안요청내용**
+  가. 요구사항 촐괄표
+  나. 요구사항 상세목록표
+  다. 요구사항 상세내용
+1) 시스템 장비 구성 요구사항(Equipment Composition Requirement)
+2) 기능 요구사항(System Function Requirement)
+3) 데이터 요구사항(Data Requirement)
+4) 테스트 요구사항(Test Requirement)
+5) 성능 요구사항(Performance Requirement)
+6) 품질 요구사항(Quality Requirement)
+7) 제약사항(Constraint Requirement)
+8) 보안 요구사항(Security Requirement)
+9) 프로젝트 관리 요구사항(Project Management Requirement)
+10) 프로젝트 지원 요구사항(Project Support Requirement)
+**5. 제안서 작성요령**
+  가. 제안서의 효력
+  나. 제안서 작성지침(권장사항) 및 유의사항
+  다. 제안서 목차
+  라. 제안서 세부 작성지침
+**6. 제안안내사항**
+  가. 입찰방식
+  나. 제안서 평가 방법
+  다. 기술성 평가기준
+  라. 제출서류
+  마. 제안서 제출 일정 및 방법
+  바. 제안요청설명회
+  사. 제안서평가 개최
+  아. 입찰 시 유의사항
+  자. 제안서 보상
+**7. 기타 사항**
+  가. 작업장소 상호 협의
+  나. 계약목적물의 지식재산권 귀속 등
+  다. 개발SW의 공동활용 사전명시
+  라. 하도급계약
+  마. 과업심의위원회 개최 및 과업내용 변경
+  바. 소프트웨어 사업정보 제출
+  사. 상호협약서 제출
+  아. 안전 및 보건 확보 의무 준수사항
+  자. 소프트웨어 직접구매 제외사유
+  차. 소프트웨어사업 영향평가 결과서
+[별지 1호 서식] 제안요청 준수표
+[별지 2호 서식] 일반현황 및 연혁
+[별지 3호 서식] 자본금 및 매출액 현황(최근 3년)
+[별지 4호 서식] 주요사업실적
+[별지 5호 서식] 소프트웨어사업 하도급 계획서(조달청 서식)
+[별지 6호 서식] 소프트웨어사업 하도급 계획서(계약체결 시)
+[별지 7호 서식] 보안서약서(대표자용)
+[별지 8호 서식] 보안서약서(참여인력용)
+[별지 9호 서식] 보안확약서(대표자용)
+[별지 10호 서식] 보안확약서(참여인력용)
+[별지 11호 서식] 일별 보안점검표
+[별지 12호 서식] 월별 보안점검표
+[별지 13호 서식] 자료관리대장
+[별지 14호 서식] 사업자간 상호협약서 및 역할 분담표
+[붙임 1] 누출금지 대상정보
+[붙임 2] 사업자 보안위반 처리기준
+[붙임 3] 보안 위약금 부과 기준
+[붙임 4] 기술적용계획표
+[붙임 5] 하도급계약의 적정성 판단 세부기준
+
+<table>
+<tr><th>1</th><th></th><th colspan="2">사업 개요</th></tr>
+</table>
+
+가. 개요
+
+사 업 명: 정보자원 이전 및 정보인프라 구축 사업(통합발주)
+
+사업예산: 44억 980만원(부가가치세 포함)
+
+- 신규장비 및 상용S/W 구매 : 43억 3,180만원
+
+- 정보시스템 이관 및 커스터마이징 : 7,800만원
+
+※ 리스조건부 계약으로 분할납품 대가 및 기성대가가 지급되지 않을 수 있음
+
+사업기간: 계약 후 120일(4개월)
+
+계약방법: 일반경쟁입찰(협상에 의한 계약)
+
+※ 본 사업은 ｢소프트웨어 진흥법｣ 제50조에 따라 과업내용 확정을 위하여 과업심의위원회를 개최한 사업임
+
+나. 사업 목적
+
+국회기록원 개원에 따라 국회사무처 및 국회도서관에 분산되어 운영 중인 정보시스템을 국회기록원으로 통합 이관함으로써, 독립적인 시스템 운영‧관리체계 마련
+
+향후 AI 기반 서비스 도입 및 고도화에 대응할 수 있도록 확장 가능하고 유연한 자원 활용기반 확보
+
+다. 사업 범위
+
+신규 정보자원 도입 및 배치
+
+- 서버, 네트워크, 보안 장비 등 정보자원 신규 도입
+
+- 가상화 등 효율적 자원 활용 기술을 적용하여 안정적 운영‧확장성 확보
+
+<신규 도입 장비>
+
+| 구분 | 수량 | 운영체제 |
+| --- | --- | --- |
+| 서버 | 10식 | x86(8), 유닉스(2) |
+| 네트워크 | 5식 | L4스위치(1), L3스위치(2), L2스위치(3) |
+| 보안 | 2식 | 웹방화벽(1), 방화벽(1) |
+| 백업, 스토리지 등 | 9식 | 백업장비(1), 백업디스크(1), 통합SAN스위치(2), OS용 스토리지(1), SAN/NAS스토리지(1), 서버랙(3) |
+
+정보시스템 이관 및 커스터마이징
+
+- 소관 정보시스템의 신규 인프라 환경으로의 안정적 이관 추진
+
+- 최신 정보자원 환경에 부합하도록 시스템 커스터마이징 수행
+
+- 기존 사용자 계정, 권한 및 프로세스 연계 등을 반영한 운영환경 최적화
+
+<정보시스템 이관 및 연계 대상 현황>
+
+<table>
+<tr><th>구분</th><th>시스템명칭</th><th>연계시스템</th></tr>
+<tr><td rowspan="3">국회사무처</td><td rowspan="2">박물관홈페이지</td><td>국회통합예약</td></tr>
+<tr><td>국회통합회원서비스</td></tr>
+<tr><td>헌정자료관리시스템</td><td>박물관홈페이지</td></tr>
+<tr><td rowspan="3">국회도서관</td><td>기록원홈페이지</td><td>국회도서관회원서비스</td></tr>
+<tr><td rowspan="2">기록관리시스템</td><td>전자문서시스템, e-의안시스템</td></tr>
+<tr><td>멀티미디어콘텐츠관리시스템</td></tr>
+</table>
+
+※ 연계 현황은 사업수행 시 추가·변경 될 수 있음
+
+데이터 이관 및 검증
+
+- 대상 시스템의 데이터 구성현황을 파악하여 데이터를 추출하고, 신규 운영 환경으로 이관‧적재
+
+- 이관 전후 데이터 건수 비교, 주요 항목 확인, 무작위 샘플링 점검 등을 통한 데이터의 정합성 및 무결성 검증
+
+상용 S/W 구매 및 이전
+
+- 공동 활용으로 인해 물리적 이전이 어려운 상용 SW는 최신 검증 버전으로 신규 도입하여 호환성 확보 및 이관 위험 최소화
+
+- 신규 운영환경에 적합한 성능관리·보안 S/W 등 기반 SW 도입
+
+- 이관 가능한 상용 SW는 신규 운영환경에 맞게 이전·설치
+
+<상용 S/W 도입‧이관 대상 목록>
+
+<table>
+<tr><th>구분</th><th>품 명(도입 개수)</th><th>총수량</th><th>비고</th></tr>
+<tr><td rowspan="2">시스템 S/W</td><td>• 웹필터(1), 웹에디터(2), PDF변환(2), SSO(1), 개인정보(1), 검색(2), 디지털미디어변환(1), 뷰어솔루션(1)</td><td>11식</td><td>도입</td></tr>
+<tr><td>• 대용량파일업로드(1), 문서뷰어(1), 장기보존포맷 변환 PDF(1)</td><td>3식</td><td>이관</td></tr>
+<tr><td>서버 S/W</td><td>• OS(11), WEB(2), WAS(2), DBMS(2), 서버가상화(8), 망연계(1), 백업관리(1)</td><td>27식</td><td>도입</td></tr>
+<tr><td>보안 S/W</td><td>• 보안관제(18), 서버백신(18), 서버관리(18), 기록물백신(1)</td><td>55식</td><td>도입</td></tr>
+</table>
+
+※ 이관시 발생할 수 있는 호환성 오류를 예방하기 위해 동일 상용 SW 최신버전 도입
+
+운영관리
+
+- 백업정책 수립, 서버관리, 장애 대응 등 운영관리 체계 구축
+
+- 단위테스트 및 통합테스트 수행을 통한 시스템 안정성 확보
+
+라. 기대 효과
+
+분산 운영되던 정보시스템을 통합 이관하여 기관 정보화 업무의 독립성을 확보하고, 기록원 내 정보자원 운영·관리체계를 구축하여 관리 효율성 제고
+
+업무망과 인터넷망의 망분리를 통해 중요 정보시스템과 정보자산을 보호하고 안정적·체계적인 보안관리 기반 확보
+
+신규 시스템 도입·변경에 대한 대응 역량을 강화하고, 장애 대응 및 백업·복구체계를 마련하여 서비스 연속성 확보
+
+<table>
+<tr><th>2</th><th></th><th colspan="2">현황</th></tr>
+</table>
+
+가. 운영 현황
+
+대상 시스템
+
+- 정보시스템 주요 기능
+
+<table>
+<tr><th>구분</th><th>시스템명</th><th>주요 기능</th></tr>
+<tr><td rowspan="2">업무지원<br>시스템</td><td>국회기록통합관리시스템</td><td>- 국회 생산기록물 및 수집기록물의 인수, 등록, 분류, 정리, 평가/폐기, 보존, 정리·기술, 검색, 활용 등<br>국회전자문서시스템, e-의안문서시스템, 사진자료시스템 등 국회기록물 생산시스템과의 연계인수<br>국회기록원 홈페이지와의 연계 서비스 관리 및 제공</td></tr>
+<tr><td>헌정자료관리시스템</td><td>헌정자료 등록, 검색, 서고배치 등</td></tr>
+<tr><td rowspan="2">대국민<br>서비스</td><td>국회기록원 홈페이지</td><td>- 국회기록원 기관 대표 홈페이지<br>소장기록물 검색 및 열람, 기록 컬렉션, 기록 큐레이션, 디지털 전시 등<br>기관 소개, 소식, 현황, 이용 안내 등</td></tr>
+<tr><td>국회박물관 홈페이지</td><td>관람 및 시설 안내, 전시 안내, 체험 및 교육 신청, 국회참관 예약 및 안내 등<br>소장자료 검색, 자료 수집/열람/복제 안내<br>박물관 소개, 공지사항, 자주하는 질문 등</td></tr>
+</table>
+
+서버 및 장비 구성
+
+보안사항
+
+※ ｢행정기관 및 공공기관 정보시스템 구축·운영 지침｣(행정안전부고시) 제17조에 따라 보안사항 등을 제외하며, 필요한 경우 보안서약서 작성 후 담당자 입회 하에 가능한 범위에서 열람 가능
+
+<table>
+<tr><th>3</th><th></th><th colspan="2">사업 추진방안</th></tr>
+</table>
+
+가. 추진전략
+
+서버, 스토리지, 상용SW 등 최신 정보자원을 도입하고 정보자원의 효율적 활용체계를 마련하여, 안정적이고 유연한 국회기록원 전용 인프라 구축
+
+업무망과 인터넷망을 분리 구성하고 접근통제를 적용하여 보안수준 강화 및 운영 안정성 제고
+
+체계적인 이관·전환 전략 수립과 시스템 최적화를 통해 성능 향상 및 서비스 연속성 확보
+
+나. 추진체계
+
+<table>
+<tr><th colspan="2">국회사무처</th><th></th><th colspan="4">국회기록원</th><th></th><th colspan="2">국회도서관</th></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td><td rowspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td></td><td></td><td></td><td colspan="4">기록관리실</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">관련부서</td><td></td><td colspan="4" rowspan="2">기록정보관리과</td><td></td><td colspan="2">관련부서</td></tr>
+<tr><td colspan="2">디지털정책·디지털운영</td><td></td><td></td><td colspan="2">정보기술개발</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4">사업수행사</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="4"></td><td></td><td colspan="2"></td></tr>
+</table>
+
+| 조 직 | 역 할 |
+| --- | --- |
+| 기록정보관리과<br>(사업주관부서) | ○ 사업 계획 수립<br>○ 사업 추진 및 사업 총괄 관리<br>○ 산출물 관리, 검사 및 결과물 인수 |
+| 관련 부서 | ○ 사업추진 전반 및 세부사항 협력･지원<br>- 데이터센터 내 장비 납품·설치 협조<br>- 보안/네트워크 구성 및 변경 협조<br>- 시스템 취약점 점검(국회 사이버안전센터)<br>- 각 시스템 별 데이터 이관 등 서비스 이전 지원 등 |
+| 사업수행사 | ○ 사업 추진에 따른 계약의 이행<br>○ 작업환경구축 및 사업 진도 관리 및 보고<br>○ 산출물 작성 및 기술이전<br>○ 테스트, 운영 교육 및 안정화 작업 수행<br>○ 기타 사업 수행에 필요한 업무 |
+
+다. 추진일정
+
+<table>
+<tr><th>추진일정<br>사업내용</th><th colspan="2">M</th><th colspan="2">M+1</th><th colspan="2">M+2</th><th colspan="2">M+3</th></tr>
+<tr><td colspan="9">☐ 구축환경 분석</td></tr>
+<tr><td>- 현황 조사･분석</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="9">☐ 납품 및 설계</td></tr>
+<tr><td>- 장비 납품 및 상세설계</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="9">☐ 구축</td></tr>
+<tr><td>- 서버, 스토리지 등 설치</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- 시스템 이관 및 커스터마이징</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- 데이터 이관</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="9">☐ 테스트 및 검사</td></tr>
+<tr><td>- 테스트</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- 검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="9">☐ 서비스 개시 및 안정화</td></tr>
+<tr><td>- 서비스 개시 및 안정화</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<table>
+<tr><th>4</th><th></th><th colspan="2">제안요청 내용</th></tr>
+</table>
+
+가. 요구사항 총괄표
+
+<table>
+<tr><th colspan="2">요구사항 구분</th><th>ID부여규칙</th><th>요구사항수</th></tr>
+<tr><td>시스템 장비 구성 요구사항(ECR)</td><td>Equipment Composition Requirement</td><td>ECR-00</td><td>19</td></tr>
+<tr><td>기능 요구사항(SFR)</td><td>System Function Requirement</td><td>SFR-00</td><td>1</td></tr>
+<tr><td>데이터 요구사항(DAR)</td><td>DAta Requirement</td><td>DAR-00</td><td>1</td></tr>
+<tr><td>테스트 요구사항(TER)</td><td>TEst Requirement</td><td>TER-00</td><td>3</td></tr>
+<tr><td>성능 요구사항(PER)</td><td>PErformance Requirement</td><td>PER-00</td><td>1</td></tr>
+<tr><td>품질 요구사항(QUR)</td><td>QUality Requirement</td><td>QUR-00</td><td>3</td></tr>
+<tr><td>제약사항(COR)</td><td>COnstraint Requirement</td><td>COR-00</td><td>3</td></tr>
+<tr><td>보안 요구사항(SER)</td><td>SEcurity Requirement</td><td>SER-00</td><td>11</td></tr>
+<tr><td>프로젝트관리 요구사항(PMR)</td><td>Project Management Requirement</td><td>PMR-00</td><td>8</td></tr>
+<tr><td>프로젝트지원 요구사항(PSR)</td><td>Project Support Requirement</td><td>PSR-00</td><td>5</td></tr>
+<tr><td colspan="3">합계</td><td>55</td></tr>
+</table>
+
+나. 요구사항 상세목록표
+
+<table>
+<tr><th>No.</th><th colspan="2">요구사항 고유번호</th><th>요구사항 명칭</th></tr>
+<tr><td>1</td><td>ECR</td><td>01</td><td>장비 도입 및 납품(공통)</td></tr>
+<tr><td>2</td><td>ECR</td><td>02</td><td>장비설치</td></tr>
+<tr><td>3</td><td>ECR</td><td>03</td><td>UNIX 서버 규격</td></tr>
+<tr><td>4</td><td>ECR</td><td>04</td><td>x86 서버 규격</td></tr>
+<tr><td>5</td><td>ECR</td><td>05</td><td>서버랙</td></tr>
+<tr><td>6</td><td>ECR</td><td>06</td><td>OS 설치용 스토리지</td></tr>
+<tr><td>7</td><td>ECR</td><td>07</td><td>SAN스위치</td></tr>
+<tr><td>8</td><td>ECR</td><td>08</td><td>SAN/NAS 스토리지</td></tr>
+<tr><td>9</td><td>ECR</td><td>09</td><td>L2 스위치</td></tr>
+<tr><td>10</td><td>ECR</td><td>10</td><td>L3 스위치</td></tr>
+<tr><td>11</td><td>ECR</td><td>11</td><td>L4 스위치</td></tr>
+<tr><td>12</td><td>ECR</td><td>12</td><td>방화벽</td></tr>
+<tr><td>13</td><td>ECR</td><td>13</td><td>웹방화벽</td></tr>
+<tr><td>14</td><td>ECR</td><td>14</td><td>백업 디스크 저장장치</td></tr>
+<tr><td>15</td><td>ECR</td><td>15</td><td>상용 S/W 도입 및 이전 설치</td></tr>
+<tr><td>16</td><td>ECR</td><td>16</td><td>개인정보필터링 S/W</td></tr>
+<tr><td>17</td><td>ECR</td><td>17</td><td>가상화 S/W</td></tr>
+<tr><td>18</td><td>ECR</td><td>18</td><td>디지털미디어 변환 S/W</td></tr>
+<tr><td>19</td><td>ECR</td><td>19</td><td>호환성 및 상호 운용성</td></tr>
+<tr><td>20</td><td>SFR</td><td>01</td><td>정보시스템 이관</td></tr>
+<tr><td>21</td><td>DAR</td><td>01</td><td>데이터 이관</td></tr>
+<tr><td>22</td><td>TER</td><td>01</td><td>단위테스트</td></tr>
+<tr><td>23</td><td>TER</td><td>02</td><td>통합테스트</td></tr>
+<tr><td>24</td><td>TER</td><td>03</td><td>성능테스트</td></tr>
+<tr><td>25</td><td>PER</td><td>01</td><td>성능 요구사항</td></tr>
+<tr><td>26</td><td>QUR</td><td>01</td><td>프로젝트 품질관리</td></tr>
+<tr><td>27</td><td>QUR</td><td>02</td><td>시스템 및 데이터 통합 검증</td></tr>
+<tr><td>28</td><td>QUR</td><td>03</td><td>변경 요구 및 변경처리 절차</td></tr>
+<tr><td>29</td><td>COR</td><td>01</td><td>공통 지침 준수</td></tr>
+<tr><td>30</td><td>COR</td><td>02</td><td>저작권 및 지적재산권 보호</td></tr>
+<tr><td>31</td><td>COR</td><td>03</td><td>작업장소 상호협의 결정</td></tr>
+<tr><td>32</td><td>SER</td><td>01</td><td>보안 일반사항</td></tr>
+<tr><td>33</td><td>SER</td><td>02</td><td>참여 인력 보안</td></tr>
+<tr><td>34</td><td>SER</td><td>03</td><td>사업 수행장소 보안관리</td></tr>
+<tr><td>35</td><td>SER</td><td>04</td><td>용역사업 관련 장비 보안관리</td></tr>
+<tr><td>36</td><td>SER</td><td>05</td><td>보안 위규관리</td></tr>
+<tr><td>37</td><td>SER</td><td>06</td><td>관리적 보안관리</td></tr>
+<tr><td>38</td><td>SER</td><td>07</td><td>기술적 보안관리</td></tr>
+<tr><td>39</td><td>SER</td><td>08</td><td>물리적 보안관리</td></tr>
+<tr><td>40</td><td>SER</td><td>09</td><td>내·외부망 접근에 대한 보안관리</td></tr>
+<tr><td>41</td><td>SER</td><td>10</td><td>DB 접근권한 통제</td></tr>
+<tr><td>42</td><td>SER</td><td>11</td><td>시스템 보안관리</td></tr>
+<tr><td>43</td><td>PMR</td><td>01</td><td>사업관리자(PM)</td></tr>
+<tr><td>44</td><td>PMR</td><td>02</td><td>공동수급형태의 제안</td></tr>
+<tr><td>45</td><td>PMR</td><td>03</td><td>하도급 관리방안</td></tr>
+<tr><td>46</td><td>PMR</td><td>04</td><td>사업수행 조직의 구성</td></tr>
+<tr><td>47</td><td>PMR</td><td>05</td><td>사업관리방법</td></tr>
+<tr><td>48</td><td>PMR</td><td>06</td><td>정기보고 및 수시보고</td></tr>
+<tr><td>49</td><td>PMR</td><td>07</td><td>산출물 관리</td></tr>
+<tr><td>50</td><td>PMR</td><td>08</td><td>검사</td></tr>
+<tr><td>51</td><td>PSR</td><td>01</td><td>기술이전</td></tr>
+<tr><td>52</td><td>PSR</td><td>02</td><td>하자보수 일반</td></tr>
+<tr><td>53</td><td>PSR</td><td>03</td><td>백업·복구 및 장애 대응</td></tr>
+<tr><td>54</td><td>PSR</td><td>04</td><td>안정화 활동</td></tr>
+<tr><td>55</td><td>PSR</td><td>05</td><td>교육 일반</td></tr>
+</table>
+
+다. 요구사항 상세내용
+
+1) 시스템 장비 구성 요구사항
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>CPU</td><td>처리 속도 : 3.3GHz 이상<br>Core 수 : 6Core(최대 24Core 이상 확장 가능)</td><td rowspan="5">2식</td></tr>
+<tr><td>Memory</td><td>- DDR4 256GB 이상</td></tr>
+<tr><td>Disk</td><td>- SAS 600GB × 6개 이상<br>Hotswap 기능 제공</td></tr>
+<tr><td>I/O</td><td>1Gbps UTP Ethernet 8포트 이상 제공<br>- 10Gbps(SX Type) Ethernet 4포트 이상 제공<br>- 32Gbps HBA 4포트 이상 제공</td></tr>
+<tr><td>기타</td><td>가상화 구성 지원<br>I/O포트 가상화 기능 제공</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>CPU</td><td>- 3.5GHz(8Core) × 2 이상</td><td rowspan="6">2식</td></tr>
+<tr><td>Memory</td><td>- DDR5 128GB 이상<br>슬롯 32DIMM 이상</td></tr>
+<tr><td>Disk</td><td>SAS 2.4TB × 4개 이상<br>RAID 0, 1, 5, 6, 10 이상 제공</td></tr>
+<tr><td>I/O</td><td>- 1Gbps UTP Ethernet 8포트 이상 제공<br>- 10Gbps(SX Type) Ethernet 4포트 이상 제공<br>32Gbps HBA 4포트 이상 제공</td></tr>
+<tr><td>전원</td><td>- 800W 이상, 80PLUS Gold 이상</td></tr>
+<tr><td>기타</td><td>- 가상화 구성 지원<br>- 주요부품(디스크, 팬, 전원) 이중화 및 핫스왑(디스크,전원) 기능 제공<br>자원(CPU, Memory 등) 상태 및 사용 현황 모니터링 기능 제공<br>장애감지 및 알림(LED 및 이벤트 로그) 기능 제공 등</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>CPU</td><td>- 3.5GHz(16Core) × 2 이상</td><td rowspan="6">5식</td></tr>
+<tr><td>Memory</td><td>- DDR5 256GB 이상<br>슬롯 32DIMM 이상</td></tr>
+<tr><td>Disk</td><td>SAS 2.4TB × 4개 이상<br>RAID 0, 1, 5, 6, 10 이상 제공</td></tr>
+<tr><td>I/O</td><td>- 1Gbps UTP Ethernet 8포트 이상 제공<br>- 10Gbps(SX Type) Ethernet 4포트 이상 제공<br>32Gbps HBA 4포트 이상 제공</td></tr>
+<tr><td>전원</td><td>- 800W 이상, 80PLUS Gold 이상</td></tr>
+<tr><td>기타</td><td>- 가상화 구성 지원<br>- 주요부품(디스크, 팬, 전원) 이중화 및 핫스왑(디스크,전원) 기능 제공<br>자원(CPU, Memory 등) 상태 및 사용 현황 모니터링 기능 제공<br>장애감지 및 알림(LED 및 이벤트 로그) 기능 제공 등</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>CPU</td><td>- 3.5GHz(16Core) × 2 이상</td><td rowspan="6">1식</td></tr>
+<tr><td>Memory</td><td>- DDR5 128GB 이상<br>슬롯 32DIMM 이상</td></tr>
+<tr><td>Disk</td><td>SAS 2.4TB × 4개 이상<br>RAID 0, 1, 5, 6, 10 이상 제공</td></tr>
+<tr><td>I/O</td><td>- 1Gbps UTP Ethernet 8포트 이상 제공<br>- 10Gbps(SX Type) Ethernet 4포트 이상 제공<br>32Gbps HBA 4포트 이상 제공</td></tr>
+<tr><td>전원</td><td>- 800W 이상, 80PLUS Gold 이상</td></tr>
+<tr><td>기타</td><td>- 가상화 구성 지원<br>- 주요부품(디스크, 팬, 전원) 이중화 및 핫스왑(디스크,전원) 기능 제공<br>자원(CPU, Memory 등) 상태 및 사용 현황 모니터링 기능 제공<br>장애감지 및 알림(LED 및 이벤트 로그) 기능 제공 등</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>규격</td><td>- 국제 표준(IEC, EIA, DIN) 의한 설계 제품<br>(표준랙 A형 사이즈 : W 600mm x H2,000mm x D 1,200mm)</td><td rowspan="2">3식</td></tr>
+<tr><td>재질</td><td>- 강철(Steel), 용접시공</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>컨트롤러</td><td>- 이중화 구성<br>- Cache : 물리적 128GB 이상 제공</td><td rowspan="4">1식</td></tr>
+<tr><td>인터페이스</td><td>FC 16Gbps 8Port 이상 제공</td></tr>
+<tr><td>디스크</td><td>Usable 20TB 이상 제공(RAID 10 구성)<br>다양한 RAID 구성(RAID 5, 6, 10 이상) 및 자동 오류 복구 기능 제공<br>HotSpare 디스크는 최소 2개 이상 제공</td></tr>
+<tr><td>주요기능</td><td>GUI 기반 스토리지 관리 및 모니터링 기능<br>온라인 중 구성관리(용량 할당/회수, 환경 설정 등) 기능 제공<br>온라인 중 내부 복제(볼륨, Snapshot) 및 복구 기능 제공<br>원격 접속 시 암호화 통신 및 IP기반 접근 제어 기능 제공</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>인터페이스</td><td>- FC 32Gbps 48Port 이상 제공<br>- 최대 FC 64Port 이상 확장 지원</td><td rowspan="4">2식</td></tr>
+<tr><td>주요기능</td><td>GUI 기반 관리<br>온라인 중 환경설정 기능<br>온라인 중 포트 또는 모듈 단위 증설 기능<br>온라인 중 포트 조닝 또는 WWN Zonning 기능<br>장애감지 및 알림 기능(LED, 이벤트 로그) 제공</td></tr>
+<tr><td>보안관리</td><td>암호화 통신(SSH) 및 IP 기반 접근제어 기능<br>권한별 접근제어 및 접근기록 관리 기능</td></tr>
+<tr><td>기타</td><td>전원공급 장치 이중화 및 핫 플러그인 지원</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>컨트롤러</td><td>- Active-Active 듀얼 컨트롤러 제공<br>- 수평 또는 수직 확장 구조의 확장성 보장</td><td></td></tr>
+<tr><td>인터페이스</td><td>- FC 32Gbps 48Port 이상 제공<br>- 최대 FC 64Port 이상 확장 지원</td><td rowspan="7">1식</td></tr>
+<tr><td>디스크</td><td>- Usable 100TB 이상 제공(16TB 이하 SSD구성)<br>- 다양한 RAID 구성(RAID 5, 6, 10 이상) 및 자동 오류 복구 기능 제공</td></tr>
+<tr><td>캐시메모리</td><td>- 듀얼 컨트롤러 기준 1,024GB 이상<br>- 전원 및 컨트롤러 장애시 캐시 데이터 보호 기능 제공</td></tr>
+<tr><td>전원</td><td>- 80PLUS Gold 이상</td></tr>
+<tr><td>주요기능</td><td>- GUI 기반 통합관리(자원사용현황, 성능모니터링 등)<br>- 온라인 중 구성관리(환경설정 등) 기능<br>- 온라인 중 내부복제(볼륨, Snapshot) 및 복구기능제공<br>- 장애감지 및 알림 기능(LED, 이벤트 로그) 제공<br>- 저장공간 최소화 기능 제공(실시간 중복제거 또는 압축기능)</td></tr>
+<tr><td>이중화</td><td>- 구성자원(컨트롤러, 디스크, 전원, 팬) 이중화 및 Hotswap기능 제공<br>- 채널이중화 기능 제공(FC 포트 수량 이상 라이선스 제공)<br>- 컨트롤러와 디스크 인클로저 간 인터페이스 이중화</td></tr>
+<tr><td>기타</td><td>- 다양한 OS의 안정적 지원<br>- NVMe/FC 프로토콜 지원<br>- 원격복제기능 지원 등</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>컨트롤러</td><td>- Active-Active 듀얼 컨트롤러 제공<br>- 수평 또는 수직 확장 구조의 확장성 보장</td><td></td></tr>
+<tr><td>인터페이스</td><td>- NIC 10Gbps 16Port 이상 제공<br>- FC 32Gbps 24Port 제공(최대 FC 64Port 이상 확장 지원)<br>- 16/32Gbps FC, 25Gbps/10Gbps Ethernet, iSCSI 10G/25G 지원</td><td rowspan="7">1식</td></tr>
+<tr><td>디스크</td><td>- Usable 200TB 이상 제공(16TB 이하 SSD구성)<br>- 다양한 RAID 구성(RAID 5, 6, 10 이상) 및 자동 오류 복구 기능 제공</td></tr>
+<tr><td>캐시메모리</td><td>- 1,024GB 이상<br>- 전원 및 컨트롤러 장애시 캐시 데이터 보호 기능 제공</td></tr>
+<tr><td>전원</td><td>- 80PLUS Gold 이상</td></tr>
+<tr><td>주요기능</td><td>- GUI 기반 통합관리(자원사용현황, 성능모니터링 등)<br>- 온라인 중 구성관리(환경설정 등) 기능<br>- 온라인 중 내부복제(볼륨, Snapshot) 및 복구기능제공<br>- 장애감지 및 알림 기능(LED, 이벤트 로그) 제공<br>- 저장공간 최소화 기능 제공(실시간 중복제거 또는 압축기능)</td></tr>
+<tr><td>이중화</td><td>- 구성자원(컨트롤러, 디스크, 전원, 팬) 이중화 및 Hotswap기능 제공<br>- 채널이중화 기능 제공(FC 포트 수량 이상 라이선스 제공)<br>- 컨트롤러와 디스크 인클로저 간 인터페이스 이중화</td></tr>
+<tr><td>기타</td><td>- 다양한 OS의 안정적 지원<br>- CIFS, NFS, NDMP 기반 프로토콜 제공<br>- 원격복제기능 지원 등</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>스위칭 용량</td><td>240Gbps 이상</td><td rowspan="6">3식</td></tr>
+<tr><td>포워딩 속도</td><td>178.6Mpps 이상</td></tr>
+<tr><td>MAC Table</td><td>- 32K 이상</td></tr>
+<tr><td>Memory</td><td>DRAM 128MB 이상, Flash 32MB 이상</td></tr>
+<tr><td>인터페이스</td><td>- 10G Base-T RJ-45 12Port 이상<br>- 10G SFP+ 2Port 이상</td></tr>
+<tr><td>주요기능</td><td>포트 미러링 기능 제공<br>온라인 중 환경설정 기능 제공<br>관리자 권한별 접근제어 관리 및 관리자 접근 Logging 기능 제공<br>동작 상태 및 장애 모니터링(자원 이용 현황, 장애 이벤트) 기능 제공<br>Looping 방지 기능 제공<br>악의적인 백도어 미설치 확인서(무결성 확인서) 제공</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>스위칭용량</td><td>- 양방향 최대 3.2 Tbps 이상</td><td rowspan="6">2식</td></tr>
+<tr><td>포워딩속도</td><td>최대 1Bpps 이상</td></tr>
+<tr><td>ARP Table</td><td>- 82K 이상</td></tr>
+<tr><td>Memory</td><td>DRAM 16GB 이상, Flash 16GB 이상</td></tr>
+<tr><td>인터페이스</td><td>- 40G SFP+ 4Port 이상<br>- 1/10/25G SFP 48Port 이상</td></tr>
+<tr><td>주요기능</td><td>포트 미러링, 가상화 라우팅 기능 제공<br>제어부·전원부 모듈 이중화 및 Hotswap 기능 제공<br>온라인 중 환경설정 및 백업 복구 기능 제공<br>관리자 권한별 접근제어 관리 및 관리자 접근 Logging 기능 제공<br>동작 상태 및 장애 모니터링(자원 이용 현황, 장애 이벤트) 기능 제공<br>Looping 방지 기능 제공<br>시스템 장애 시 Dump 생성 기능 제공<br>악의적인 백도어 미설치 확인서(무결성 확인서) 제공</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>Throughput</td><td>20Gbps 이상</td><td rowspan="7">1식</td></tr>
+<tr><td>동시 커넥션</td><td>2,400만 CC 이상</td></tr>
+<tr><td>단위 커넥션</td><td>300,000 CPS 이상</td></tr>
+<tr><td>단위 트랜잭션</td><td>790,000 TPS 이상</td></tr>
+<tr><td>ARP Table</td><td>- 8K 이상</td></tr>
+<tr><td>인터페이스</td><td>- 10/100/1000 Base-T 8Port 이상,<br>- 1/10G SFP+ 16Port 이상</td></tr>
+<tr><td>주요기능</td><td>포트 미러링, 가상화 라우팅 기능 제공<br>제어부·전원부 모듈 이중화 및 Hotswap 기능 제공<br>온라인 중 환경설정 및 백업 복구 기능 제공<br>관리자 권한별 접근제어 관리 및 관리자 접근 Logging 기능 제공<br>동작 상태 및 장애 모니터링(자원 이용 현황, 장애 이벤트) 기능 제공<br>Looping 방지 기능 제공<br>시스템 장애 시 Dump 생성 기능 제공<br>QoS 기능<br>DDos 공격 차단 정책 적용 및 차단 기능<br>악의적인 백도어 미설치 확인서(무결성 확인서) 제공</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>Throughput</td><td>TCP/UDP 20Gbps 이상</td><td rowspan="7">1식</td></tr>
+<tr><td>동시 커넥션</td><td>5,000,000 CC 이상</td></tr>
+<tr><td>단위 커넥션</td><td>200,000 CPS 이상</td></tr>
+<tr><td>최대 적용 정책</td><td>5,000개 이상(적용소요시간 1분30초 이내)</td></tr>
+<tr><td>용량</td><td>CPU 8Core, 메모리 32GB, HDD 2TB 이상</td></tr>
+<tr><td>인터페이스</td><td>- 10/100/1000 Base-T 8Port 이상<br>- 1/10GbE SFP+ 8Port 이상</td></tr>
+<tr><td>주요기능</td><td>NAT 기능<br>장비 이중화(A-A, A-S) 구성 및 Fail-over, LLCF 기능<br>온라인 중 환경설정 및 로그관리 기능<br>전원부 모듈 이중화 및 Hotswap 기능 제공<br>시스템 장애 시 Dump 생성 기능 제공<br>관리자 권한별 접근제어 관리 및 관리자 접근 Logging 기능 제공<br>동작 상태 및 장애 모니터링(자원 이용 현황, 장애 이벤트) 기능 제공<br>Looping 방지 기능 제공<br>악의적인 백도어 미설치 확인서(무결성 확인서) 제공</td></tr>
+</table>
+
+<table>
+<tr><th>구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td>Throughput</td><td>HTTP/UDP 12Gbps 이상, HTTPS 1.5Gbps 이상</td><td rowspan="6">1식</td></tr>
+<tr><td>동시 커넥션</td><td>10,000,000 CC 이상</td></tr>
+<tr><td>단위 커넥션</td><td>HTTP 190,000CPS 이상, HTTPS 5,000CPS 이상</td></tr>
+<tr><td>용량</td><td>CPU 8Core, 메모리 24GB, HDD 2TB 이상</td></tr>
+<tr><td>인터페이스</td><td>- 1/10G 10Port 이상</td></tr>
+<tr><td>주요기능</td><td>최신 HTTP 공격에 대한 방어기능<br>IP 주소, 도메인, URL별 보호정책 실시간 적용 및 관리<br>최신버전(TLS 1.2, TLS 1.3) 프로토콜 제공<br>SSL 3.0, TLS 1.0, TLS 1.2, TLS 1.3 프로토콜 및 알고리즘 버전별 차단 기능<br>장비 이중화(A-A, A-S) 구성 및 Fail-over, LLCF 기능<br>온라인 중 환경설정 및 로그관리 기능<br>전원부 모듈 이중화 및 Hotswap 기능<br>세션 클리어 및 URL Redirection기능<br>Bridge 방식(In-Line), Proxy 방식(Out-of-Path) 구성 기능<br>시스템 장애 시 Dump 생성 기능 제공<br>관리자 권한별 접근제어 관리 및 관리자 접근 Logging 기능 제공<br>동작 상태 및 장애 모니터링(자원 이용 현황, 장애 이벤트) 기능 제공<br>Looping 방지 기능 제공<br>악의적인 백도어 미설치 확인서(무결성 확인서) 제공</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">구분</th><th>세부 규격</th><th>수량</th></tr>
+<tr><td rowspan="3">디스크</td><td>용량</td><td>- Usable 70TB 이상<br>※ 백업 압축 및 중복제거에 필요한 엔진영역 할당 용량 별도 제공</td><td rowspan="7">1식</td></tr>
+<tr><td>타입</td><td>SAS 또는 NL_SAS 8TB 이상<br>Raid 5, 6 지원</td></tr>
+<tr><td>확장성</td><td>- 400TB 이상 확장 가능</td></tr>
+<tr><td rowspan="3">엔진</td><td>CPU</td><td>- 32Core 이상</td></tr>
+<tr><td>MEMORY</td><td>- 128GB 이상</td></tr>
+<tr><td>인터페이스</td><td>- 10G/25G, 32G FC 지원<br>- 10Gbps Onborad Ethernet 4포트 이상<br>- 25Gps Ethernet 6포트 이상<br>- 32Gbps FC 4포트 이상</td></tr>
+<tr><td colspan="2">주요기능</td><td>- 원격복제 및 실시간 중복제거<br>- 온라인 중 볼륨 용량 할당 변경 및 한계 초과 시 알람<br>- 자동 오류 복구(RAID 6 구성 또는 동적디스크 그룹핑)<br>- 온라인 중 환경설정 및 백업·복구<br>- 장애감지 시 알람 및 데이터 보호<br>- 다양한 Host OS의 안정적 지원</td></tr>
+</table>
+
+<table>
+<tr><th>연번</th><th>구분(제품명)</th><th>수량</th><th>설명</th></tr>
+<tr><td>1</td><td>운영체제(RHEL for Virtual Datacenters)</td><td>8</td><td>가상화 서버 OS</td></tr>
+<tr><td>2</td><td>DBMS(Oracle 26ai)</td><td>2</td><td>기존 정보시스템의 호환성보장 및 데이터의 안정적 이관을 위한 동일제품의 최신버전 구매</td></tr>
+<tr><td>3</td><td>V3 백신 For Unix</td><td>2</td><td>DBMS 서버용 백신</td></tr>
+<tr><td>4</td><td>서버가상화</td><td>8</td><td>여러 대의 가상화서버 관리 (물리서버 기준)</td></tr>
+<tr><td>5</td><td>디지털미디어 변환</td><td>1</td><td>자막생성, 해상도 조정 등 서비스 및 기록저장용 미디어 변환시스템</td></tr>
+<tr><td>6</td><td>검색엔진</td><td>2</td><td>기록관리시스템 등 업무시스템 1식 및 기록원홈페이지 등 대국민서비스 1식</td></tr>
+<tr><td>7</td><td>개인정보필터링</td><td>1</td><td>장기보존 포맷변환 시 개인정보 마스킹처리 등</td></tr>
+<tr><td rowspan="2">8</td><td rowspan="2">웹에디터</td><td>1</td><td>박물관 홈페이지용</td></tr>
+<tr><td>1</td><td>기록원 홈페이지용(업로드 포함)</td></tr>
+</table>
+
+<table>
+<tr><th colspan="3">요구사항 분류</th><th colspan="2">시스템 장비 구성 요구사항</th></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-01</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">장비 도입 및 납품(공통)</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">장비 도입 및 납품 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ모든 제품은 제조사 정품으로 안정성이 확인된 최신 제품으로 공급하여야 하며, 제안요청서에 제시된 세부내용의 동등 이상 규격제품으로 납품하여야 함<br>- 입찰등록 마감일 기준 생산 중단이 공지된 제품은 납품불가<br>- 제품의 규격을 확인할 수 있는 증빙자료(모델명, 제품출시일 등) 제출<br>- 장비내 SFP 슬롯 형태의 포트는 GBIC/SFP모듈을 포함해서 납품해야 함<br>ㅇ제안하는 H/W 및 S/W에 중대한 결함이 있는 경우 A/S는 불허하며 동일 규격 이상의 신제품으로 즉시 교체, 증설, 보완 등의 방안을 국회기록원과 협의하여 즉시 조치하여야 함<br>- 파손, 속도 저하, 시험운영 중 장애 발생, 보안취약점 발견, 기능 미비 등<br>ㅇ고효율, 저전력, 설치면적 최소화 등 고밀도 아키텍처 설계 및 구현이 가능한 제품으로 제안하여야 함<br>ㅇ장비 납품 후 제조사에서 제공하는 최신 안정화 패치 작업을 수행하고, 초기 관리자 계정의 비밀번호를 변경하는 등 보안 취약점 조치를 수행하여야 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">납품계획서･확인서, 규격확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-02</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-02</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">장비 설치</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">장비 설치 시 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ장비 설치 시 인프라 구성은 국회기록원과 협의하여 최상의 방안으로 구성하여야 함<br>- 업무망과 인터넷망 간의 망분리 정책 구성<br>- DMZ, 서버존, 스토리지존 등 주요 네트워크 구간 및 보안영역을 식별하고, 시스템 중요도와 접근 경로를 고려한 구간별 보안통제 방안 제시<br>도입 장비 및 인프라 환경에 대한 최신 보안 패치 적용<br>ㅇ정보자원 구축 시 관련 제조사가 권고하는 방식 및 최신 안정화 버전 SW로 설계/구축하고 그 결과를 제출하여야 함<br>- 사업담당자, 해당 제조사 인력 등을 포함하여 적정 구성 여부 검토<br>ㅇ납품장비에 대한 설치계획서를 작성·승인받은 후 국회기록원에서 지정하는 장소에 설치를 수행하여야 함<br>- 장비 설치 전 네트워크, 전원 소모량 등 데이터센터 내 환경조사<br>- 장비 설치·운영에 필요한 케이블 공사 등 네트워크 구성<br>- 통신선·전력선 등 각종 케이블 정리 및 해체가 필요한 경우 해당 작업 수행<br>- 전원 케이블 작업 시 감전 예방을 위한 접지 등의 안전작업을 우선 수행<br>- 전원 및 통신 케이블에 국회기록원이 지정하는 양식으로 구간별 레이블 부착 및 선번장 작성·제출<br>ㅇ납품 장비의 정상적인 운영을 위하여 전기･전원 또는 바닥시설 공사(Access Floor 천공 등)도 본 사업에 포함되며, 안정적인 전력공급을 위하여 분전반 누전 차단기 등의 용량이 부족할 경우 사업수행사 부담으로 교체·증설하여야 함<br>ㅇ모든 장비 철거 및 설치 시 작업장소의 보양을 실시하는 등 파손을 방지하고, 파손 시 사업 수행사 부담으로 원상 복구하여야 함<br>ㅇ사업수행사는 관련 유지관리 업체와의 상호협력 방안을 마련하고, 사업수행의 위험 최소화를 위한 협력 범위와 역할, 의사소통체계를 마련하여야 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">장비설치 계획서·확인서, 장비운영 매뉴얼, 선번장</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-03</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">UNIX 서버 규격</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">UNIX 서버 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ용도 : 업무망/인터넷망 가상화용 물리 DB서버<br>ㅇ성능 및 규격<br>[중첩 테이블 #1: 구분 | 세부 규격 | 수량]<br>ㅇ서버는 다음 사항을 포함하여 납품하여야 함<br>- OS 포함<br>- 내장디스크는 미러링 및 백업용 디스크 추가 구성<br>- 서비스용 네트워크 포트 외에 백업용 네트워크 포트 별도 구성</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치 계획서·확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-04, ECR-19</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">x86 서버 규격</td></tr>
+<tr><td rowspan="4">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">x86 서버 요구사항</td></tr>
+<tr><td colspan="2" rowspan="3">세부내용</td><td colspan="2">ㅇ용도 : 업무망/인터넷망 DMZ 가상화용 물리 서버<br>ㅇ성능 및 규격<br>[중첩 테이블 #2: 구분 | 세부 규격 | 수량]</td></tr>
+<tr><td colspan="2">ㅇ용도 : 업무망 서버존 가상화용 물리 서버(3) / 인터넷망 서버존 가상화용 물리 서버(2)<br>ㅇ성능 및 규격<br>[중첩 테이블 #3: 구분 | 세부 규격 | 수량]</td></tr>
+<tr><td colspan="2">ㅇ용도 : 통합관리 서버존 가상화용 물리 서버<br>ㅇ성능 및 규격<br>[중첩 테이블 #4: 구분 | 세부 규격 | 수량]</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치 계획서·확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>ECR-05</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>서버랙</td></tr>
+<tr><td colspan="2" rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td>서버랙 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td>ㅇ용도 : 통합관리 서버존 가상화용 물리 서버<br>ㅇ성능 및 규격<br>[중첩 테이블 #5: 구분 | 세부 규격 | 수량]<br>ㅇ도입되는 서버와의 호환성 및 운영 효율성을 위해 제조사 정품 랙을 제공하여야 하며, 효율적인 서버 통합관리를 위해 콘솔 및 KVM 스위치 등을 포함하여 구성하여야 함.</td></tr>
+<tr><td colspan="4">산출정보</td><td>규격 확인서, 설치 계획서·확인서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-06</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">OS 설치용 스토리지</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">스토리지 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ용도 : x86 가상화 서버 OS 설치용<br>ㅇ성능 및 규격<br>[중첩 테이블 #6: 구분 | 세부 규격 | 수량]</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서·확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-07</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">SAN스위치</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">SAN스위치 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ용도 : x86 가상화 OS 스토리지 연결용<br>ㅇ성능 및 규격<br>[중첩 테이블 #7: 구분 | 세부 규격 | 수량]</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서·확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-08</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">SAN/NAS 스토리지</td></tr>
+<tr><td rowspan="4">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">스토리지 요구사항</td></tr>
+<tr><td colspan="2" rowspan="3">세부내용</td><td colspan="2">ㅇ용도 : SAN스토리지<br>ㅇ성능 및 규격<br>[중첩 테이블 #8: 구분 | 세부 규격 | 수량]</td></tr>
+<tr><td colspan="2">ㅇNAS 스토리지<br>[중첩 테이블 #9: 구분 | 세부 규격 | 수량]<br>ㅇ향후 용량 증설을 고려하여 본체 포함 최대 384개 디스크 확장이 가능한 장비 제공</td></tr>
+<tr><td colspan="2">ㅇ주관사업자는 해당 제조사 인력 등을 포함하여 스토리지의 적정 구성 여부를 검토하여 국회기록원과 협의 후 구성하여야 함<br>ㅇ압축 또는 중복제거를 적용하지 않은 Usable 용량으로 제안<br>※ SAN·NAS 일체형 장비일 경우 컨트롤러를 제외한 스토리지 규격만 적용</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서·확인서, 선번장</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-09</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">L2 스위치</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">L2 스위치 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ용도 : 업무망/인터넷망 서버 관리용(2), 인터넷망 DMZ용(1)<br>ㅇ성능 및 규격<br>[중첩 테이블 #10: 구분 | 세부 규격 | 수량]</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서·확인서, 선번장, 무결성 확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-10</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">L3 스위치</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">L3 스위치 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ용도 : 국회기록원 서버존 백본스위치<br>ㅇ성능 및 규격<br>[중첩 테이블 #11: 구분 | 세부 규격 | 수량]</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서, 보안기능확인서, 선번장, 무결성 확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-11</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">L4 스위치</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">L4 스위치 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ용도 : 국회기록원과 국회사무처망 연결용 스위치<br>ㅇ성능 및 규격<br>[중첩 테이블 #12: 구분 | 세부 규격 | 수량]<br>ㅇ국회사무처 방화벽과의 연동 통신, 세션 정합성 등의 이상 유무를 사전 검증해야 하며, 최적의 부하분산 알고리즘을 설정하여 서비스에 영향이 없도록 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서·확인서, 선번장, 무결성 확인서, 장비운영 매뉴얼, 보안기능확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-12</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">방화벽</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">방화벽 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ용도 : 국회기록원 방화벽<br>ㅇ성능 및 규격<br>[중첩 테이블 #13: 구분 | 세부 규격 | 수량]<br>ㅇ국회기록원 네트워크 환경에 맞는 라우팅 프로토콜 제공<br>ㅇCC인증서 또는 보안기능확인서 제출</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서·확인서, 선번장, 무결성 확인서, 보안기능확인서/CC인증서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-13</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">웹방화벽</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">웹방화벽 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ용도 : 국회기록원 DMZ존 웹방화벽(1)<br>ㅇ성능 및 규격<br>[중첩 테이블 #14: 구분 | 세부 규격 | 수량]<br>ㅇCC인증서 또는 보안기능확인서 제출</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서·확인서, 선번장, 무결성 확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-14</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">백업 디스크 저장장치</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">백업 디스크 저장장치 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ용도 : 데이터 백업 장치<br>ㅇ성능 및 규격<br>[중첩 테이블 #15: 구분 | 세부 규격 | 수량]<br>ㅇ최초 1회 전체 백업 이후, 증분 백업을 이용하여 전체 백업 생성<br>- 전체 백업 생성시 네트워크 대역폭을 점유하지 않고 백업 장비 내 리소스만을 활용<br>- 복구 시 전체 백업본을 통해 즉시 복구 가능<br>ㅇ백업 작업이 수행되는 시간 외에는 네트워크상에서 논리적 연결 분리</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서·확인서, 선번장</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-01, ECR-02, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-15</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">상용 S/W 도입 및 이전 설치</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">상용 S/W 도입 및 이전 설치 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ이관 대상 정보시스템의 운영을 위해 필요한 상용 S/W 중 일부는 기존 운영기관으로부터 라이선스를 승계받으며, 승계가 불가능한 항목에 대해서는 본 사업의 범위 내에서 신규로 확보하여 설치<br>- 설치 후 관련 정보시스템이 정상 동작하도록 운영환경 설정, 커스터마이징, 데이터 마이그레이션 등의 제반사항을 수행하여야 함<br>ㅇ국회기록원은 본 사업에서 구축하는 서버, 스토리지, 네트워크, 보안장비 등 인프라 및 정보시스템 운영에 필요한 일부 상용 소프트웨어를 조달청 나라장터 등을 통해 별도 직접구매 예정<br>ㅇ직접구매 소프트웨어의 세부 제품명 및 라이선스 조건은 국회기록원의 직접구매 절차에 따라 별도 확정하며, 납품 및 설치는 별도 직접구매 계약에 따라 수행<br>ㅇ사업수행사는 직접구매 소프트웨어 공급사와 협력하여 해당 소프트웨어가 본 사업 구축환경에서 정상적으로 설치·연계·운영될 수 있도록 설치환경 제공, 일정 조율, 연계 구성 지원, 통합시험, 정상 동작 여부 확인 및 안정화 지원 수행<br>ㅇ직접구매 예정 소프트웨어 목록<br>- 본문 68페이지 「직접구매 대상 상용소프트웨어 구매계획」 참조<br>ㅇ통합발주 품목 및 수량<br>[중첩 테이블 #16: 연번 | 구분(제품명) | 수량 | 설명]<br>ㅇ각 기관에서 라이선스 이관해준 상용 S/W는 재활용을 원칙으로 하며, 시스템이 원활히 운영될 수 있도록 신규 도입 장비의 규격을 감안하여 필요 시 추가 라이선스를 제공하여야 함<br>ㅇ상용S/W는 안정성이 보장된 최신 버전으로 제안하고, 그에 따른 해당 정보시스템의 수정･변경이 필요한 경우 수행하여야 함<br>ㅇ향상된 성능을 제공하기 위해 제안요청 내용 외 S/W를 추가 제안할 수 있으며, 안정성이 보장된 최신 버전으로 제안하고, 그에 따른 응용프로그램의 수정‧변경을 수행하여야 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격 확인서, 설치계획서·확인서, 선번장, 무결성 확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-16, ECR-17, ECR-18, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-16</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">개인정보필터링 S/W</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">개인정보필터링 상세규격</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ기록물을 장기보존 포맷으로 변환하는 과정에서 파일 내 주민등록번호, 연락처 등 민감한 개인정보를 자동으로 스캔<br>ㅇ파일 내 개인정보 유무를 체크하여 상세 내역 조회 및 마스킹 처리<br>ㅇ열람 권한에 따라 개인정보가 비식별화된 파일 조회 가능<br>ㅇ기록물백신, 포맷 변환 등의 작업과 상호 유기적으로 연계되어 정합성 검증, 프로세스 재설계 등의 시스템 최적화 작업 필요<br>ㅇ개인정보 탐지 결과에 대한 관리자 검토 및 오탐 항목의 예외 처리 기능 제공</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격확인서, GS인증서, 정품 확인서(제조사)</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-15, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-17</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">가상화 S/W</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">가상화 S/W 상세규격</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ다양한 OS지원 및 가상서버(VM) 생성/수정/삭제가 가능하여야함<br>ㅇ자원의 가변적 할당 및 서비스 중단 없는 자원증설이 가능하여야 함<br>ㅇ서버 사용량에 따라 운영중인 가상서버(VM)를 다른 물리적 서버로 서비스 중단없이 이동시킬수 있어야 함<br>ㅇ물리서버 장애 시 다른 서버에서 가상서버(VM)를 자동으로 재시작가능하여야 함<br>ㅇ웹 기반의 중앙 집중형 통합관리 인터페이스 제공<br>ㅇCPU, 메모리, I/O 사용량 등 가상서버(VM)자원에 대한 상태 및 성능에 대한 실시간 모니터링 기능 제공<br>ㅇ임계치 초과나 장애 발생 시 알림 기능 제공<br>ㅇ모든 작업내역에 대한 감사 로그 기록</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">보안기능확인서, GS인증서, 정품 확인서(제조사)</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-15, ECR-19</td></tr>
+<tr><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-18</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">디지털미디어 변환 S/W</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">디지털미디어 자료(영상, 사진 등) 변환시스템</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ고화질 영상 및 대용량 이미지의 효율적인 업로드, 인코딩, 카테고리 관리 기능 제공<br>ㅇ웹 및 모바일 등 다양한 기기 환경에 최적화된 스트리밍 서비스<br>ㅇ원본 영상을 웹 표준 포맷(MP4 등)으로 자동 변환<br>ㅇ국회기록원 정보시스템 연계 기능<br>- 기록관리시스템 등 정보시스템에서 디지털미디어 등록 시 서비스용 자료 변환<br>- 콘텐츠별 메타데이터 설정 및 키워드 검색<br>ㅇ사용자별/그룹별 시스템 접근 및 다운로드 권한 관리<br>ㅇ시청 통계 등 리포트 기능 제공</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">규격확인서, 프로그램 매뉴얼</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2">ECR-15, ECR-19</td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">시스템 장비 구성 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">ECR-19</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">호환성 및 상호 운용성</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">호환성 및 상호 운용성 요구사항</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ제안하는 모든 H/W·S/W는 기존 인프라 환경 및 시스템과의 상호호환이 가능하여야 하며, 운영중인 모든 정보시스템의 정상 작동에 영향을 끼쳐서는 안됨<br>- 국회기록원의 백업 정책, 망연계 정책, 로그 수집 설정, 데이터 공유·연계 등을 유관기관과 비교·분석하여 국회기록원에 최적화될수 있도록 설정하여야 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">설치계획서·확인서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+</table>
+
+2) 기능 요구사항
+
+<table>
+<tr><th>구분</th><th>시스템명칭</th><th>연계시스템</th></tr>
+<tr><td rowspan="3">국회사무처</td><td rowspan="2">박물관홈페이지</td><td>국회통합예약</td></tr>
+<tr><td>국회통합회원서비스</td></tr>
+<tr><td>헌정자료관리시스템</td><td>박물관홈페이지</td></tr>
+<tr><td rowspan="3">국회도서관</td><td>기록원홈페이지</td><td>국회도서관회원서비스</td></tr>
+<tr><td rowspan="2">기록관리시스템</td><td>전자문서시스템, e-의안시스템</td></tr>
+<tr><td>멀티미디어콘텐츠관리시스템</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">요구사항 분류</th><th>기능 요구사항</th></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td>SFR-01</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td>정보시스템 이관</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td>정보시스템 이관 요구사항</td></tr>
+<tr><td>세부내용</td><td>ㅇ이관 대상 정보시스템 목록<br>[중첩 테이블 #17: 구분 | 시스템명칭 | 연계시스템]<br>ㅇ이관 대상 S/W 목록<br>[중첩 테이블 #18: 구분 | 품 명(도입 개수) | 총수량]<br>구분 / 품 명(도입 개수) / 총수량<br>시스템 S/W / 대용량파일업로드(1), 문서뷰어(1), 장기보존포맷 변환 PDF(1) / 3식<br>ㅇ정보시스템 이관 전략 수립 및 영향도 분석<br>- 각 기관에서 분산 운영중인 정보시스템을 국회기록원 신규 서버 및 운영환경으로 안정적으로 이관하기 위한 전략 및 방안 제시<br>- 이관 대상 정보시스템의 구성, 운영환경, 서비스 구조 및 운영 방식 분석 수행<br>- 정보시스템별 이관 범위, 이관 방식, 단계별 적용 방법 및 추진 일정 제시<br>기존 정보시스템의 연계 대상, 연계 방식, 송수신 데이터 등 연계 현황 상세 분석 수행<br>연계 현황 및 업무 영향도 분석을 통해 서비스 중단, 연계 장애, 기능 오류 등 위험요소 식별 및 대응방안 제시<br>ㅇ정보시스템 이관 수행 및 재연계<br>- 이관 전 사전 테스트를 통해 이관 절차, 오류 발생 가능성 및 조치방안 검증 수행<br>- 신규 서버 및 운영환경에 정보시스템 이관 및 환경설정 수행<br>- 기존 연계시스템이 국회기록원 신규 서버 및 운영환경의 정보시스템과 정상적으로 연계될 수 있도록 연계정보 변경, 인터페이스 조정 및 환경설정 수행<br>연계시스템과의 통신, 데이터 송수신, 오류처리 등 연계 기능의 정상 동작 여부 확인 수행<br>연계 변경으로 인해 기존 관련 시스템의 정상 운영에 영향이 발생하지 않도록 사전 점검 및 조치 수행</td></tr>
+<tr><td colspan="2">산출정보</td><td>이관계획서·결과서, 테스트계획서·결과서, 정보시스템 영향도 분석 보고서</td></tr>
+<tr><td colspan="2">관련요구사항</td><td>QUR-02</td></tr>
+</table>
+
+3) 데이터 요구사항
+
+<table>
+<tr><th colspan="2">요구사항 분류</th><th>데이터 요구사항</th></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td>DAR-01</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td>데이터 이관</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td>데이터 이관 요구사항</td></tr>
+<tr><td>세부내용</td><td>ㅇ기존 정보시스템 이전에 따른 데이터 이관 방안 수립<br>- 국회기록원 신규 서버 및 운영환경으로 이전하는 이관 대상 정보시스템의 데이터 이관계획 수립<br>- 데이터 이관 대상, 작업 순서, 작업 시간, 담당자 역할 및 비상 대응 절차를 포함한 데이터 이관계획 수립<br>이관 대상 정보시스템의 서비스 중단 시간을 최소화할 수 있도록 작업 시간대, 이관 절차 및 전환 방안 수립<br>이관 작업으로 인해 이관 대상 외 기존 연계·관련 시스템의 정상 운영에 영향이 발생하지 않도록 사전 영향 여부 확인 및 이상 발생 시 조치 절차 마련<br>ㅇ데이터 무결성, 기밀성, 가용성 등을 고려하여 이관 작업 수행<br>- 데이터베이스, 첨부파일, 이미지파일 등 이관 대상 데이터 및 파일 관련 리소스 이관 수행<br>- 데이터 운영 및 시스템 연계에 필요한 설정정보를 신규 운영환경에 맞게 조정·반영<br>개인정보, 비공개 정보 등 중요자료의 유출·훼손 방지를 위해 접근권한 관리, 작업이력 관리 등 보안조치 수행<br>ㅇ데이터 이관·구축과 관련한 상세사항은 사업 착수 후 국회기록원과 협의하여 시행</td></tr>
+<tr><td colspan="2">산출정보</td><td>데이터 이관계획서</td></tr>
+<tr><td colspan="2">관련요구사항</td><td>QUR-02</td></tr>
+</table>
+
+4) 테스트 요구사항
+
+<table>
+<tr><th colspan="2">요구사항 분류</th><th>테스트 요구사항</th></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td>TER-01</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td>단위테스트</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td>단위테스트</td></tr>
+<tr><td>세부내용</td><td>ㅇ단위테스트 계획서, 시나리오 및 체크리스트를 작성하여 테스트를 실시하여야 함<br>- 단위테스트 범위, 수행절차, 조직, 일정 등 구체적 계획 수립<br>- 장비 및 정보시스템 별 시험방안 수립<br>- 사용자/운영자 별 시험방안 수립<br>ㅇ단위테스트를 통해 기능 구현도 등을 세밀하게 점검하여 이후의 통합테스트 과정에서 기능 관련 문제가 발생하지 않아야 함</td></tr>
+<tr><td colspan="2">산출정보</td><td>단위테스트 계획서·결과서</td></tr>
+<tr><td colspan="2">관련요구사항</td><td></td></tr>
+<tr><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">요구사항 분류</td><td>테스트 요구사항</td></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td>TER-02</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td>통합테스트</td></tr>
+<tr><td rowspan="2">요구사항<br>상세설명</td><td>정의</td><td>통합테스트</td></tr>
+<tr><td>세부내용</td><td>ㅇ통합테스트 계획서, 시나리오 및 체크리스트를 작성하여 테스트를 실시하여야 함<br>- 기능의 정상적 수행여부 검증<br>- 시스템의 접근권한 및 업무권한에 대한 적절성 검증<br>- 대내외 시스템 간 연계 및 업무흐름 검증<br>- 시스템별 연계서비스 확인<br>- 기존 운영환경의 소스가 신규 서버에 정상 반영되었는지 비교 도구 등을 이용하여 점검<br>ㅇ사업수행사와 상용SW 분리발주 공급자간 상호 협력하여 테스트를 수행하여야 함<br>ㅇ테스트 시 발생한 이슈에 대한 조치사항이 반영되었는지 확인할 수 있도록 형상관리를 실시하여야 함<br>ㅇ테스트 결과물을 첨부하여 시스템 담당자에게 확인을 받아야 함</td></tr>
+<tr><td colspan="2">산출정보</td><td>통합테스트 계획서·결과서, 담당자 확인서</td></tr>
+<tr><td colspan="2">관련요구사항</td><td></td></tr>
+<tr><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">요구사항 분류</td><td>테스트 요구사항</td></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td>TER-03</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td>성능테스트</td></tr>
+<tr><td rowspan="2">요구사항<br>상세설명</td><td>정의</td><td>성능테스트</td></tr>
+<tr><td>세부내용</td><td>ㅇ시스템 가용성 및 안정성을 확보하고, 부하수준별 잠재적 영향도를 파악하기 위해 부하테스트를 포함한 성능테스트를 실시하여야 함<br>ㅇ부하 테스트 및 조치<br>- 부하 테스트 및 성능점검의 세부 대상, 기준, 방법 및 일정은 국회기록원과 협의하여 확정<br>성능점검 결과 성능저하 또는 오류가 발생하는 경우 원인 확인 및 조치 수행<br>성능점검 결과 및 조치내역은 관련 산출물에 반영<br>ㅇ사전에 테스트 일정, 목적, 대상 범위, 성능 측정 지표, 참여자 및 역할, 수행 절차, 사용 도구 등이 포함된 성능테스트 계획서를 제출하여 승인을 받아야 함<br>ㅇ시스템 자원정보를 기준으로 예상되는 최대 동시 처리 성능을 측정하여 그 결과를 국회기록원에 제공하여야 함<br>ㅇ성능테스트 결과와 향후 조치 방안이 포함된 성능테스트 결과보고서를 제출하여야 함</td></tr>
+<tr><td colspan="2">산출정보</td><td>성능테스트 계획서, 성능테스트 결과보고서</td></tr>
+<tr><td colspan="2">관련요구사항</td><td>PER-01</td></tr>
+</table>
+
+5) 성능 요구사항
+
+<table>
+<tr><th colspan="2">요구사항 분류</th><th>성능 요구사항</th></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td>PER-01</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td>성능 요구사항</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td>성능 요구사항</td></tr>
+<tr><td>세부내용</td><td>ㅇ이관 후 성능 유지<br>- 정보시스템 이관 후 신규 서버 및 운영환경에서 기존 서비스 수준 이상의 성능이 유지되도록 구성<br>정보시스템 이관에 따른 운영환경 변화로 인해 각 정보시스템의 화면, 검색, 파일 열람, 데이터 처리 및 연계 기능 등 서비스 전반에서 성능저하가 발생하지 않도록 점검 수행<br>연계시스템 간 통신·데이터 송수신 정상 여부 점검 수행</td></tr>
+<tr><td colspan="2">산출정보</td><td>성능점검 계획서⋅결과서</td></tr>
+<tr><td colspan="2">관련요구사항</td><td>TER-03</td></tr>
+</table>
+
+6) 품질 요구사항
+
+<table>
+<tr><th colspan="2">요구사항 분류</th><th colspan="2">품질 요구사항</th></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td colspan="2">QUR-01</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td colspan="2">프로젝트 품질관리</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td colspan="2">프로젝트 품질관리 계획</td></tr>
+<tr><td>세부내용</td><td colspan="2">ㅇ품질보증을 보장하기 위한 범위, 절차, 점검 방법 등을 구체적으로 제안하여야 함<br>ㅇ사업수행 기간 중 지속적인 품질보증활동을 수행하여야 함<br>- 품질보증계획 수립, 품질보증 목표 및 표준에 대한 교육<br>- 계획에 따른 품질보증 수행, 품질결함분석 및 시정조치<br>- 단계별 품질목표 달성, 품질표준 준수 등에 관한 보고서 제출</td></tr>
+<tr><td colspan="2">산출정보</td><td colspan="2">취약점 점검 결과 보고서, 방화벽정책요청서, 무결성확인서</td></tr>
+<tr><td colspan="2">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="2">요구사항 분류</td><td colspan="2">품질 요구사항</td></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td colspan="2">QUR-02</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td colspan="2">시스템 및 데이터 통합 검증</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td colspan="2">시스템 및 데이터 통합 검증체계</td></tr>
+<tr><td>세부내용</td><td colspan="2">ㅇ통합 검증체계 수립<br>- 이관 완료 후 정보시스템, 데이터 및 연계 기능의 정상 운영 여부를 확인하기 위한 통합 검증 전략 및 계획 제시<br>- 품질관리 전문가, 데이터베이스 전문가, 시스템 담당자 등으로 구성된 검증조직 구성 및 역할분담 방안 제시<br>- 검증 대상, 검증 항목, 검증 기준, 검증 일정 및 역할분담 방안 제시<br>주요 업무기능, 데이터 조회, 파일 열람, 연계 기능 등을 포함한 검증 시나리오 및 테스트 케이스 설계<br>ㅇ정보시스템 정상서비스 검증<br>- 신규 서버 및 운영환경에서 정보시스템의 정상 서비스 동작 여부 확인<br>사용자 접속, 화면 조회, 자료 등록·수정·삭제, 검색, 출력 등 주요 업무기능 정상 동작 여부 확인<br>- 환경변화로 인한 기능 오류, 접속 장애, 성능저하 등 이상 여부 확인<br>- 대내외 연계시스템(API, DB LINK 등)과의 통신 및 연계 기능 정상 동작 여부 확인<br>ㅇ데이터 정합성 검증<br>- 이관 완료 후 원천 데이터와 이관 데이터 간 정합성 검증 수행<br>이관 데이터 건수, 주요 항목, 첨부파일 등을 비교하여 데이터 이상 여부 확인<br>- 파일데이터는 파일 수, 파일 크기, 변경일자 등을 확인하여 파일 정합성 점검 수행<br>- 실제 이관 데이터에 대한 전수 또는 샘플링 비교를 수행하고, 쿼리 실행, 스크립트 활용, Hash값 비교 등 데이터 특성에 적합한 방법으로 정합성 검증 수행<br>ㅇ결함 조치 및 재검증<br>- 통합 검증 과정에서 발견된 데이터 오류, 기능 오류, 연계 오류, 성능저하 등 결함에 대한 원인 확인 및 조치 수행<br>조치 완료 후 해당 항목에 대한 재검증을 실시하여 정상 처리 여부 확인<br>- 시스템 및 데이터 정상 여부는 국회기록원 업무담당자의 확인을 받아야 함<br>검증 결과, 결함 조치내역, 재검증 결과 및 잔여 이슈를 관련 산출물에 반영</td></tr>
+<tr><td colspan="2">산출정보</td><td colspan="2">시스템 및 데이터 검증 방안 및 결과서</td></tr>
+<tr><td colspan="2">관련요구사항</td><td colspan="2">SFR-01, DAR-01</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="2">요구사항 분류</td><td colspan="2">품질 요구사항</td></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td colspan="2">QUR-03</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td colspan="2">변경 요구 및 변경처리 절차</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td colspan="2">변경 요구 및 변경처리 절차 개념 정의</td></tr>
+<tr><td>세부내용</td><td colspan="2">ㅇ제공되기로 한 요구사항을 모두 제공하며, 초기 협의한 요구사항에서 변경 관리 절차를 통해 승인을 획득한 요구사항을 최종 기준선으로 간주함</td></tr>
+<tr><td colspan="2">산출정보</td><td colspan="2">요구사항 변경표</td></tr>
+<tr><td colspan="2">관련요구사항</td><td colspan="2"></td></tr>
+</table>
+
+7) 제약사항
+
+<table>
+<tr><th colspan="2">요구사항 분류</th><th colspan="2">제약사항</th></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td colspan="2">COR-01</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td colspan="2">공통 지침 준수</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td colspan="2">공통 지침 준수</td></tr>
+<tr><td>세부내용</td><td colspan="2">ㅇ본 사업과 관련된 일체의 법규를 준수하여 구축해야 함<br>- 행정기관 및 공공기관 정보시스템 구축․운영 지침<br>- 개인정보 보호법, 국회 개인정보 보호에 관한 규정<br>- 소프트웨어 개발보안 가이드 등<br>ㅇ기술적용계획표를 참고하여 제안하고 기술적용결과표를 작성하여 검사 시 제출하여야 하며, 기술적용계획표의 내용에 변경이 필요한 경우 국회기록원의 승인을 받아야 함<br>ㅇ개인정보보호 관련 모든 법규를 충실히 이행할 수 있는 개발 표준안을 마련하여 이를 개발에 반영하여야 함<br>- 개인정보 열람시 접근 이력 기록 및 필요시 사유 입력 등<br>ㅇ기존 정보시스템 커스터마이징 등 수정사항 발생 시 시큐어코딩 준수<br>ㅇ사업 추진 기간 내 적용 법령 및 규정, 적용 표준 등에 변경 사항 발생 시 반영하여 사업 추진하여야 함<br>※ 변경사항의 적용시점을 고려하여 발주기관과 협의하여 적용 가능</td></tr>
+<tr><td colspan="2">산출정보</td><td colspan="2">기술적용계획표·결과표, 개인정보 접근 및 열람 내역서 등</td></tr>
+<tr><td colspan="2">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="2">요구사항 분류</td><td colspan="2">제약사항</td></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td colspan="2">COR-02</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td colspan="2">저작권 및 지적재산권 보호</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td colspan="2">저작권 및 지적재산권 보호</td></tr>
+<tr><td>세부내용</td><td colspan="2">ㅇ사업진행으로 발생된 조사자료 및 원고 등은 국회기록원의 소유이며 사업수행업체는 허락 없이 임의로 소유하거나 외부로 유출 불가<br>ㅇ사업수행 중 사용되는 각종 SW(개발툴 포함)는 정품이어야 하며, 산출물, 디자인 및 콘텐츠 등에 대해 지식재산권과 관련된 사항을 주의해서 사용·작성하여야 함<br>- 저작권 등 지식재산권을 침해할 수 있는 불법복제 SW 등은 설치할 수 없으며, 이로 인한 문제 발생 시 사업수행사가 모든 책임을 짐<br>- 산출물 및 디자인 이미지 등 사업수행과 관련하여 발생하는 지식재산권 분쟁의 책임은 사업수행사에 있음<br>ㅇ본 사업에서 제공한 이미지 등 모든 콘텐츠, 시스템 설계·구현·운영에 관련된 모든 구성요소에 대한 사용권은 발주기관에 있음<br>ㅇ사업자는 지식재산권의 활용을 위하여 SW산출물의 반출을 요청할 수 있으며, 「보안업무규정」 제4조 및 제안요청서에 명시된 누출금지정보에 해당하지 않을 경우 SW산출물을 제공함</td></tr>
+<tr><td colspan="2">산출정보</td><td colspan="2"></td></tr>
+<tr><td colspan="2">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">요구사항 분류</td><td colspan="2">제약사항</td></tr>
+<tr><td colspan="2">요구사항 고유번호</td><td colspan="2">COR-03</td></tr>
+<tr><td colspan="2">요구사항 명칭</td><td colspan="2">작업장소 상호협의 결정</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td>정의</td><td colspan="2">작업장소 상호협의 결정</td></tr>
+<tr><td>세부내용</td><td colspan="2">ㅇ계약당사자는 사업 수행을 위해 필요한 작업장소 등(장소, 설비, 기타 작업환경)을 기술협상 시 상호 협의하여 결정해야 함<br>ㅇSW사업 수행을 위해 필요한 작업장소 비용은 사업예산 내 계상되어 있으므로 관련 비용을 포함하여 제안가격을 산출하되, 작업장소는 상호 협의하여 결정함<br>ㅇ제안사는 작업장소 상호협의 시 제안요청서 내 명시된 보안요구사항을 준수한 작업장소를 제시할 수 있으며, 발주기관에서는 제시된 작업장소에 관하여 우선 검토함. 다만, 발주기관에서는 공급자가 제시한 작업장소가 보안요구사항을 준수하지 못한 경우 거부할 수 있음</td></tr>
+<tr><td colspan="2">산출정보</td><td colspan="2"></td></tr>
+<tr><td colspan="2">관련요구사항</td><td colspan="2"></td></tr>
+</table>
+
+8) 보안 요구사항
+
+<table>
+<tr><th colspan="4">요구사항 분류</th><th>보안 요구사항</th></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-01</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>보안 일반사항</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="3">정의</td><td>보안 준수 방안 제시</td></tr>
+<tr><td colspan="3">세부내용</td><td>ㅇ사업 전반에 대한 보안업무를 수행할 보안관리 책임자를 지정하고 국회기록원의 승인을 받아야 함<br>- 국회기록원 및 국회사무처 보안정책에 따른 관리적·기술적·물리적 보안 준수 여부 점검 및 보안대책 마련<br>- 대외비 문서, 개인정보가 포함된 자료 등의 관리<br>- 참여인력의 보안상태 점검, 대외비 취급관리 및 교육 등<br>- 「국회 정보보호 규정」준수<br>ㅇ본 사업 수행과정에서 발생하는 제반 안전 및 보안사고에 따른 행정적·기술적 제반비용과 문제처리는 사업수행사가 부담함</td></tr>
+<tr><td colspan="4">산출정보</td><td>보안관리 계획서, 보안점검 결과서, 교육확인서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-02</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>참여 인력 보안</td></tr>
+<tr><td rowspan="2">요구사항<br>상세설명</td><td colspan="3">정의</td><td>참여 인력에 대한 보안관리</td></tr>
+<tr><td colspan="3">세부내용</td><td>ㅇ사업수행 단계별 보안관리 방안을 구체적으로 제시하여야 함<br>- 사업착수 시: 개인의 친필 서명이 들어간 [별지 7호, 8호 서식]보안서약서(대표자용, 참여인력용)를 사업수행계획서에 첨부하여 제출<br>- 사업수행 시: 교체 인력에 대해서는 개인의 친필 서명이 들어간 보안서약서 제출<br>- 사업종료 시: 개인의 친필 서명이 들어간 [별지 9호, 10호 서식]보안확약서(대표자용, 참여인력용)를 종료보고서에 첨부하여 제출<br>ㅇ사업수행을 위해 투입되는 모든 인력은 신원조사를 위한 서류를 제출하여 신원조사에 응해야 하며, 조사결과 결격사유가 없어야 함<br>ㅇ정보시스템 접근이 필요한 경우에는 국회기록원의 사전승인을 득한 후 접근하여야 함<br>- 시스템 접근 권한 등을 승인받은 인력의 업무 변동이 있는 경우 국회기록원에 즉시 보고<br>ㅇ참여인원에 대한 비밀유지의무 준수 등 주기적으로 보안교육을 실시하여야 함<br>※ 고의로 국회기록원 정보시스템에 피해를 끼쳤을 경우 구상권 청구 및 처벌을 요구할 수 있음</td></tr>
+<tr><td colspan="4">산출정보</td><td>보안서약서, 보안확약서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-03</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>사업 수행장소 보안관리</td></tr>
+<tr><td colspan="2" rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td>사업 수행장소 보안관리 방안</td></tr>
+<tr><td colspan="2">세부내용</td><td>ㅇ사업 수행장소는 잠금장치를 설치하는 등의 비인가자의 출입통제 대책을 마련하여야 함<br>ㅇ사업수행사의 자체 보안관리 책임자는 사업수행사 사무실 또는 용역 업무를 수행하는 공간에 대한 보안점검을 정기적으로 실시하여야 함<br>- [별지 11호 서식]일별 보안점검표 및 [별지 12호 서식]월별 보안점검표에 따른 보안점검 수행<br>ㅇ사업수행 장소의 최종 퇴실자는 사무실의 자체 보안점검(PC OFF, 방치된 문서 제거 등)을 일별로 실시하여야 함</td></tr>
+<tr><td colspan="4">산출정보</td><td>일별 보안점검표, 월별 보안점검표</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-04</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>용역사업 관련 장비 보안관리</td></tr>
+<tr><td rowspan="2">요구사항<br>상세설명</td><td colspan="3">정의</td><td>용역사업 관련 장비 보안관리 방안</td></tr>
+<tr><td colspan="3">세부내용</td><td>ㅇ사업수행을 위해 반입된 장비(PC, 노트북 등)는 국회기록원의 보안 프로그램을 반드시 설치하여 내부 사용자 보안사항을 준수하여야 함<br>- 백신 등 PC보안프로그램의 설치 및 악성코드 감염 여부 필수 확인<br>- 인가받지 않은 무선공유기, 무선LAN, 보조저장매체(이동형 하드디스크, USB메모리 등) 및 공유폴더 사용 금지<br>ㅇ정보기기, 서버, 보조저장매체(이동형 하드디스크, USB 등) 등의 장비를 국회 외부로 반출할 경우 사전에 국회기록원에 통보하고 이에 대한 승인을 받아야 함<br>- 전자기록 저장매체에 기록된 자료는 무단반출 불가<br>- 반출 시에는 전자기록 저장매체에 기록된 관련 자료는 완전 삭제<br>ㅇ해킹, 바이러스 등으로 인한 침해사고에 대한 보안대책을 제안하여야 함<br>ㅇ비업무용 프로그램(P2P, 토렌트, 도박 등) 사용과 유해 사이트 접속 등 업무와 관련 없는 서비스는 사용하지 않음<br>ㅇ국회기록원으로 반입된 장비·매체 등은 자체 보안관리 책임자의 책임하에 조작·탈취되지 않도록 주의하여야 함</td></tr>
+<tr><td colspan="4">산출정보</td><td>정보기기 반출 확인서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-05</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>보안 위규관리</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="3">정의</td><td>보안 위규관리 방안</td></tr>
+<tr><td colspan="3">세부내용</td><td>ㅇ사업수행사는 사업수행에 필요한 인원, 자료, 장비 등의 보안관리계획을 수립하여 제시하여야 함<br>- 누출금지정보에 대한 보안관리 계획 기재<br>ㅇ사업수행사는 보안관련 요구사항을 준수하여야 하며, 국회기록원 및 국회사무처에서 운영하고 있는 보안규정을 따름<br>ㅇ사업수행사가 사업에 대한 하도급 계약을 체결할 경우 본 사업계약 수준의 보안 준수사항을 포함하여야 함<br>ㅇ사업수행사는 개인정보 처리 시 ｢개인정보 보호법｣ 등 관련 법규 및 규정을 준수하여야 함<br>ㅇ사업 수행에 사용되는 문서, 인원, 장비 등에 대하여 물리적, 관리적, 기술적 보안대책 및 [붙임 1] 누출금지 대상정보에 대한 보안관리 계획을 사업제안서에 기재하여야 함<br>ㅇ사업수행사가 [붙임 1] 누출금지 대상정보를 누출 시 국회기록원은 ｢국가를 당사자로 하는 계약에 관한 법률 시행령｣ 제76조에 따라 사업수행사를 부정당업체로 등록하여 입찰참가 자격이 제한될 수 있으며, 고의나 과실을 불문하고 사업수행사와 사업수행인력이 민·형사상의 모든 책임을 지도록 함<br>ㅇ국회기록원의 보안정책을 위반하였을 경우 사업수행사는 [붙임 2] 사업자 보안위반 처리기준에 따라 위반자 및 직속 감독자를 행정조치하고 손해배상 책임을 지며, [붙임 3] 보안 위약금 부과기준의 보안위약금을 납부하여야 함<br>ㅇ사업수행사는 보안사고(누출금지 대상정보 누출 등)로 인해 국회기록원에 손실이 발생한 경우 피해보상 및 손해배상 해야 하며, 국회기록원의 보안대책 강구 등에 소요되는 일체의 비용을 부담하여야 함</td></tr>
+<tr><td colspan="4">산출정보</td><td>보안관리계획</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-06</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>관리적 보안관리</td></tr>
+<tr><td colspan="3" rowspan="2">요구사항 상세설명</td><td>정의</td><td>관리적 보안 준수사항</td></tr>
+<tr><td>세부내용</td><td>ㅇ사업수행을 위해 제공된 내부 자료는 복사 및 외부 반출을 금지함<br>ㅇ사업수행기간 내 폐기대상 문서 등을 수시로 파기하여야 함<br>ㅇ업무자료를 전자우편으로 송·수신할 경우 상용메일 사용을 금지하고 첨부파일 암호화 등의 보안대책을 마련하여야 함<br>ㅇ사업과정에서 생산된 모든 산출물은 국회기록원에서 지정한 파일서버에 저장・관리하며 인터넷 웹하드, 웹메일 등 외부에 저장 및 전송을 금지함<br>- 대외비 자료 생성 시에는 대외비 자료 폴더에 저장<br>- 사업수행사 개인 PC 등에 따로 보관 불가<br>- 업무별로 지정된 사용자만이 접속이 가능하도록 접근 권한 제한</td></tr>
+<tr><td colspan="4">산출정보</td><td>보안관리매뉴얼, 보안관리 점검표, 보안교육계획서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-07</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>기술적 보안관리</td></tr>
+<tr><td colspan="3" rowspan="2">요구사항 상세설명</td><td>정의</td><td>기술적 보안 준수사항</td></tr>
+<tr><td>세부내용</td><td>ㅇ사업수행사는 사이버안전센터에서 실시하는 시스템 보안취약점 점검 작업에 협조하고, 각종 취약점 진단결과에 대해 이행계획을 수립하고 우선적으로 개선조치 하여야 함<br>ㅇ「행정기관 및 공공기관 정보시스템 구축·운영 지침」50조에 의거하여 ‘소프트웨어 개발보안’절차를 준수하여야 하며, 같은 지침 51조에 의거, ‘소프트웨어 개발 보안가이드’를 참고하여 투입되는 인력에 대해 개발 전 소프트웨어 개발보안 관련 교육을 실시하여야 함</td></tr>
+<tr><td colspan="4">산출정보</td><td>교육계획서·확인서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-08</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>물리적 보안관리</td></tr>
+<tr><td colspan="3" rowspan="2">요구사항 상세설명</td><td>정의</td><td>물리적 보안 준수사항</td></tr>
+<tr><td>세부내용</td><td>ㅇ사업 산출물 및 개인정보 등은 대외비로 분류하여 관리하고 별도의 잠금장치가 있는 캐비넷 등에 안전하게 보관하여야 함<br>- 대외비로 분류된 자료는 비인가자에게 제공·대여·열람을 금지함<br>- 대외비 자료 출력 시에는 출력물에 출력자, 출력일시 등을 표시하여야 함</td></tr>
+<tr><td colspan="4">산출정보</td><td>[별지 13호 서식] 자료관리대장</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-09</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>내·외부망 접근에 대한 보안관리</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="3">정의</td><td>내·외부망 접근에 대한 보안관리</td></tr>
+<tr><td colspan="3">세부내용</td><td>ㅇ사업 수행 시 국회 내부망에 대한 접속은 반드시 국회기록원의 승인을 득한 후 접속하여야 함<br>- 시스템 접속 등을 위해 사용자 계정 필요시에는 사용기간을 기입하여 계정을 신청하며, 필요이상의 접근 권한을 요구하지 않음<br>ㅇ사업 수행 인력에 대한 사용자 계정(ID)은 계정별로 정보시스템 접근권한을 부여(공동계정 사용불가) 하여야 함<br>ㅇ계정별로 부여된 접속 권한은 사용이 종료된 경우 곧바로 권한을 해지하거나 폐기하여야 함<br>ㅇ사업 수행 인력에게 부여한 패스워드는 사업수행사의 자체 보안관리 책임자가 별도로 기록 관리하고 수시로 해당 계정의 작업이력 등을 확인하여야 함<br>ㅇ사업 수행 인력이 사용하는 정보기기는 인터넷 연결을 금지함. 다만, 사업 수행 상 필요한 경우는 국회기록원 담당자에 요청하여, 승인을 득한 후 사용하여야 함</td></tr>
+<tr><td colspan="4">산출정보</td><td>계정신청서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-10</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>DB 접근권한 통제</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="3">정의</td><td>DB 접근권한 통제 관리</td></tr>
+<tr><td colspan="3">세부내용</td><td>ㅇDBMS 접근 시<br>- 접근자 IP, DB정보, 계정, 사용목적, 사용기간 등을 기입한 DB접근 요청서를 국회기록원에 제출하여 승인받은 후 사용</td></tr>
+<tr><td colspan="4">산출정보</td><td>DB접근 요청서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>보안 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>SER-11</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>시스템 보안관리</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="3">정의</td><td>시스템 보안관리</td></tr>
+<tr><td colspan="3">세부내용</td><td>ㅇ계정 및 권한 관리<br>- 기본 관리자 계정(admin 등)은 삭제 또는 비활성화 후 고유한 신규 관리자 계정 생성<br>- 비밀번호 생성규칙(영문, 숫자, 특수문자 조합 등)을 준수하고 추측이 어려운 비밀번호 설정<br>- 사용자 및 관리자의 역할에 따라 접근 권한 세분화하여 부여<br>ㅇ네트워크 접근 제어<br>- 필수 서비스 포트(HTTPS 등) 외의 모든 인바운드 트래픽은 기본 차단<br>- SSH, RDP 등 관리용 포트는 지정된 단말 IP에서만 접속 적용<br>- 모든 원격 접속 시 암호화 통신(SSH 또는 HTTPS) 사용<br>ㅇ시스템 운영 및 감사<br>- 시스템 및 관리자 웹 접속에 대한 로그 생성·관리<br>- 일정 기간 미사용 시 관리화면 자동 잠금 또는 로그아웃 처리<br>- 동일 계정의 동시 접속 제한 및 동시 쓰기 방지 기능 적용<br>- 최신 보안 패치 상시 적용 및 주기적인 취약점 점검·조치<br>ㅇ악의적인 백도어 설치 금지<br>ㅇ가상화 보안관리<br>- 가상화 운영에 필수적이지 않은 API, 외부 쉘 접속 등의 불필요한 서비스 조사 후 비활성화 처리<br>- 동일한 물리 서버 내에 가상머신(VM)간에 인가되지 않은 직접 통신 차단<br>- 솔루션 제조사가 권고하는 가상화 보안 가이드라인의 최상위 수준 검토 후 시스템 구축 시 일괄 적용</td></tr>
+<tr><td colspan="4">산출정보</td><td>취약점 점검 결과 보고서, 방화벽정책요청서, 무결성확인서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+</table>
+
+9) 프로젝트 관리 요구사항
+
+<table>
+<tr><th colspan="3">요구사항 분류</th><th colspan="2">프로젝트 관리 요구사항</th></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PMR-01</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">사업관리자(PM)</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">사업관리자(PM)</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ사업관리자(PM)는 반드시 주사업자 소속이여야 하며, 본 사업을 총괄할 수 있는 전문 인력으로 사업 전 기간 동안 상주하여야 함<br>- 기술평가 시 제안서를 발표하는 당사자로 전체 사업을 총괄하고 관련 지식과 경험을 보유한 전문인력으로 제안<br>- 공동수급(공동이행방식)으로 제안할 경우‘사업지분율이 제일 높은 사업자’의 정규직 관리자로 선정(권고사항)</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">사업수행계획서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>프로젝트 관리 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>PMR-02</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>공동수급형태의 제안</td></tr>
+<tr><td colspan="2" rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td>공동수급형태 구성 요건</td></tr>
+<tr><td colspan="2">세부내용</td><td>ㅇ공동수급 형태로 제안할 경우 주사업수행사와 부사업수행사 간의 업무수행범위 및 책임한계를 상세히 정의하고 주사업수행사가 조직 운영 방안을 제안하여야 함<br>ㅇ(계약예규)｢공동계약운용요령｣에 따라 공동계약이행을 허용함</td></tr>
+<tr><td colspan="4">산출정보</td><td>사업수행계획서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>프로젝트 관리 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>PMR-03</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>하도급 관리방안</td></tr>
+<tr><td colspan="2" rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td>하도급 관리방안 제안</td></tr>
+<tr><td colspan="2">세부내용</td><td>ㅇ사업수행사(공동수급체를 구성하는 경우 공동수급원 포함) 소속 이외의 인력은 하도급으로 간주하며, 하도급 계약 시 관계 법률에 의하여 국회기록원의 사전 승인을 받아야 함<br>- 하도급계약 승인신청서, 하도급계약서, 하도급적정성 판단 자기평가표, 하도급대금 지급비율 명세서 등의 신청서류를 제출하여야 함<br>- 하도급 업체 투입 인력에 대한 관리방안을 제시하여야 함<br>- 「행정기관 및 공공기관 정보시스템 구축·운영 지침」에 따라 하도급 대금지급 기준을 준수하여야 함<br>ㅇ｢소프트웨어 진흥법｣ 제51조에 따라 다음 사항을 준수하여야 함<br>- 사업예산의 50%를 초과한 하도급을 금지함<br>- 재하도급을 금지함(일부 예외는 관련법령에 따름)<br>ㅇ｢소프트웨어사업 계약 및 관리감독에 관한 지침｣ (과학기술정보통신부고시)을 준용하여 하도급계약의 적정성을 판단함<br>※ [붙임 5]「하도급계약의 적정성 판단 세부기준」참조</td></tr>
+<tr><td colspan="4">산출정보</td><td>사업수행계획서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">프로젝트 관리 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PMR-04</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">사업수행 조직의 구성</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">프로젝트 수행 시 사업수행 조직의 구성</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ본 사업의 안정적 운영을 위한 사업수행 조직 구성방안을 제안하여야 함<br>- 일정별/단계별 인력투입 계획 및 역할, 투입시기 등<br>ㅇ추진조직 외에 본 사업을 성공적으로 수행할 수 있도록 지원 또는 자문조직의 구성을 제시할 수 있으나, 수행 역할과 결과물이 명확해야 함<br>ㅇ제안서에 제시한 투입조직은 제안사(공동수급체 포함)의 인력으로 구성하여야 하며, 변경이 필요한 경우 발주기관에 즉시 보고 후, 동의를 얻어 동급 이상의 대체인력이 최소 2주 이상 전임자에게 업무인수를 받도록 하여야 함<br>※ 인력교체에 따른 인수인계 기간은 사업투입기간에 산입하지 않음<br>ㅇ발주기관은 사업 진행 중 품질저하 현상이 발생할 경우 투입인력 교체나 추가 인력 투입을 요청할 수 있으며, 제안사는 해당 요청을 즉시 이행하여 품질 제고에 만전을 기하여야 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">프로젝트추진 구성, 프로젝트 역할 정의(사업수행계획서에 포함), 투입인력별 자격사항, 유사사업 참여실적 증명 서류</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">프로젝트 관리 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PMR-05</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">사업관리방법</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">체계적인 사업관리 방안 제안</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ위험관리, 품질관리, 일정관리, 자원관리, 형상관리 등 프로젝트 관리 방법론을 통한 체계적인 사업 관리 방안을 제안하여야 함<br>ㅇ본 사업 수행기간 동안 사업 전반의 표준절차 및 표준서식을 수립하여 수행하여야 함<br>ㅇ사업범위 및 내용이 변경될 경우 과업변경 절차에 따라 상호 협의하여 결정하여야 함<br>ㅇ사업수행사와 상용SW 직접구매 공급자간 구체적인 상호협력방안을 제시함<br>※ 직접구매 SW도입시점에 통합발주 사업자는 상용SW 공급자와 협의하여 상호협약서와 사업자간 책임 및 역할 분담표 제출<br>ㅇ사업을 기간 내에 완수하기 위한 단계별 추진일정 및 세부 활동 내용 등이 포함된 일정계획을 제안하여야 함<br>- 사업추진 일정이 변경될 경우 사업수행사는 추진일정 변경 사유와 변경 내용에 대해 국회기록원에 보고하고 협의하여 확정함<br>ㅇ본 사업의 수행 시 발생 예상되는 쟁점 및 미결사항에 대한 관리, 이슈 사항 등 각종 위험에 대한 통제 및 위험관리 방안을 제안하며, 문제가 해결될 때까지 관리하고, 추적 방안을 제안하여야 함<br>ㅇ국회사무처 및 국회도서관의 정보시스템 관련 유지보수, 사이버안전센터와의 상호협력 방안을 마련하고, 사업수행의 위험 최소화를 위한 의사소통체계를 유지하여야 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">사업수행계획서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">프로젝트 관리 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PMR-06</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">정기보고 및 수시보고</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">정기보고 및 수시보고 방안 제안</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ사업진행에 대한 업무내용, 진척사항, 기타 특기사항을 기록한 업무일지를 작성하여 주간, 월간 단위로 작성·제출하여야 함<br>ㅇ착수보고회, 완료보고회를 실시할 수 있으며, 발표 및 단계별 보고서를 제출하여야 함(협의를 통해 조정 또는 생략 가능)<br>ㅇ원활한 과업 추진을 위해 필요시 이슈사항 및 대안 등에 대한 비정기적인 보고 요청에 응하여야 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">사업수행계획서, 주간/월간보고서, 착수/완료보고서, 이슈보고서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">프로젝트 관리 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PMR-07</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">산출물 관리</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">산출물 관리</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ사업추진과정에서 생산되는 제반 작업 단위별 산출물에 대하여 작업 일정계획 및 품질보증계획과 연계하여 산출물의 종류, 주요내용, 작성 및 제출시기, 제출 부수, 제출매체 등을 제안하여야 함<br>- 산출물 및 각종 워크시트의 관리방안 제안<br>- 산출물 제출 시기는 사업추진 공정, 품질보증 계획과 연계<br>- 사업 완료시 제출하는 최종 결과물은 국회기록원의 승인을 득한 후 산출물과 같이 제출해야 하고, 프로그램 소스에 대한 형상관리가 가능하도록 해야 함<br>ㅇ사업수행계획서는 계약 체결 후 10일 이내에 제출해야 하며, 다음 내용을 포함시켜야 함<br>- 산출물의 종류, 내역, 제출시기, 제출부수 등을 기술한 산출물 계획<br>- 의사결정 지연 등 사업진행 중 발생 가능한 위험에 대한 위험관리계획<br>- 책임자 및 사업 참여 전체인원에 대한 보안각서<br>- 주간, 월간 보고를 포함한 보고계획 등<br>ㅇ사업완료 후 검사 요청 전까지 계획서에 표기된 산출물을 제출해야 하며 다음을 반드시 포함하여야 함<br>- 요구사항 추적표, 과업대비표<br>- 테스트계획서 및 시나리오, 테스트결과서<br>- 완료보고서(구성도 포함)<br>- 사업 중 추가 또는 교체 투입된 인원에 대한 보안각서<br>- 운영자 매뉴얼, 관리자 매뉴얼(표준운영절차 포함)<br>- 라이선스 및 기술지원확약서<br>- 산출내역서<br>- 하자보수 수행 확약서 등<br>ㅇ사업 완료 시 최종 결과물(각 산출물 및 프로그램 소스코드 등)은 국회기록원에서 요구하는 매체(외장형 HDD 등)로 2식 제출함<br>- ｢용역계약일반조건｣에 따라 최종 결과물의 사용(기능개선, 재개발, 유지보수)을 위하여 프로그램 소스코드 전체를 제출</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">사업수행계획서, 사업 관련 각종 산출물 등</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">프로젝트 관리 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PMR-08</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">검사</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">검사 요건</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ검사는 준공검사요청서 접수일로부터 14일 이내에 실시<br>- 제안요청서, 제안서, 협상 결과, 계약서, 사업수행계획서 등과 일치하지 않을 경우 지체 없이 보완 후 재검사를 받아야 함<br>- 국회사이버안전센터를 통한 보안 취약점 점검 수행 후, 결과에 따른 취약점 제거 조치를 완료 후 검사</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">사업수행계획서, 완료보고서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+</table>
+
+10) 프로젝트 지원 요구사항
+
+<table>
+<tr><th colspan="3">요구사항 분류</th><th colspan="2">프로젝트 지원 요구사항</th></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PSR-01</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">기술이전</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">기술이전</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ본 사업과 관련하여 신규 도입된 H/W, S/W의 운영·관리에 필요한 기술을 이전하여야 하며 기술이전 대상 및 방법 등을 구체적으로 제안·지원하여야 함<br>ㅇ국회기록원이 본 사업과 관련된 시스템을 무상하자보수기간 중 이전·확장하거나 타 시스템과의 연계 등이 필요할 경우, 관련 기술을 지원하여야 함<br>ㅇ본 사업 관련 분야의 정보기술에 대한 지속적인 정보제공 및 기술자문에 응해야 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2"></td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">프로젝트 지원 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PSR-02</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">하자보수 일반</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">하자보수 일반</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ사업 대상 전체의 무상 하자보수기간은 검사완료일로부터 12개월로 함<br>ㅇ무상 하자보수 지원방안을 지원범위, 방법, 담당자를 포함하여 분야별로 상세하게 구분하여 제시하여야 함<br>ㅇ무상 하자보수 기간 중 사업수행사가 수행한 신규도입 및 이전 정보자원(H/W, S/W)에 의한 시스템의 결함 등 하자가 발견될 경우, 4시간 이내에 필요한 조치를 취하여 문제를 해결하여야 함<br>※ 4시간 이내 조치가 불가능한 경우 국회기록원과 협의하여 조치<br>ㅇ하자보수 기간 중에도 보안취약점이 발견될 경우 조치하여야 함<br>ㅇ하자보수 범위를 초과하여 유상으로 처리되는 유지보수 사항에 대해서는 대상범위와 유상처리 기준을 명확하게 제시하여야 함<br>ㅇ하자보증 기간에 최종결과물에 품질이상이 있을시 즉시 용역수행업체는 결과물을 보완하여야 함</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">하자보수확약서, 유지관리확약서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="4">요구사항 분류</td><td>프로젝트 지원 요구사항</td></tr>
+<tr><td colspan="4">요구사항 고유번호</td><td>PSR-03</td></tr>
+<tr><td colspan="4">요구사항 명칭</td><td>백업·복구 및 장애 대응</td></tr>
+<tr><td colspan="2" rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td>백업·복구 및 장애 대응</td></tr>
+<tr><td colspan="2">세부내용</td><td>ㅇ백업 장비 도입 및 백업체계 구축<br>- 본 사업에 포함된 백업 장비를 도입·구성하고, 정보시스템 및 데이터 보호를 위한 백업체계 구축 수행<br>- 백업 대상, 백업 주기, 보관 기간, 백업 방식, 저장 위치 및 복구 절차 등을 포함한 백업 정책 수립<br>백업 장비, 백업 소프트웨어, 저장소 및 대상 시스템 간 연계 구성 수행<br>백업 작업이 수행되는 시간 외에는 대상 시스템과 백업 장비 간 불필요한 네트워크 연결이 유지되지 않도록 논리적 연결 분리 적용<br>ㅇ전체 백업 및 증분 백업 수행<br>이관 완료 후 신규 운영환경의 정보시스템 및 데이터를 대상으로 최초 1회 전체 백업 수행(시스템 영향도 최소화)<br>최초 전체 백업 이후 변경분에 대한 증분 백업을 반영하여 최신 상태의 전체 백업본 생성·관리<br>백업본 생성 시 네트워크 대역폭 점유를 최소화하고, 백업 장비 내 리소스를 활용하여 백업본 생성·관리<br>백업 수행 결과 및 백업 데이터의 정상 생성 여부 확인 수행<br>ㅇ복구 및 장애 대응 조치<br>정보시스템 및 데이터 이관 과정에서 장애, 데이터 오류, 시스템 오류 또는 서비스 전환 문제가 발생할 경우에 대비한 백업·복구 절차 마련<br>이관 과정 또는 안정화 기간 중 장애 발생 시 백업 데이터를 활용하여 정상 상태로 복구 조치 수행<br>복구 시 최신 전체 백업본을 활용하여 신속한 복구가 가능하도록 복구 절차 및 환경 구성<br>백업·복구 수행 결과 및 조치내역을 관련 산출물에 반영</td></tr>
+<tr><td colspan="4">산출정보</td><td>백업·복구 계획서, 백업·복구 수행 결과보고서</td></tr>
+<tr><td colspan="4">관련요구사항</td><td></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">프로젝트 지원 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PSR-04</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">안정화 활동</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">안정화 활동</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ이관 후 안정화 활동 수행<br>- 이관된 정보시스템의 정상 동작 여부를 충분히 확인하고 장애 요소를 점검·조치하여 정보서비스가 안정적으로 제공될 수 있도록 안정화 활동 수행<br>- 정보시스템 이관 완료 후 국회기록원과 안정화 일정, 기간, 방법 등을 협의하여 모니터링 수행<br>- 안정화 기간 중 발생하는 장애, 오류, 성능저하, 연계 오류 등에 대한 원인 확인 및 조치 수행<br>ㅇ국회사무처 및 국회도서관 유지보수·기술지원 협력사 협조하여 시스템 장애 예방 및 장애 대응 수행<br>ㅇ안정화 기간 중 발생한 주요 이슈, 조치내역 및 잔여사항을 관련 산출물에 반영</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">안정화 계획서</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+<tr><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">요구사항 분류</td><td colspan="2">프로젝트 지원 요구사항</td></tr>
+<tr><td colspan="3">요구사항 고유번호</td><td colspan="2">PSR-05</td></tr>
+<tr><td colspan="3">요구사항 명칭</td><td colspan="2">교육훈련</td></tr>
+<tr><td rowspan="2">요구사항 상세설명</td><td colspan="2">정의</td><td colspan="2">교육훈련 일반</td></tr>
+<tr><td colspan="2">세부내용</td><td colspan="2">ㅇ본 사업과 관련하여 신규 도입된 정보자원의 운영에 대해 관리자, 운영자별로 필요한 교육을 실시하여야 하며 교육계획서를 작성하여 국회기록원에 제출, 승인을 받아야 함<br>- 교육 훈련에 대한 목적 및 내용, 교육대상, 방법, 일정 등 제안<br>- 시스템 구성, 장애 대처 방법, 기타 시스템 운영에 관한 사항 포함<br>ㅇ관리자, 운영자별로 도입제품에 대한 기본교육에서 운영교육까지 실시하되 교육내용, 인원, 일정, 장소 등에 대한 구체적인 내용을 국회기록원과 협의를 거쳐 결정하고 이를 수행하여야</td></tr>
+<tr><td colspan="3">산출정보</td><td colspan="2">교육훈련 계획서·결과서, 관리자·운영자매뉴얼</td></tr>
+<tr><td colspan="3">관련요구사항</td><td colspan="2"></td></tr>
+</table>
+
+<table>
+<tr><th>5</th><th></th><th colspan="2">제안서 작성요령</th></tr>
+</table>
+
+가. 제안서의 효력
+
+제안서에 제시된 내용과 국회기록원요구에 의하여 수정, 보완, 변경된 제안내용은 계약서에 명시하지 아니하더라도 계약서와 동일한 효력을 가짐. 다만, 계약서에 명시된 경우는 계약서가 우선함
+
+국회기록원은 필요시 사업수행사에 대하여 자료를 요구할 수 있으며, 이에 따라 제출된 자료는 제안서와 동일한 효력을 가짐
+
+나. 제안서 작성지침(권장사항) 및 유의사항
+
+제안서는 제안요청서에서 요구하는 모든 사항이 기술되어야 하며, 향상된 내용으로 제안할 수 있음
+
+제안서는 제안요청서 상의 제안서 목차 및 제안서 세부작성지침을 준용하여 각각 세분하여 누락 없이 작성하고, 기술할 내용이 없는 경우에는 “해당 없음”으로 표기하여야 함
+
+A4지 규격의 전자문서(pdf)로 작성
+
+- 제안서 본문 내용은 양면인쇄기준 100장 이내로 작성 권장
+- 전자문서형태(pdf)로 제출하며 300MB 이내로 용량 준수
+- 제안설명시 홍보용 동영상활용 금지
+
+제안요청서의 요구항목들이 제안서의 어느 부분에 기술되었는지 [별지 1호 서식] 제안요청 준수표를 작성하여 제안서 제일 앞 페이지에 첨부하여야 함
+
+제안서는 A4 종 방향 작성을 원칙으로 하되, 부득이한 경우 A4 횡 또는 기타 용지를 일부 사용할 수 있음
+
+제안서의 각 페이지는 쉽게 참조할 수 있도록 페이지 하단 중앙에 일련번호를 붙이되, 각 장별로 번호를 부여함
+
+제안서는 한글작성이 원칙이며, 사용된 영문약어에 대해서는 약어표를 제공해야 함
+
+제안서의 내용을 객관적으로 입증할 수 있는 관련 자료는 제안서의 별첨으로 제출하여야 함
+
+제안서의 내용은 명확한 용어를 사용하여 표현하여야 함. 예를 들어, “사용가능하다”, “할 수 있다”, “고려하고 있다” 등과 같이 모호한 표현은 평가 시 불가능한 것으로 간주하며, 계량화가 가능한 것은 계량화하여야 함
+
+다. 제안서 목차(권장사항)
+
+Ⅰ. 일반현황
+**1. 제안사 일반현황**
+**2. 제안사의 조직 및 업무분장**
+**3. 투입인력 및 이력사항**
+Ⅱ. 전략 및 방법론
+**1. 사업이해도**
+**2. 추진전략**
+Ⅲ. 수행방안
+**1. 시스템 장비 구성 요구사항**
+**2. 기능 요구사항**
+**3. 데이터 요구사항**
+Ⅳ. 성능 및 품질
+**1. 테스트 요구사항**
+**2. 성능 요구사항**
+**3. 품질 요구사항**
+**4. 제약사항**
+**5. 보안 요구사항**
+Ⅴ. 프로젝트 관리
+**1. 관리방법론**
+**2. 일정계획**
+**4. 하도급계획**
+Ⅵ. 프로젝트지원
+**1. 기술이전 및 교육훈련**
+**2. 하자보수 및 안정화**
+
+제안사가 중요하다고 생각되는 목차 및 내용 추가 가능
+
+라. 제안서 세부 작성지침(권장사항)
+
+<table>
+<tr><th>항 목</th><th>작성방법</th></tr>
+<tr><td colspan="2">Ⅰ. 일반현황</td></tr>
+<tr><td>1. 제안사<br>일반현황</td><td>제안사의 일반현황 및 주요 연력, 최근 3년간의 자본금 및 부문별(컨설팅, 개발 등) 매출액, 유사사업실적 등을 명료하게 제시하여야 한다. [별지 2~4호 서식]<br>- 본 사업과 관련이 있는 3년 이내의 유사사업실적 제시</td></tr>
+<tr><td>2. 제안사의 조직 및 업무분장</td><td>본 사업을 수행할 조직 및 업무분장 내용을 상세히 제시하여야 한다.<br>- 사업관리자(PM) 공고일 전부터 제안서평가일 까지 계속 재직자<br>- 컨소시엄 업체가 있는 경우 업무분장 내역에 공동수급업체별 참여비율을 명시<br>- 하도급 의사가 있는 경우, 해당 업무 및 (예상)하도급 업체를 제안</td></tr>
+<tr><td>3. 투입인력 및 이력사항</td><td>본 사업을 수행할 참여인력(PM)을 포함한 핵심인력에 대한 이력사항을 제시하여야 한다.<br>- ｢조달청 협상에 의한 계약 제안서평가 세부기준｣제10조의4 제3항 제5호에 명시된 증빙서류 제출<br>※ 단, 상용S/W, 패키지 등의 서비스 지원인력, 외부 자문인력 등 통상적인 개발인력이 아닌 경우는 제시하지 말 것<br>※ 제안요청 내용과 연관 없는 불필요한 학력사항이나, 자격사항은 배재</td></tr>
+<tr><td colspan="2">Ⅱ. 전략 및 방법론</td></tr>
+<tr><td>1. 사업 이해도</td><td>제안사는 해당사업의 제안요청 내용을 명확하게 이해하고 본 제안의 목적, 범위, 전제조건 및 제안의 특징 및 장점을 요약하여 기술하여야 한다. 목표시스템 구성도 및 구성 체계를 제안하여야 한다.</td></tr>
+<tr><td>2. 추진전략</td><td>제안사는 사업을 효과적으로 수행하기 위한 추진전략(위험요소를 고려하여 창의적이고 타당한 대안)을 제안하여야 한다.</td></tr>
+<tr><td colspan="2">Ⅲ. 수행방안</td></tr>
+<tr><td>1. 시스템 장비구성 요구사항</td><td>시스템을 하드웨어부문, 소프트웨어 부문, 기타부문 등으로 구분하여 각 구분별 구성장치의 규격, 기능, GS인증제품 등을 제안하고 도입장비의 설치 및 공급계획, 도입 장비의 유지보수 방안을 기술하여야 한다.(특히, 장비의 제안 규격을 명확히 제시)</td></tr>
+<tr><td>2. 기능 요구사항</td><td>정보시스템 이관 및 커스터마이징을 위한 방안을 구체적으로 제안하여야 한다.</td></tr>
+<tr><td>3. 데이터 요구사항</td><td>시스템 이관에 따른 데이터 이관 및 검증 방안을 구체적으로 제안하여야 한다.</td></tr>
+<tr><td colspan="2">Ⅳ. 성능 및 품질</td></tr>
+<tr><td>1. 테스트<br>요구사항</td><td>- 구축된 시스템이 목표 대비 제대로 운영되는가를 테스트하고, 점검하기 위한 테스트 요구사항을 기술한다.<br>- 단위테스트, 통합테스트, 모의훈련 등에 대한 환경, 방법, 절차 등을 제안하여야 한다.</td></tr>
+<tr><td>2. 성능<br>요구사항</td><td>- 도입 장비(소프트웨어, 하드웨어 등)의 성능 요구사항을 충족할 수 있는 성능 지표 설정, 목표치 설정 및 성능 측정 방법을 기술하여야 한다.</td></tr>
+<tr><td>3 품질<br>요구사항</td><td>- 품질 요구사항을 아래 항목에 포함하여 작성하여야 한다.<br>- 각 단계별 품질 요구사항의 점검 및 검토 방안을 구체적으로 제안하여야 한다.<br>- 검증조직을 포함한 검증 전략 및 계획을 제시하여야 한다.</td></tr>
+<tr><td>3 제약사항</td><td>- 사업수행사는 공통 지침 준수, 개인정보 및 지적재산권 보호 등을 위한 사업수행방안을 제안하여야 한다.</td></tr>
+<tr><td>4. 보안 요구 사항</td><td>- 사업수행 단계별 보안관리 체계, 관리적·물리적·기술적 보안관리 계획 및 방안을 제안하여야 한다.<br>- DB 접근권한 통제 및 시스템 보안정책 적용계획을 통한 보안성 확보방안을 구체적으로 제시하여야 한다.</td></tr>
+<tr><td colspan="2">Ⅴ. 프로젝트 관리</td></tr>
+<tr><td>1. 관리방법론</td><td>- 프로젝트 관리 요구사항을 관리방법론, 일정계획 항목에 포함하여 작성하여야 한다.<br>- 사업위험, 사업진도, 사업수행시 보안을 관리하는 방법, 사업수행 성과물이나 산출물의 형상 및 문서를 관리하는 방법 등을 구체적으로 제시하여야 한다. 또한, 문제발생시 보고 체계 및 위험관리 방안을 구체적으로 제안하여야 한다.<br>※ 분리발주 사업이 있는 경우, 분리발주사업자와의 구체적인 협력방안 제안</td></tr>
+<tr><td>2. 일정계획</td><td>- 사업수행에 필요한 활동을 도출하여 정확한 활동 기간, 자원, 인력, 조직 등을 제안하여야 한다.</td></tr>
+<tr><td>3. 하도급 계획</td><td>- 사업수행사는 하도급 계획이 있는 경우, 관련 규정에 따라 하도급 금액 비율, 재하도급 여부 등을 기술하여야 한다.</td></tr>
+<tr><td colspan="2">Ⅵ. 프로젝트 지원</td></tr>
+<tr><td>1. 기술이전 및 교육훈련</td><td>- 신규 도입된 H/W, S/W의 운영·관리에 필요한 기술을 이전하여야 하며 기술이전 대상 및 방법 등을 구체적으로 제안하여야 한다.<br>- 사용자, 관리자 등 업무 대상자별로 구분하여 교육훈련 방법, 내용, 교육일정, 교육훈련 조직 등을 상세히 제안하여야 한다.</td></tr>
+<tr><td>2. 하자보수 및 안정화</td><td>- 하자보수 계획, 조직, 절차, 기간, 범위 및 안정화 지원 방안 등의 구체적인 내용과 이와 관련된 기타의 활동 등을 종합적으로 제안하여야 한다.</td></tr>
+</table>
+
+<table>
+<tr><th>6</th><th></th><th colspan="2">제안안내사항</th></tr>
+</table>
+
+가. 입찰방식
+
+(1) 사업자 선정 방식
+
+｢국가를 당사자로 하는 계약에 관한 법률 시행령｣ 제43조(협상에 의한 계약체결) 및 제43조의2(지식기반사업의 계약방법)에 의거 ｢협상에 의한 계약체결｣ 적용
+
+계약체결에 필요한 세부적인 사항은 재정경제부 계약예규 ｢협상에 의한 계약체결기준｣ 적용
+
+(2) 입찰 참가자격 : 입찰공고문 참조
+
+｢국가를 당사자로 하는 계약에 관한 법률｣ 제 27조 및 동법 시행령 제 76조(부정당업자의 입찰참가자격 제한)에 해당되지 않은 업체
+
+※ 입찰등록마감일 현재 부정당업체로 등록되어 있지 않은 자
+
+｢국가를 당사자로 하는 계약에 관한 법률｣ 시행령 제12조(경쟁 입찰의 참가자격) 및 동법 시행규칙 제14조(입찰참가자격요건의 증명) 규정에 의한 경쟁 입찰 참가자격을 갖추어야 하며, 조달청 입찰참가 자격등록증 소지업체이여야 함
+
+※ 미등록업체는 입찰서 제출 마감일 전일까지 국가종합전자조달시스템에 입찰참가 이용자 등록을 하여야 함
+
+사업자는 「소프트웨어 진흥법」제24조에 의한 소프트웨어사업자(컴퓨터관련서비스사업, 업종코드:1468)로 등록되어 있는 업체이어야 함
+
+사업자는 「정보통신공사업법」제14조에 의한 정보통신공사업자(정보통신공사업, 업종코드:0036)로 등록되어 있는 업체이어야 함
+
+본 사업은 40억원 이상 80억원 미만 사업으로 「소프트웨어 진흥법」 제48조 및 「중소 소프트웨어사업자의 사업 참여 지원에 관한 지침」(과학기술정보통신부 고시)에 따라 매출액 8천억원 이상인 대기업 및 상호출자제한기업집단 소속회사 참여 불가
+
+하도급의 경우 ｢소프트웨어 진흥법」 제51조 및 동법 시행규칙 제14조, ｢소프트웨어사업 계약 및 관리감독에 관한 지침」(과학기술정보통신부고시)의 규정에 의하여 반드시 하도급 계약 전에 수요기관으로부터 서면으로 사전승인을 받아야 함
+
+※ 하도급 계획이 없는 경우 ‘하도급 계획없음’ 명기
+
+※ 하도급의 경우 일부사업에 한하여 가능하며, 본 사업의 전부를 하도급 또는 재하도급 할 수 없음
+
+｢공동계약운용요령」에 의하여 계약이행에 필요한 자격요건을 갖춘 사업자간의 공동이행방식의 공동수급 가능하며 공동수급업체구성원은 「국가를 당사자로 하는 계약에 관한 법률 시행령」제12조 및 동법 시행규칙 제14조 규정에 저촉되지 않아야 하며, 공동수급 참여자는 입찰참가자격을 충족하여야 함
+
+※ 공동수급체는 5개 이하로 구성해야 하며, 구성원별 계약참여 최소지분율은 10% 이상으로 하여야 함[공동계약운용요령(기획재정부 계약예규) 제9조 참조]
+
+※ 공동수급체를 중복 결성하여 입찰에 참여할 수 없음
+
+※ 공동수급체를 구성하여 입찰에 참여할 경우, 공동수급협정서를 나라장터에 전자로 제출하여야 함
+
+나. 제안서 평가 방법
+
+(1) 기술평가와 가격평가를 실시하여 종합평가점수로 평가
+
+① 평가비율 : 기술평가(90%), 가격평가(10%)
+
+※ 기술평가 : 정량적 평가 10점, 정성적 평가 80점
+
+② 종합평가점수 = 기술평가점수 + 입찰가격 평가점수
+
+(2) 기술평가 방법
+
+① 조달청 기술평가위원회에서 실시함
+
+② 각 항목별 평가배점과 방법은 『다. 기술성평가기준』에 의함
+
+③ 본 사업은 기획재정부 계약예규「협상에 의한 계약체결기준」제7조 제6항, 과학기술정보통신부고시 「소프트웨어 기술성 평가기준 지침」제4조 제5항,「조달청 협상에 의한 계약 제안서평가 세부기준」제9조 제10항 별표19에 따른 차등점수제(순위 간 점수차 1.5점)를 적용하여 평가함
+
+- 협상적격자는 입찰가격이 해당 사업금액 이하인 자로서 원기술능력평가 점수가 기술능력평가 분야 배점한도의 85%이상인 자에서 선정함
+
+- 제안서 기술능력평가 결과 순위에 따라 제안사의 순위를 정하고, 기술능력평가 결과 1순위자의 기술능력평가 점수는 배점한도를 부여하되, 차순위자 부터는 순차적으로 순위 간 점수차를 감한 점수를 부여함
+
+- 다만, 선순위와 후순위의 점수차(원점수차)가 순위 간 점수차(1.5점) 보다 큰 경우, 원점수차를 유지함
+
+(3) 우선협상대상자 선정 및 계약체결
+
+① 협상대상자 중 기술평가점수와 가격평가점수를 합한 종합평가점수의 고득점 순으로 협상을 통해 사업자를 선정
+
+② 협상순서는 제1항에 따른 협상적격자의 기술능력평가 점수와 입찰가격평가 점수를 합산하여 합산점수의 고득점순에 따라 결정한다. 다만, 합산점수가 동일한 제안자가 2인 이상일 경우에는 기술능력 평가점수가 높은 제안자를 우선순위자로 하고, 기술능력 평가점수도 동일한 경우에는 기술능력의 세부평가항목 중 배점이 큰 항목에서 높은 점수를 얻은 자를 우선순위자로 함
+
+③ 협상대상자와 협상이 모두 결렬되면 재공고하여 재입찰 추진
+
+④ 기타 규정되지 않은 사항은 조달청 규정에 의함
+
+다. 기술성 평가기준
+
+[기술제안서 평가항목 및 배점한도]
+
+<table>
+<tr><th>구분</th><th>평가항목</th><th>세부평가항목</th><th>평가기준</th><th>배점</th></tr>
+<tr><td rowspan="14">정성평가부문<br>(80)</td><td rowspan="4">전략 및<br>방법론<br>(25)</td><td>사업이해도</td><td>사업수행계획이 사업의 목표 및 특성에 부합하게 구체적이고 적절한지 평가한다.</td><td>5</td></tr>
+<tr><td>추진전략</td><td>사업수행 일정과 위험요소를 고려한 추진전략 수립의 타당성을 평가한다.</td><td>5</td></tr>
+<tr><td>추진체계</td><td>사업 특성과 제안한 추진전략에 따른 수행조직(전문업체, 기술지원업체, 공동수급체 및 하도급 등) 구성과 참여 조직간 역할, 책임, 품질 확보 및 협력 방안이 구체적이고 적절한지 평가한다.</td><td>10</td></tr>
+<tr><td>사업추진방법론</td><td>사업추진방법이 구체적이고 적절한지와 그 실제 적용 사례 및 경험에 따른 단계별 산출물을 제안하였는지 평가한다.</td><td>5</td></tr>
+<tr><td rowspan="5">수행계획<br>(30)</td><td>시스템 장비 구성 및 기능 요구사항</td><td>사업수행에 필요한 하드웨어, 소프트웨어 등의 시스템 장비 구성 및 설치 등을 위한 세부추진방안을 제안요청서의 요구사항에 비추어 평가한다. 특히, 제안 장비의 기능성, 신뢰성, 사용성, 유지관리성, 이식성, 효율성, 보안성 및 상호운영성 등의 기능·성능 및 특징이 구체적이고 적절한지 평가한다.</td><td>10</td></tr>
+<tr><td>데이터<br>요구사항</td><td>시스템 이관에 따른 데이터 이관 및 검증방안이 구체적이고 적절한지 평가한다.</td><td>5</td></tr>
+<tr><td>성능 및 테스트</td><td>도입 장비(소프트웨어, 하드웨어 등)의 성능 요구사항 충족 여부와 이에 따른 성능 지표 설정, 목표치 설정 및 성능 측정 방법이 타당한지 평가한다.<br>성능 요구사항이 충족된 정상 가동을 위해 시험운영 방안이 제안요청서의 시험 요구사항을 충족할 만큼 구체적이고 적절한지 평가한다.</td><td>5</td></tr>
+<tr><td>픔질관리</td><td>조직, 인원, 방법, 절차 등 해당 사업의 수행을 위한 품질보증 방안 및 시스템 검정 방안을 구체적으로 제시하였는지 평가한다.</td><td>5</td></tr>
+<tr><td>보안관리</td><td>사업수행 단계별 보안관리 계획을 수립하였는지 평가한다. 시스템 보안정책 적용계획을 통한 보안성 확보방안을 구체적으로 제시하였는지 평가한다.</td><td>5</td></tr>
+<tr><td rowspan="2">프로젝트 관리<br>(10)</td><td>일정관리</td><td>사업수행에 필요한 수행기간과 세부 일정이 구체적이고 적절한지와 각 활동에 필요한 일정계획이 사업추진 방법론에 제안된 단계별 산출물과 연계하여 적절히 수립되었는지를 평가한다.</td><td>5</td></tr>
+<tr><td>위험 및<br>이슈 관리</td><td>사업과 관련한 위험 및 이슈에 대한 식별 및 분석, 위험·이슈 관리 절차 및 대응방안 등 위험 및 이슈관리계획이 구체적이고 적절한지 평가한다.</td><td>5</td></tr>
+<tr><td rowspan="2">프로젝트 지원<br>(10)</td><td>기술이전 및 교육훈련</td><td>기술지원 대상 범위, 내용 및 수준, 기술 매뉴얼 등 기술지원이 필요한 사항에 대한 계획 및 방안이 구체적이고 적절한지 평가한다. 시스템 운영 및 관리자, 사용자를 위해 필요한 교육훈련 내용, 방법, 기간, 인원 및 횟수 등을 구체적으로 제안하였는지 평가한다.</td><td>5</td></tr>
+<tr><td>하자보수 및 안정화<br>계획</td><td>하자담보 책임기간 내에 수행해야 하는 하자보수 범위, 하자발생 시 조치 절차 및 대응방안 등 하자보수 관련 활동 및 안정화 지원방안이 구체적이고 적절한지 평가한다.</td><td>5</td></tr>
+<tr><td>하도급<br>(5)</td><td>하도급계획의<br>적정성</td><td>「소프트웨어 진흥법령」에 따라 입찰 시 제출한 소프트웨어사업 하도급 계획서(제안요청서 서식 제7호)에서 하도급에 참가하는 자의 하도급 금액 비율, 하도급 계약금액 비율이 본 사업의 규모, 목적 및 특성 등을 고려하여 적정한지를 평가한다.<br>다만, 하도급을 하지 않는 경우 또는 하도급 금액 비율이 100분의 10이하이면서「하도급거래 공정화에 관한 법률」제3조의2에 따른 소프트웨어사업 표준하도급계약서를 활용할 계획이 있는 자는 최고등급을 부여한다.</td><td>5</td></tr>
+<tr><td rowspan="2">정량평가부문<br>(10)</td><td>상생협력<br>(5)</td><td>상생협력</td><td>중소기업인 소프트웨어사업자의 공동수급체 참여비율(지분율)로 평가한다.(조달청 협상에 의한 계약 세부기준에 따름)</td><td>5</td></tr>
+<tr><td>경영상태<br>(5)</td><td>경영상태</td><td>조달청 협상에 의한 계약 세부기준에 따름</td><td>5</td></tr>
+<tr><td colspan="4">총 점</td><td>90</td></tr>
+</table>
+
+※ ｢소프트웨어 기술성 평가기준 지침｣ 및 ｢조달청 협상에 의한 계약 제안서평가 세부기준｣을 본 사업에 적합한 내용으로 조정
+
+정량평가 부분(경영평가)
+
+경영상태 평가기준 : ｢조달청 협상에 의한 계약 제안서평가 세부기준｣ 제9조제3항제1호
+
+<table>
+<tr><th colspan="3">신용평가등급</th><th rowspan="2">평점</th></tr>
+<tr><td>회사채</td><td>기업어음</td><td>기업신용평가등급</td></tr>
+<tr><td>AAA, AA+, AA0, AA-<br>A+, A0, A-, BBB+, BBB0</td><td>A1, A2+, A20,<br>A2-, A3+, A30</td><td>AAA, AA+, AA0, AA-,<br>A+, A0, A-, BBB+, BBB0</td><td>배점의 100%</td></tr>
+<tr><td>BBB-, BB+, BB0, BB-</td><td>A3-, B+, B0</td><td>BBB-, BB+, BB0, BB-</td><td>배점의 95%</td></tr>
+<tr><td>B+, B0, B-</td><td>B-</td><td>B+, B0, B-</td><td>배점의 90%</td></tr>
+<tr><td>CCC+ 이하</td><td>C 이하</td><td>CCC+ 이하</td><td>배점의 70%</td></tr>
+</table>
+
+< 경영상태 평가기준 >
+[중첩 테이블 #19: 신용평가등급 | 평점]
+* 등급별 평점이 소수점 이하의 숫자가 있는 경우 소수점 다섯째자리에서 반올림 함
+[주]
+1.「신용정보의 이용 및 보호에 관한 법률」제2조 제8의3에 해당하는 신용조회사 또는「자본시장과 금융투자업에 관한 법률」제335조의3에 따라 업무를 영위하는 신용평가사가 입찰공고일 이전에 평가하고 유효기간 내에 있는 회사채, 기업어음 및 기업신용평가등급을 국가종합전자조달시스템에 조회된 신용평가등급으로 평가하되, 가장 최근의 신용평가등급으로 평가한다. 다만, 가장 최근의 신용평가등급이 다수가 있으며 그 결과가 서로 다른 경우에는 가장 낮은 등급으로 평가한다.
+**2. 국가종합전자조달시스템에서 신용평가등급 확인서가 확인되지 않은 경우에는 최저등급으로 평가하며, 유효기간 시작일 또는 만료일이 입찰공고일인 경우에도 유효한 것으로 평가한다. 다만, 입찰공고일 다음날 이후에 발생 또는 수정된 자료는 평가에서 제외한다.**
+**3. 주 1에도 불구하고, 합병 또는 분할한 자가 입찰공고일 이전에 평가한 신용평가등급이 없는 경우에는 입찰서 제출 마감일 전일까지 발급된 유효기간 내에 있는 가장 최근의 신용평가등급으로 평가한다. 다만, 합병 후 새로운 신용평가등급이 없는 경우에는 입찰공고일 이전에 평가하고 유효기간 내에 있는 신용평가등급으로서 합병 대상자 중 가장 낮은 신용평가등급을 받은 자의 신용평가등급으로 평가한다.**
+**4. 추정가격이 고시금액 미만인 입찰에서 입찰공고일을 기준으로 최근 7년 이내에 사업을 개시한 창업기업에 대해서는 신용평가등급 점수상의 배점 한도를 부여한다. 이 경우 창업기업에 대한 확인은 「중소기업제품공공구매 종합정보망」에 등재된 자료로 확인하며, 창업기업확인서의 유효기간 내에 있어야 한다. 다만, 제안서 평가일 전일까지 발급된 자료도 심사에 포함하며, 이 경우 입찰공고일 이전 창업을 확인 할 수 있는 자료(법인인 경우 법인등기부상 법인설립등기일, 개인사업자인 경우에는 사업자등록증명서 상 사업자등록일)를 제출하여야 한다.(이하 창업기업에 대한 확인방법은 같다)**
+**5. 공동수급체의 경우 구성원별 해당 점수에 지분율을 곱한 후 그 점수들을 합산하여 최종 평가하고, 평가 결과 소수점 이하의 숫자가 있는 경우 소수점 다섯째자리에서 반올림 한다.**
+(예) (A사 점수×A사 지분율)+(B사 점수×B사 지분율)…
+**6. 중소기업협동조합이 입찰에 참여하는 경우 중소기업협동조합의 신용평가등급으로 평가한다.**
+
+라. 제출서류 : 조달청 “입찰공고문” 참조
+
+마. 제안서 제출 일정 및 방법 : 조달청 “입찰공고문” 참조
+
+o 제안서(증빙서류 등 포함)는 반드시 나라장터를 통하여 제출
+
+바. 제안요청설명회 : 조달청 “입찰공고문” 참조
+
+o 일시 : “입찰공고문” 참조
+
+o 장소 : 국회도서관(서울특별시 영등포구 의사당대로 1)
+
+o 문의처 : 기록정보관리과 유재희 주무관 (jaehui.yu@nara.go.kr, 02-6788-3411)
+
+- 출입신청 등을 위해 참석 인원(성명, 소속, 연락처) 사전 메일 접수
+
+o 제안요청서는 나라장터(http://www.g2b.go.kr)에 게시하며, 별도로 배부하지 않음
+
+※ 입찰참가자격은 제안요청설명회 참석 여부와 관련 없음
+
+사. 제안서평가 개최 : 조달청 “입찰공고문” 참조
+
+아. 입찰 시 유의사항
+
+낙찰자로 결정된 이후에 공동수급(컨소시엄) 구성원을 변경할 수 없음
+
+제안서 인력은 단독 또는 공동수급 구성원의 자사인력으로 구성하여야 함
+
+공동수급체 소속 외의 인력은 하도급으로 간주하며, 국회기록원의 하도급 승인을 얻지 못할 경우에는 공동수급체 구성원 자사인력으로 대체하여야 함
+
+공동계약의 경우, 공동수급 구성원 중 정당한 이유 없이 공동계약이행계획서에 따라 실제 계약에 참여하지 아니하는 구성원에 대해 부정당업자로 제재조치 등 입찰참가자격 제한함
+
+입찰공고문, 제안안내서, 제안요청서 및 이에 근거한 별첨 등에 명시되지 않은 사항은 ｢국가를 당사자로 하는 계약에 관한 법률｣, ｢소프트웨어 진흥법｣, 기획재정부 계약예규, 국제표준규격 등 관련 규정 및 국회기록원의 계약 요령에 따름
+
+입찰자는 입찰과정에서 얻은 정보를 해당 입찰 외의 목적으로 사용할 수 없음
+
+입찰에 참가하고자 하는 자는 본 입찰 유의서 및 ｢국가를 당사자로 하는 계약에 관한 법률｣등을 입찰 전에 완전히 숙지하였다고 간주하며 이를 숙지하지 못함으로 발생되는 책임은 입찰참가자에게 있음
+
+｢국가를 당사자로 하는 계약에 관한 법률 시행령｣ 제12조(경쟁입찰의 참가자격) 및 시행규칙 제14조(입찰참가자격요건의 증명), ｢용역입찰유의서｣ 제12조(입찰의 무효)에 저촉될 경우 입찰은 무효로 함
+
+계약상의 사업을 수행함에 있어 부실 또는 부당하게 하거나, 부정한 행위를 한 사업수행사는 향후 신규 사업의 참여에 제한을 받을 수 있음
+
+자. 제안서 보상
+
+본 제안을 위하여 소요되는 일체의 비용은 사업수행사의 부담으로 함
+
+본 사업은 「소프트웨어사업 계약 및 관리감독에 관한 지침(과학기술정보통신부고시)」제16조에 의거, 제안서 보상대상 사업에 해당하지 않으므로 제안서 보상을 실시하지 않음
+
+<table>
+<tr><th>7</th><th></th><th colspan="2">기타 사항</th></tr>
+</table>
+
+가. 작업장소 상호 협의
+
+본 사업의 작업장소는 원활한 사업수행을 위해 국회기록원과 협의하여 결정하여야 하며, 작업장소 관련비용은 전체 사업예산에 계상되어 있으므로 제안사가 부담하여야 함(작업장소 사용료, 수도광열비, 기타 발생하는 부대비용 등)
+
+제안사는 작업장소 상호협의 시 제안요청서 내 명시된 보안요구사항을 준수한 작업장소를 제시할 수 있으며, 국회기록원은 제시된 작업장소에 관하여 우선 검토함. 다만, 제안사가 제시한 작업장소가 보안요구사항을 준수하지 못한 경우 거부할 수 있음
+
+제안사는 원격지 개발에 따른 개발방법 및 보안사고 등 위험요인을 식별하여 이에 대한 대응방안을 제시하여야 함
+
+원격지 개발에 따른 수행 장소 등에 대하여 구체적인 원격지 보안관리대책(잠금장치, 출입통제 등)을 마련하여야 함(자세한 사항은 ‘국회 정보보호 규정’ 및 제안요청서 내 명시된 보안요구사항을 따름)
+
+나. 계약목적물의 지식재산권 귀속 등
+
+산출물에 대한 사용권(라이선스)은 국회기록원에 있음(단, 지식재산권은 용역계약 일반조건에 따라 공동소유로 하며, 별도의 정함이 없는 한 지분은 균등한 것으로 함)
+
+다만, 개발의 기여도 및 계약목적물의 특수성(국가안전보장, 외교관계, 보안 및 정보보호 등)을 고려하여 주관기관, 사업자 및 전문기관 간의 협의를 통해 저작권의 귀속주체 등에 대해 공동소유와 달리 정할 수 있음
+
+사업수행사는 지식재산권의 활용을 위하여 SW산출물의 반출을 요청할 수 있으며, 국회기록원은 ｢국회보안업무규정｣ 제4조 및 제안요청서에 명시된 누출금지 대상정보에 해당하지 않을 경우 SW산출물을 제공함(다만, 사업수행사는 다음 내용을 준수하여야 함)
+
+사업수행사는 공급받은 SW산출물에 대하여 제안요청서, 계약서 등에 누출금지 대상정보로 명시한 정보를 완전 삭제하고 활용하여야 하며, 이를 확인하는 사업수행사 대표명의의 확약서를 국회기록원에 제출하여야 함
+
+사업수행사가 반출된 SW산출물을 제3자에게 제공하려는 경우 반드시 국회기록원으로부터 사전승인을 받아야 함
+
+사업수행사가 제공받은 SW산출물을 무단으로 유출하거나 누출하는 경우 및 누출금지 대상정보를 완전 삭제하지 않고 활용하는 경우, 입찰참가자격 제한 등에 관하여는 「소프트웨어 진흥법」 제59조, 같은 법 시행령 제54조, 「소프트웨어사업 계약 및 관리감독에 관한 지침」 제32조(산출물의 활용)에 따른다.
+
+다. 개발SW의 공동활용 사전명시
+
+본 사업을 통해 개발되는 소프트웨어는 ｢용역계약일반조건｣ 제56조(계약목적물의 지식재산권 귀속 등)에 따라 타 기관과 공동활용할 계획이 없음을 사전에 안내함
+
+라. 하도급계약
+
+하도급 사전승인
+
+- 본 사업의 하도급의 경우「소프트웨어 진흥법」제51조 및「소프트웨어사업 계약 및 관리감독에 관한 지침」(과학기술정보통신부고시)의 규정에 의하여 반드시 하도급계약 전에 국회기록원으로부터 사전승인을 받아야 함
+
+하도급 비율제한
+
+- 본 사업의 과업의 일부를 하도급하려는 경우「소프트웨어 진흥법」제51조 1항에 따라 사업금액의 100분의 50을 초과할 수 없으며, 제3항에 따라 재하도급은 원칙적으로 불허함. 다만, 같은 법 제51조의 제2항 및 제3항각 호에 해당하는 경우 그러하지 아니함
+
+하도급 계획서 제출 요청
+
+- 본 사업 과업의 일부를 하도급하려는 경우 입찰 시 및 계약체결 시 관련규정의 별지 서식*의 소프트웨어사업 하도급계획서를 제출하여야 함
+
+* 「소프트웨어사업 계약 및 관리감독에 관한 지침」의 별지 제7호,「조달청 협상에 의한 계약 제안서평가 세부기준」의 별지 제14호 참고
+
+하도급 계약의 적정성 판단 세부기준 명시
+
+- 하도급계약의 승인을 신청하는 경우,「소프트웨어사업 계약 및 관리감독에 관한 지침」에 따라 적정성여부를 판단하며([붙임 5]하도급계약의 적정성 판단 세부기준 참고), 평가점수가 85점 이상인 경우에 한하여 하도급계약을 승인함. 다만, 85점 이상인 경우라 하더라도 하도급 계약의 세부 조건 등으로 인하여 사업의 원활한 수행이 불가능하다고 인정되는 경우 그 사유를 기재하여 하도급 승인 거절을 통보할 수 있음
+
+공동수급체 구성
+
+- 본 사업에서 전체 사업금액 대비 10%를 초과하여 하도급하려는 경우,「소프트웨어 진흥법」제51조제6항 및 같은 법 시행령 제48조제5항에 따라 공동수급체를 구성하여 참여해야하며, 공동수급체를 구성하지 못하는 불가피한 사정이 있는 경우 그 사유를 제시하여야 함
+
+마. 과업심의위원회 개최 및 과업내용 변경
+
+본 사업은 「소프트웨어 진흥법」제50조, 동법 시행령 제47조제1항제2호, 제3호에 따른 과업내용 확정을 위하여 과업심의위원회를 개최한 사업임
+
+과업내용 변경 및 그에 따른 계약금액･계약기간 조정이 필요한 경우, 계약상대자는 국회기록원에 소프트웨어사업 과업변경요청서를 제출하여야 하며 과업심의위원회의 개최를 요청할 수 있음
+
+* 「소프트웨어사업 계약 및 관리감독에 관한 지침」참조
+
+바. 소프트웨어 사업정보 제출
+
+본 사업은 「소프트웨어 진흥법」제46조에 따라 SW사업정보(SW사업 수행 및 실적정보) 데이터를 작성 및 제출하여야 함
+
+SW사업정보 데이터 작성 및 제출에 관한 사항은 SW사업정보 저장소(www.spir.kr) 자료실의‘SW사업정보 저장소 데이터 등록 및 활용 방법’문서를 참조하도록 함
+
+SW사업정보 데이터는 사업수행계획서 작성 시 단계별 산출물 리스트에 명시하도록 함
+
+SW사업정보 중 기능점수 데이터의 작성을 위해 사업수행 인원 중 기능점수 측정 전문가를 포함하도록 함
+
+사. 상호협약서 제출
+
+o 본 사업은 「소프트웨어 진흥법」 제54조2항 및 소프트웨어사업 계약 및 관리감독에 관한 지침(과학기술정보통신부고시)에 따른 상용소프트웨어 직접구매 대상 사업으로서, 낙찰자로 선정된 통합발주 사업자는 직접구매(분리발주) 사업자와 상호 협의하여 직접구매 SW 도입 시점에‘제안서 관련 [별지 14호 서식] 사업자간 상호협약서 및 역할분담표’를 제출하여야 함
+
+아. 안전 및 보건 확보 의무 준수사항
+
+o 계약상대자는 계약체결 이후 「중대재해처벌법」에 규정된 안전‧보건과 관련된 의무를 준수하여야 하며, 입찰자는 현장여건, 과업내용 등을 미리 확인하여 이와 관련된 제반비용을 입찰가격에 반영하여야 함
+
+o 발주기관은 계약상대자가 안전‧보건 확보에 필요한 조치를 소홀히 하거나 이행 여부에 대한 점검 결과 보완 및 조치 등이 필요한 경우에는 계약상대자에게 이에 대한 시정을 요구할 수 있음
+
+자. 소프트웨어 직접구매 제외사유
+
+o 본 사업은 「국가를 당사자로 하는 계약에 관한 법률」 시행규칙 제84조,「소프트웨어사업 계약 및 관리감독에 관한 지침」 제8조에 따라 다음과 같은 사유로 직접구매 대상에서 제외함 (하단 표 ‘제외 사유’ 항목 참조)
+
+<table>
+<tr><th colspan="6">직접구매 대상 상용소프트웨어 구매계획(제7조 관련)</th></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>번호</td><td>①상용소프트웨어 품목</td><td>수량</td><td>②직접 구매<br>여부</td><td>③제외 사유</td><td>④비고</td></tr>
+<tr><td>1</td><td>WEB<br>(WebtoB 6 Ent x86용)<br>(1Core)</td><td>8</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정<br>(서버 1식당 4코어) - 2식</td></tr>
+<tr><td>2</td><td>WAS<br>(JEUS 21 Ent x86용)<br>(1Core)</td><td>20</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정<br>(서버 1식당 10코어) - 2식</td></tr>
+<tr><td rowspan="6">3</td><td>서버관리<br>(WatchAll SMS Unix Agent (1~4Core))</td><td>2</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 종합쇼핑몰 구매 진행</td><td rowspan="4">9~10월<br>구매예정<br>(agent용 18식)</td></tr>
+<tr><td>서버관리<br>(WatchAll SMS x86 물리 Agent (1~4Core))</td><td>8</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td></tr>
+<tr><td>서버관리<br>(WatchAll SMS x86 물리 Agent (5~8Core))</td><td>5</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td></tr>
+<tr><td>서버관리<br>(WatchAll SMS x86 물리 Agent (9~16Core))</td><td>3</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td></tr>
+<tr><td>서버관리<br>(WatchAll Manager)</td><td>1</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td rowspan="2">9~10월<br>구매예정(서버관리자용 2식)</td></tr>
+<tr><td>서버관리 프레임워크<br>(WatchAll AppleMango)</td><td>1</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td></tr>
+<tr><td>4</td><td>망연계<br>(Net-Protect V3.0)</td><td>1</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정</td></tr>
+<tr><td>5</td><td>운영체제<br>(Win Svr 2025, 16Core기준)</td><td>3</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정</td></tr>
+<tr><td rowspan="2">6</td><td>백신<br>(V3 Net For Windows)</td><td>3</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정</td></tr>
+<tr><td>백신<br>(V3 Net For Linux)</td><td>13</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정</td></tr>
+<tr><td>7</td><td>기록물백신(AV Signature Bridge v1.0)</td><td>1</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정</td></tr>
+<tr><td>8</td><td>보안관제<br>(Spider ExD)</td><td>18</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 종합쇼핑몰 구매 진행</td><td>9~10월<br>구매예정</td></tr>
+<tr><td>9</td><td>웹필터<br>(WEBFILTER v2.5, Domain기준)</td><td>1</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정</td></tr>
+<tr><td>10</td><td>백업관리<br>(Netbackup 8.0 용량제)</td><td>10</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정<br>(백업장비 1식당 10TB)</td></tr>
+<tr><td>11</td><td>SSO<br>(TouchEn Wiseaccess v1.4 SSO Agent, Domain기준)</td><td>1</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정</td></tr>
+<tr><td>12</td><td>뷰어솔루션<br>(사이냅 문서뷰, 1Core기준)</td><td>4</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정<br>(서버 1식당 4코어) - 1식</td></tr>
+<tr><td>13</td><td>전자문서 PDF 변환 솔루션<br>(ezpdf WorkFlow v5.0 Enterprise, 4Core기준)</td><td>2</td><td>직접구매 (√)<br>제 외 ( )</td><td>조달청 디지털서비스몰 구매 진행</td><td>9~10월<br>구매예정</td></tr>
+<tr><td>14</td><td>운영체제<br>(RHEL for Virtual Datacenters)</td><td>8</td><td>직접구매 ( )<br>제 외 (√)</td><td>조달청 디지털서비스몰 미등록 제품</td><td></td></tr>
+<tr><td>15</td><td>DBMS<br>(Oracle 26ai)</td><td>2</td><td>직접구매 ( )<br>제 외 (√)</td><td>조달청 디지털서비스몰 미등록 제품</td><td></td></tr>
+<tr><td>16</td><td>백신<br>(V3 백신 For Unix)</td><td>2</td><td>직접구매 ( )<br>제 외 (√)</td><td>조달청 디지털서비스몰 미등록 제품</td><td></td></tr>
+<tr><td>17</td><td>서버가상화</td><td>8</td><td>직접구매 ( )<br>제 외 (√)</td><td>사업 예산에 최적화된 제품 디지털서비스몰 미등록 (연간 라이선스)</td><td></td></tr>
+<tr><td>18</td><td>디지털 미디어 변환</td><td>1</td><td>직접구매 ( )<br>제 외 (√)</td><td>시스템 및 DB스키마 등의 변경을 최소화 하여 사업기간 단축</td><td></td></tr>
+<tr><td>19</td><td>개인정보 솔루션</td><td>1</td><td>직접구매 ( )<br>제 외 (√)</td><td>기록물백신, 포맷 변환 등의 작업과 상호 유기적으로 연계되어 정합성 검증, 프로세스 재설계 등의 시스템 최적화 작업 필요(기존제품 기술종료)</td><td></td></tr>
+<tr><td>20</td><td>검색엔진</td><td>2</td><td>직접구매 ( )<br>제 외 (√)</td><td>기존 설치된 상용S/W의 메이저판 올림으로 타제품 도입 시 시스템 소스코드 수정 등 사업기간 지연 발생</td><td>Ver 4.0 → 5.0</td></tr>
+<tr><td>21</td><td>웹에디터</td><td>2</td><td>직접구매 ( )<br>제 외 (√)</td><td>기존 관리자페이지등의 홈페이지 레이아웃 등 소스 수정 최소화를 통해 사업기간 단축</td><td></td></tr>
+<tr><td colspan="6"></td></tr>
+</table>
+
+※ 조달청의「상용소프트웨어 직접구매계획 검토결과」에 따라 직접구매 제외 소프트웨어는 통합발주함을 알려드립니다.
+
+차. 소프트웨어사업 영향평가 결과서
+
+
+![image](image_002.jpg)
+
+
+![image](image_003.jpg)
+
+[별지 1호 서식]
+
+<table>
+<tr><th colspan="5">제안요청 준수표</th></tr>
+<tr><td>제안요청내용</td><td>수용<br>여부</td><td>제안내용</td><td>제안서<br>쪽</td><td>비 고</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>예) 추가제안내용</td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+[별지 2호 서식]
+
+일반현황 및 연혁
+
+<table>
+<tr><th>회사명</th><th></th><th>대표자</th></tr>
+<tr><td>사업분야</td><td colspan="3"></td></tr>
+<tr><td>주 소</td><td colspan="3"></td></tr>
+<tr><td>전화번호</td><td colspan="3"></td></tr>
+<tr><td>회사설립년도</td><td colspan="3">년 월</td></tr>
+<tr><td>해당부문 종사기간</td><td colspan="3">년 월 ～ 년 월 ( 년 개월)</td></tr>
+<tr><td colspan="4">주요연혁</td></tr>
+</table>
+
+※ 공동수급체인 경우, 구성원별 각자 작성
+
+[별지 3호 서식]
+
+자본금 및 매출액 현황 (최근 3년)
+
+(단위 : 천원)
+
+<table>
+<tr><th colspan="2">구 분</th><th>M-2 년도</th><th>M-1 년도</th><th>M 년도</th></tr>
+<tr><td colspan="2">자본금</td><td></td><td></td><td></td></tr>
+<tr><td rowspan="2">매출액</td><td>○○부문<br>○○부문<br>○○부문<br>○○부문</td><td></td><td></td><td></td></tr>
+<tr><td>합 계</td><td></td><td></td><td></td></tr>
+</table>
+
+※ 컨설팅 매출액의 경우 BPR/ISP/ISMP, 전략컨설팅, 보안컨설팅, 감리 등으로 구분하여 상세히 기재
+
+※ 신용평가기관의 신용도 평가 서류를 관련 증빙으로 제출
+
+[별지 4호 서식]
+
+주요사업실적 (입찰공고일 기준 최근 3년간)
+
+(단위: 천원)
+
+| 사업명 | 사업기간 | 계약금액 | 발주처 | 비 고 |
+| --- | --- | --- | --- | --- |
+|  | 0000. 0. 0 \~<br>0000. 0. 0 |  |  |  |
+
+※ 현재 수행중인 사업을 포함하여 연도순으로 기재하며, 제안과제와 유사하거나 동일한 업무영역이나 사업형태에 관한 것만 기재. 단, 현재수행중인 사업은 비고란에 현재수행중임을 명시
+
+※ 하도급은 발주기관이 승인한 경우에 한하여 작성하며 비고란에 원도급회사를 기재
+
+※ 공동도급계약일 경우에는 계약금액란에 사업수행사의 지분만을 기재
+
+[별지 5호 서식]
+
+<table>
+<tr><th>사업명</th><th colspan="3"></th><th colspan="2">사업기간</th><th colspan="3">개월</th></tr>
+<tr><td rowspan="2">입찰자<br>(공동수급체 대표)</td><td colspan="2">상호</td><td colspan="4"></td><td>대표자</td></tr>
+<tr><td colspan="2">사업자등록번호</td><td colspan="4"></td><td>소재지</td></tr>
+<tr><td colspan="9">□ 하도급 예정 계획</td></tr>
+<tr><td colspan="2">하도급 계약명</td><td colspan="3">하도급 금액 비율1)</td><td colspan="4">하도급 계약금액 비율2)</td></tr>
+<tr><td colspan="2"></td><td colspan="3">%</td><td colspan="4">%</td></tr>
+<tr><td colspan="9">1) 하도급 금액 비율은 원도급의 총 입찰금액 대비 하도급 총금액의 비율<br>- 하도급 금액 비율 = 하도급 예정액 / (입찰금액 - 물품구매 예정액*) X 100<br>*「소프트웨어 기술성 평가기준 지침」 서식4에 따라 입찰자가 직접 구매하려는 물품(하드웨어, 상용소프트웨어, 설비 등)에 대한 구매 예정금액을 말한다.<br>- 하도급 금액 비율 합계 50% 초과 예외사유: _________________________________________________<br>2) 하도급 계약금액 비율은 하도급 할 총금액 대비 하도급 예정자와 계약할 총금액의 비율</td></tr>
+<tr><td colspan="9">□ 하도급 비율이 10%를 초과할 경우에 대한 사유</td></tr>
+<tr><td colspan="9">○ 수요기관이 제안요청서에서 하도급 금액 비율이 10%를 초과할 경우 입찰자에게 하도급인과 공동수급체로 참여할 것을 요청하였는지 여부: ( ○ ), ( × )<br>○ 하도급 비율이 10%를 초과하는 데도 공동수급체로 참여시키지 않는 사유<br>: __________________________________________</td></tr>
+<tr><td colspan="9">□ 표준하도급계약서 사용 여부</td></tr>
+<tr><td colspan="9">○「하도급거래 공정화에 관한 법률」제3조의2에 따른 소프트웨어사업 표준하도급계약서를 활용<br>- 표준하도급계약서 활용 여부: ( ○ ), ( × )<br>- 표준하도급계약서를 활용하지 않는 경우 사유: ______________________________________________</td></tr>
+<tr><td colspan="9">위와 같이 소프트웨어사업 하도급 계획서를 제출하며,「소프트웨어사업 계약 및 관리감독에 관한 지침」제20조에 따라 하도급 계획 등을 확인하여 준수하여야 하며, 정당한 사유 없이 하도급 계획을 이행치 아니할 경우에는 어떠한 불이익을 받더라도 이의를 제기하지 아니할 것임을 확약합니다.<br>년 월 일<br>공동수급체 대 표 상 호:<br>대표자: (서명 또는 인)</td></tr>
+<tr><td colspan="9">발주기관의 장 귀하</td></tr>
+<tr><td colspan="9">※ 유의사항<br>- 입찰자의 입찰금액 대비 하도급 금액 합계의 비율은「소프트웨어 진흥법」제51조제1항에 따라 입찰 금액의 50%를 초과할 수 없습니다.<br>단, 동 조 제2항의 각 호에 해당하는 경우에는 그러하지 아니합니다. 이 경우 예외사유를 기재합니다.<br>- 소프트웨어사업자는 입찰 금액 대비 하도급 금액 비율이「소프트웨어 진흥법」제51조제6항 및 같은 법 시행령 제48조제5항에 따라 10%를 초과할 경우, 공동수급체 구성원으로 참여할 수 있습니다.</td></tr>
+</table>
+
+소프트웨어사업 하도급 계획서
+[중첩 테이블 #20: 사업명 | 사업기간 | 개월]
+
+[별지 6호 서식]
+
+<table>
+<tr><th colspan="17">■ 소프트웨어사업 계약 및 관리감독에 관한 지침 [별지 제7호서식]</th></tr>
+<tr><td colspan="18">소프트웨어사업 하도급 계획서</td></tr>
+<tr><td colspan="5">사업명</td><td colspan="13"></td></tr>
+<tr><td colspan="5">계약금액(C)</td><td colspan="2">원</td><td colspan="3">사업기간</td><td colspan="8">년월일∼년월일</td></tr>
+<tr><td colspan="5" rowspan="2">수급인<br>(공동수급체 대표)</td><td colspan="2">상호</td><td colspan="4"></td><td colspan="3">대표자</td><td colspan="4"></td></tr>
+<tr><td colspan="2">사업자등록번호</td><td colspan="4"></td><td colspan="3">소재지</td><td colspan="4"></td></tr>
+<tr><td colspan="18">하도급 예정 계획</td></tr>
+<tr><td>번호</td><td colspan="2">수급인</td><td colspan="2">하수급인<br>상호</td><td colspan="3">하도급 계약명</td><td colspan="5">하도급 계약기간</td><td colspan="3">하도급예정액(A)</td><td colspan="2">계약금액 대비 하도급예정액 비율</td></tr>
+<tr><td>1</td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td colspan="5">. . . ∼ . . .</td><td colspan="3">원</td><td colspan="2">%</td></tr>
+<tr><td>2</td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td colspan="5">. . . ∼ . . .</td><td colspan="3">원</td><td colspan="2">%</td></tr>
+<tr><td>합계</td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td colspan="5">. . . ∼ . . .</td><td colspan="3">원</td><td colspan="2">%</td></tr>
+<tr><td colspan="18">직접 물품 구매 예정 계획</td></tr>
+<tr><td>번호</td><td colspan="3">구분<br>(HWㆍ설비ㆍ상용SW)</td><td colspan="5">물품명</td><td colspan="3">제조사(개발사)</td><td colspan="3">수량</td><td>구매시기</td><td colspan="2">물품 구매 예정액(B)</td></tr>
+<tr><td>1</td><td colspan="3"></td><td colspan="5"></td><td colspan="3"></td><td colspan="3"></td><td></td><td colspan="2">원</td></tr>
+<tr><td>2</td><td colspan="3"></td><td colspan="5"></td><td colspan="3"></td><td colspan="3"></td><td></td><td colspan="2">원</td></tr>
+<tr><td>합계</td><td colspan="3"></td><td colspan="5"></td><td colspan="3"></td><td colspan="3"></td><td></td><td colspan="2">원</td></tr>
+<tr><td colspan="18">- 수급인이 공동수급체인 경우 공동수급체 구성원(대표 포함)의 하도급 예정 계획 명시<br>- 물품의 설치 및 유지ㆍ관리,「소프트웨어 진흥법」시행령 제48조제1항 각 호의 신기술 또는 전문기술등을 하도급에 포함하여 작성<br>- 직접 물품 구매 예정 계획은 수급인(계약상대자)이 직접 구매하는 물품에 한함<br>- 하도급 예정액 비율 합계 50% 초과 예외사유 : _____________________<br>- 계약금액(C) = 하도급 예정액(A) + 물품 구매 예정액(B) + 수급인 자체 수행액<br>- 계약금액 대비 하도급 예정액 비율 = 하도급 예정액(A)/(계약금액(C)-물품구매 예정액(B)) X 100</td></tr>
+<tr><td colspan="18">「소프트웨어사업 계약 및 관리감독에 관한 지침」제19조에 따라 소프트웨어사업 하도급 계획서를 제출합니다.<br>년 월 일</td></tr>
+<tr><td colspan="16">공동수급체 구성원 상 호<br>대표자</td><td colspan="2">(서명 또는 인)</td></tr>
+<tr><td colspan="16">공동수급체 구성원 상 호<br>대표자</td><td colspan="2">(서명 또는 인)</td></tr>
+<tr><td colspan="6">발주기관의 장</td><td colspan="12">귀하</td></tr>
+<tr><td colspan="18"></td></tr>
+<tr><td colspan="2">제출서류</td><td colspan="16">- 하도급 사업수행 계획서(하도급 금액 산출내역서 및 사업추진 일정표 포함) 각 1부<br>- 물품 공급확약서 각 1부</td></tr>
+<tr><td colspan="18">※ 유의사항<br>- 수급인의 계약 금액 대비 하도급 예정금액 합계의 비율은「소프트웨어 진흥법」제51조제1항에 따라 총 계약 금액의 50%를 초과할 수 없습니다. 단, 동 조 제2항의 각 호에 해당하는 경우에는 그러하지 아니합니다. 이 경우 예외사유를 기재합니다.<br>- 수급인은 직접 물품 구매 예정 계획에 기재한 사항에 대해 이를 증명할 수 있는 물품 공급 확약서 등을 국가기관등의 장에게 제출하여야 합니다. 제출한 서류가 미비한 경우 국가기관등의 장은 해당 서류의 보완을 요청할 수 있으며, 해당 서류를 제출하지 않거나 제출한 서류를 검토한 결과 직접 구매하지 않은 경우 해당 금액은 하도급 제한 비율로 산정됩니다.<br>- 하도급 예정 계획이 많아 지면이 부족할 경우 별도 서식을 첨부할 수 있습니다.</td></tr>
+<tr><td colspan="18">210㎜×297㎜(백상지 80g/㎡)</td></tr>
+</table>
+
+[별지 7호 서식]
+
+보 안 서 약 서(대표자용)
+본인은 0000년 00월 00일부로 사업 관련 용역사업(업무)을 수행함에 있어 다음 사항을 준수할 것을 엄숙히 서약합니다.
+**1. 나는 국회기록원 사업과 관련하여 업무 중 알게 될 일체의 내용이 직무상 기밀 사항임을 인정한다.**
+**2. 본인은 이 기밀을 누설함이 국가안전보장 및 국가이익에 위해가 될 수 있음을 인식하여 업무수행 중 지득한 제반 기밀사항을 일체 누설하거나 공개하지 아니한다.**
+**3. 본인이 이 기밀을 누설하거나 관계 규정을 위반한 때에는 관련 법령 및 계약에 따라 어떠한 처벌 및 불이익도 감수한다.**
+**4. 본인은 사업 수행 시 본사 및 하도급업체로 인해 발생하는 위반사항에 대하여 모든 책임을 부담한다.**
+년 월 일
+서 약 자 업 체 명 :
+(대 표 자) 직 위 :
+성 명 : (서명)
+생년 월일 :
+국회기록원장 귀하
+
+[별지 8호 서식]
+
+보 안 서 약 서(참여인력용)
+본인은 0000년 00월 00일부로 사업(정보시스템 포함)과 관련한 업무(연구개발, 제작, 입찰, 기타)를 수행함에 있어 다음 사항을 준수할 것을 엄숙히 서약합니다.
+**1. 나는 국회기록원 사업(정보시스템 포함)과 관련된 소관업무가 국가기밀 사항임을 인정하고 제반 보안관계규정 및 지침을 성실히 준수한다.**
+**2. 나는 이 기밀을 누설함이 국가이익을 침해할 수도 있음을 인식하고 재직 중은 물론 퇴직 후에도 알게 된 모든 기밀사항을 일체 타인에게 누설하지 아니한다.**
+**3. 나는 기밀을 누설한 때에는 관계법규에 따라 엄중한 처벌을 받을 것을 서약한다.**
+  가. 전자정부법 제35조(금지행위) 및 제76조(벌칙)
+년 월 일
+서 약 자 업 체 명 :
+(참여 인력) 직 위 :
+성 명 : (서명)
+생년 월일 :
+국회기록원장 귀하
+
+[별지 9호 서식]
+
+보 안 확 약 서(대표자용)
+본인은 귀 기관과 계약한 사업의 수행을 완료함에 있어, 다음 각호의 보안사항에 대한 준수 책임이 있음을 서약하며 이에 확약서를 제출합니다.
+**1. 본 업체(단체)는 업체(단체) 및 사업 참여자가 사업수행 중 지득한 모든 자료를 반납 및 파기하였으며, 지득한 정보에 대한 유출을 절대 금지하겠습니다.**
+**2. 본 업체(단체)는 하도급업체에 대해 상기 항과 동일한 보안사항 준수 책임을 확인하고 보안확약서 징구하였으며, 하도급업체가 위의 보안사항을 위반할 경우에 주사업자로서 이에 동일한 법적책임을 지겠습니다.**
+**3. 본 업체(단체)는 상기 보안사항을 위반할 경우에 귀 기관의 사업에 참여 제한 또는 기타 관련 법규에 따른 책임과 손해배상을 감수하겠습니다.**
+년 월 일
+서 약 자 업 체 명 :
+(대 표 자) 직 위 :
+성 명 : (서명)
+생년 월일 :
+국회기록원장 귀하
+
+[별지 10호 서식]
+
+보 안 확 약 서(참여인력용)
+본인은 사업 수행을 완료함에 있어 다음 각 호의 사항에 대한 보안준수 및 책임이 있음을 서약하며 이에 확약서를 제출합니다.
+**1. 사업수행 시 지득한 모든 자료를 반납 및 파기 하였음.**
+**2. 지득한 정보에 대한 유출을 절대 금지 하겠음.**
+**3. 보안 위규 시 관련 법규에 따른 모든 조치와 손해배상을 감수 하겠음.**
+년 월 일
+서 약 자 업 체 명 :
+(참여 인력) 직 위 :
+성 명 : (서명)
+생년 월일 :
+국회기록원장 귀하
+
+[별지 11호 서식]
+
+일별 보안점검표
+
+<table>
+<tr><th>순번</th><th colspan="6">점검항목</th><th>이행여부</th></tr>
+<tr><td>1</td><td colspan="6">팩스, 복사기, 프린트 등 공용사무기기 주변 환경에 서류 방치 여부 확인</td><td>Y/N</td></tr>
+<tr><td>2</td><td colspan="6">누출금지 대상정보 문서 방치 여부 확인(책상 위, 잠금장치 미적용 서랍 등)</td><td></td></tr>
+<tr><td>3</td><td colspan="6">누출금지 대상정보 이면지 사용 여부 확인</td><td></td></tr>
+<tr><td>4</td><td colspan="6">보조저장매체를 잠금장치 미적용 서랍 및 책상 위 등에 방치 여부 확인</td><td></td></tr>
+<tr><td>5</td><td colspan="6">계정 및 비밀번호 등 중요정보를 공용사무실 환경에 노출 여부 확인 (모니터에 계정정보 부착 등)</td><td></td></tr>
+<tr><td>6</td><td colspan="6">부팅·호면보호 패스워드 미부여 또는 ‘1111’ 등 단순힌 패스워드 사용 여부 확인</td><td></td></tr>
+<tr><td>7</td><td colspan="6">PC의 백신 프로그램 자동 업데이트 및 실시간 감시기능 사용 여부 확인</td><td></td></tr>
+<tr><td>8</td><td colspan="6">PC를 일정기간 미사용 시 화면보호기 설정 여부 확인</td><td></td></tr>
+<tr><td>9</td><td colspan="6">PC를 켜 놓거나 보조저장매체를 꽂아 놓고 퇴근하였는지 여부 확인</td><td></td></tr>
+<tr><td>10</td><td colspan="6">통제구역 출입문을 개방한 채 퇴근 여부 확인</td><td></td></tr>
+<tr><td colspan="2">점검일</td><td>20 . . .</td><td>점검자</td><td>(인)</td><td>확인자</td><td colspan="2">(인)</td></tr>
+</table>
+
+[별지 12호 서식]
+
+<table>
+<tr><th colspan="4">월별 보안점검표(매월)</th></tr>
+<tr><td>구분</td><td>점검항목</td><td>점검결과</td><td>비고</td></tr>
+<tr><td rowspan="2">인적</td><td>용역 참여인원 변동사항 현행화 및 보안서약서 징구</td><td>변동사항 : 건</td><td></td></tr>
+<tr><td>참여인원에 대한 보안교육 실시(최종교육일자 기재)</td><td>교육일 :</td><td></td></tr>
+<tr><td rowspan="8">장비</td><td>정보시스템 관리대장 현행화</td><td>변동사항 : 건</td><td></td></tr>
+<tr><td>바이러스백신 SW설치, 업데이트, 실시간 점검</td><td>대상: 대, 확인: 대</td><td></td></tr>
+<tr><td>보조기억매체 책임자에 한하여 허용, 비인가 보조기억 매체 사용여부 확인</td><td>□ 시스템 □ 대장</td><td></td></tr>
+<tr><td>정보시스템 반출ㆍ입시 신청서 및 관리대장 확인</td><td>변동사항 : 건</td><td></td></tr>
+<tr><td>정보시스템 반입 시 악성코드 감염여부 확인</td><td>반입: 대, 확인: 대</td><td></td></tr>
+<tr><td>정보시스템 반출 시 포맷 여부 확인</td><td>반출: 대, 확인: 대</td><td></td></tr>
+<tr><td rowspan="2">노트북 사용통제 및 고정 장치 관리</td><td>노트북 : 대</td><td></td></tr>
+<tr><td>고정장치 : 대</td><td></td></tr>
+<tr><td rowspan="2">자료</td><td>자료관리대장(누출금지 대상정보) 현행화 및 확인 점검 (사업종료 시 제공자료 회수 및 파기목록 관리)</td><td>변동사항 : 건</td><td></td></tr>
+<tr><td>용역 PC에 누출금지 대상정보(산출물포함) 저장 여부 점검</td><td>대상: 대, 확인: 대</td><td></td></tr>
+<tr><td rowspan="3">네트워크</td><td>웹서버 등 정보시스템에 접근 가능한 참여인원은 최소화하고, 계정별로 접근권한을 차등 부여</td><td>변동사항 : 건</td><td></td></tr>
+<tr><td>웹서버 등 정보시스템 접근계정 & 패스워드 관리</td><td>변동사항 : 건</td><td></td></tr>
+<tr><td>사용자 계정·네트워크 사용 승인관리, 사용 만료시 즉시 차단</td><td>변동사항 : 건</td><td></td></tr>
+</table>
+
+※ 정보화용역사업 보안관리 점검평가 기준 참조 / 매월 점검 및 대장 관리
+
+[ 점검일자 : 20 . . . / 점검자 : (인) / 확인자 : (인) ]
+
+[별지 13호 서식]
+
+<table>
+<tr><th colspan="9">자료관리대장</th></tr>
+<tr><td>No.</td><td>관리번호</td><td>매체종류</td><td>제 목</td><td>제공일</td><td>제공자</td><td>반납일</td><td>반납확인</td><td>비고</td></tr>
+<tr><td>1</td><td>NA-01</td><td>파일<br>(소프트카피본)</td><td>ㅇㅇㅇㅇ자료</td><td></td><td>홍길동 과장</td><td></td><td></td><td></td></tr>
+<tr><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>20</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+[별지 14호 서식] 사업자간 상호협약서 및 역할분담표
+
+조정사항 이행 확약서
+일괄발주사업명 : ○○○○○사업(일괄발주)
+직접구매SW사업명 : ○○○○○사업(○○○ 도입)
+**1. 귀 기관의 일익 번창하심을 기원합니다.**
+**2. 당사는 상기 사업의 성공적이고 원활한 수행완료를 위하여 구성하는 상호협의회(구성 및 운영은 국회기록원에 위임)에 참여하여 사업수행에 관련된 제반사항을 협의를 하겠습니다.**
+**3. 당사는 상기 사업과 관련하여 시스템통합사업자와 SW공급자간 분쟁발생 시 상호협의회에서 결정하는 조정사항을 사업 수행계획서 등 사업범위 내에서 사업기간 내에 이의 없이 성실하게 이행하겠습니다. 단, 법원의 판결이나 중재법에 의한 중재 등을 신청할 수 있는 권리를 제한하지는 아니합니다.**
+**4. 또한, 상기 사업 내용에 속하나 책임소재가 명확하지 않은 사항에 대해서는 상호협의회에서 문제를 신속히 해결하고, 사업자간 구상 등에 관한 사항은 민사로 해결할 것을 서약합니다. 단, 각 사업별 계약상 의무이행에 대해 연대책임을 부담하지는 아니하며, 책임의 범위 및 역할은 사업자간 상호협약계약에 따릅니다.**
+20 . . .
+사업자명
+대표이사 직인
+국회기록원장 귀하
+
+| 시스템통합사업자 | SW공급자 |
+| --- | --- |
+| 회사명: | 회사명: |
+| 대표이사 : | 대표이사 : |
+
+상호 협약서
+△△△주식회사(이하 “시스템통합사업자”)와 ◎◎◎주식회사(이하 “SW공급자”)는 부 “◯◯◯사업”(이하 “본건 사업”)과 관련하여 다음과 같이 상호협약 계약(이하 “본 계약”)을 체결한다.
+- 일괄발주사업명 : OOO 사업
+- 직접구매 상용SW사업명 : OOO 사업
+제1조(계약의 목적) 본건 사업은 발주자에 의하여 ◯◯개의 별도사업으로 직접 구매한 상용SW사업인바, 본 계약의 목적은 본건 사업을 수행함에 있어 시스템 통합업무를 성공적으로 위하여 시스템통합사업자, SW공급자 상호간의 역할 및 책임을 명확히 함에 있다.
+제2조(역할 및 책임) ① 시스템통합사업자, SW공급자의 역할 및 책임은 별첨의 “사업자간 책임 및 역할 분담표“와 같다.
+② 시스템통합사업자와 SW공급자는 각각 별첨에 명시된 역할 및 책임을 가지고 사업을 수행하며, 별첨에 명시되지 않은 사항에 대해서는 각자의 사업범위 내에서 상호 협조한다.
+제3조(지원 및 협조) 시스템통합사업자의 역할 수행은 시스템통합사업자가 시스템통합사업자의 사업범위 내의 시스템통합업무를 실행함에 있어 SW공급자가 시스템통합사업자가 요구하는 내용 및 수준의 제반 지원 및 협조를 성실히 이행하는 것으로 한다. 다만, SW공급자는 시스템통합사업자가 요구사항이 사업범위에 비추어 타당하지 아니하다고 판단될 경우 시스템통합사업자와 SW공급자간 협의를 통해 요구사항의 내용 및 수준을 조정하는 것으로 한다.
+제4조(면책) 본건 사업 수행과 관련하여 SW공급자가 설치/납품하는 SW의 기능, 성능, 품질상의 문제로 인하여 발생하는 시스템하자 및 사업지체에 대해서는 시스템통합사업자는 그 책임을 분담하지 아니한다.
+제5조(시정사항 및 통합업무 관련 요구사항 처리 등) ① 시스템통합사업자는 SW공급자에게 품질, 공정, 일정 기타 통합업무 관련 SW공급자의 업무범위에 해당되는 사항의 이행 및 시정을 요구할 수 있으며, SW공급자는 그 요구에 응하여 적기 처리하여야 한다.
+② SW공급자는 제1항에 따른 시정사항 치유 후 그 처리 결과를 시스템통합사업자에게 보고하고, 시스템통합사업자는 조치내용에 대한 발주자의 승인을 받아 SW공급자에게 통보하는 것으로 한다.
+③ 본 건 사업 수행과 관련하여 SW공급자의 사업자의 업무범위에 해당되는 사항에 대한 시스템통합사업자의 시정요청 또는 요구사항 처리를 위한 회의 요청 등이 있을 경우 상용SW직접구매 사업자는 정당한 사유가 없는 한 즉시 이에 응하여야 하며, 회의 결과를 준수하여야 한다.
+제6조(분쟁 및 조정) ① 시스템통합사업자와 SW공급자는 본 계약과 관련하여 상호 이견이 있을 경우 상호 협의하여 해결하고, 협의가 이루어지지 않는 경우에는 관련 법령 또는 상관행에 따른다.
+② 제1항에 의하여 해결되지 않는 경우, 양 당사자의 합의하에 발주자, 시스템통합 사업자, SW공급자가 참여하는 상호협의회에서 협의하여 조정할 수 있다.
+③ 소송으로 분쟁을 해결하고자 하는 경우에는 특별한 약정이 없는 한 ◯◯지방법원에 소송을 제기한다.
+※ 별첨 : 사업자간 책임 및 역할 분담표
+20 . . .
+[중첩 테이블 #21: 시스템통합사업자 | SW공급자]
+
+사업자간 책임 및 역할 분담표(예시)
+
+<table>
+<tr><th rowspan="2">단계</th><th rowspan="2">단위업무</th><th rowspan="2">활동</th><th colspan="2">책임소재</th></tr>
+<tr><td>통합<br>사업자</td><td>SW<br>공급자</td></tr>
+<tr><td rowspan="3">준<br>비</td><td colspan="2">조직 구성</td><td>○</td><td></td></tr>
+<tr><td colspan="2">일정계획 수립</td><td>○</td><td></td></tr>
+<tr><td colspan="2">착수보고회</td><td>○</td><td></td></tr>
+<tr><td rowspan="8">현<br>황<br>분<br>석</td><td rowspan="3">현황자료 수집/분석</td><td>해당 업무 인수 계</td><td>○</td><td>○</td></tr>
+<tr><td>SW 설치관련 현황 자료 정의</td><td>○</td><td>○</td></tr>
+<tr><td>SW 현황자료 이전자료 확보</td><td>○</td><td></td></tr>
+<tr><td>현행 문제점 및 개선방안 도출</td><td>RFP 요구 사항 대비 SW 기능 만족여부 검토</td><td>○</td><td>○</td></tr>
+<tr><td colspan="2">통합시스템 설치환경 및 구성분석</td><td>○</td><td></td></tr>
+<tr><td>고객 인터뷰</td><td>발주처 요구사항 분석</td><td>○</td><td>○</td></tr>
+<tr><td>요구사항 정의 및 확정</td><td></td><td>○</td><td>○</td></tr>
+<tr><td>구축대상 및 범위 상세화</td><td>상세 구축범위 선정 및 승인 검토</td><td>○</td><td>○</td></tr>
+<tr><td rowspan="6">설<br>계</td><td>시스템 구성 방안 수립</td><td></td><td>○</td><td></td></tr>
+<tr><td colspan="2">시스템 설계</td><td>○</td><td></td></tr>
+<tr><td>시스템간 연동 범위 및 규격 정의</td><td>인터페이스 범위 및 방식 정의</td><td>○</td><td>○</td></tr>
+<tr><td>시스템간 연동 설계</td><td>인터페이스 설계</td><td>○</td><td>○</td></tr>
+<tr><td rowspan="2">시스템 설치 계획 수립</td><td>시스템 도입에 대한 HW 설치계획 수립</td><td>○</td><td></td></tr>
+<tr><td>직접구매 SW 설치 계획 수립</td><td>○</td><td>○</td></tr>
+<tr><td rowspan="5">시<br>스<br>템<br>구<br>축</td><td rowspan="2">장비 설정</td><td>시스템 환경 설정</td><td>○</td><td></td></tr>
+<tr><td>시스템 SW 설치 및 환경 설정</td><td>○</td><td></td></tr>
+<tr><td rowspan="2">단위시스템 테스트</td><td>직접구매 SW 기능 테스트</td><td>○</td><td>○</td></tr>
+<tr><td>직접구매 SW 아키텍쳐 테스트</td><td>○</td><td>○</td></tr>
+<tr><td>시스템간 연동 구현</td><td></td><td>○</td><td>○</td></tr>
+<tr><td rowspan="8">테<br>스<br>트</td><td rowspan="3">테스트 시나리오 작성</td><td>직접구매 SW 연동 테스트 시나리오 작성</td><td>○</td><td>○</td></tr>
+<tr><td>통합 테스트 시나리오 작성</td><td>○</td><td>○</td></tr>
+<tr><td>통합 테스트 시나리오 검토 및 승인</td><td>○</td><td></td></tr>
+<tr><td rowspan="2">연동 테스트 수행</td><td>연동 테스트 수행</td><td>○</td><td>○</td></tr>
+<tr><td>연동 테스트 수행관리 및 감독</td><td>○</td><td></td></tr>
+<tr><td rowspan="2">통합 테스트 수행</td><td>통합 테스트 수행</td><td>○</td><td></td></tr>
+<tr><td>통합 테스트 수행관리 및 감독</td><td>○</td><td></td></tr>
+<tr><td colspan="2">전체 시운전 시행</td><td>○</td><td>○</td></tr>
+<tr><td rowspan="7">검<br>수<br>및<br>종<br>료</td><td rowspan="2">운영 및 관리 매뉴얼 작성</td><td>직접구매 SW외 운영자/사용자 매뉴얼 작성</td><td>○</td><td></td></tr>
+<tr><td>직접구매 SW 운영자 매뉴얼</td><td></td><td>○</td></tr>
+<tr><td rowspan="2">운영자 교육</td><td>직접구매 SW외 운영자 교육</td><td>○</td><td></td></tr>
+<tr><td>직접구매 SW 운영자 교육</td><td></td><td>○</td></tr>
+<tr><td rowspan="2">시스템 검수</td><td>연계 및 통합 테스트 검수</td><td>○</td><td></td></tr>
+<tr><td>직접구매 SW 검수</td><td></td><td>○</td></tr>
+<tr><td colspan="2">종료 보고회</td><td>○</td><td></td></tr>
+</table>
+
+[붙임 1] 누출금지 대상정보
+
+누출금지 대상정보
+
+국회기록원 소유 정보시스템의 내ㆍ외부 IP주소 현황
+
+세부 정보시스템 구성현황 및 정보통신망 구성도
+
+사용자계정 및 패스워드 등 정보시스템 접근권한 정보
+
+정보통신 기반시설 취약점 분석ㆍ평가 결과물
+
+용역사업 결과물 및 프로그램 소스코드
+
+국가용 보안시스템 및 정보보호시스템 도입현황
+
+침입차단시스템ㆍ방지시스템(IPS) 등 정보보호제품 및 라우터ㆍ스위치 등 네트워크 장비 설정 정보
+
+｢공공기관의 정보공개에 관한 법률｣ 제9조제1항에 따라 비공개 대상정보로 분류된 기관의 내부문서
+
+｢개인정보 보호법｣ 제2조 제1호의 개인정보
+
+｢국회 보안업무규정｣ 제4조의 비밀 및 제15조제3항의 대외비
+
+악의적인(허가받지 않은) 프로그램을 이용하여 수집된 정보(예시: 네트워크 IP, 도메인, 오픈 포트 번호, 서버 버전정보 등)
+
+｢국회 정보보호규정｣ 제17조 각호에 해당하는 대외비 목록 및 국회기록원에서 공개가 불가하다고 판단한 자료
+
+[붙임 2] 사업자 보안위반 처리기준
+
+사업자 보안위반 처리기준
+
+<table>
+<tr><th colspan="2">구 분</th><th>내 용</th></tr>
+<tr><td rowspan="2">심 각</td><td>위반사항</td><td>1. 비밀 및 대외비 급 정보 유출 및 유출시도<br>가. 정보시스템에 대한 구조, 데이터베이스 등의 정보 유출<br>나. 개인정보·신상정보 목록 유출<br>다. 비공개 항공사진·공간정보 등 비공개 정보 유출<br>2. 정보시스템에 대한 불법적 행위<br>가. 관련 시스템에 대한 해킹 및 해킹시도<br>나. 시스템 구축 결과물에 대한 외부 유출<br>다. 시스템 내 인위적인 악성코드 유포</td></tr>
+<tr><td>처리기준</td><td>사업참여 제한<br>위반자 및 직속 감독자 등 중징계 및 교체<br>재발 방지를 위한 조치계획 제출<br>위반자 대상 특별 보안교육 실시</td></tr>
+<tr><td rowspan="2">중 대</td><td>위반사항</td><td>1. 비공개 정보 관리 소홀<br>가. 비공개 정보를 책상 위 등에 방치<br>나. 비공개 정보를 휴지통ㆍ폐지함 등에 유기 또는 이면지 활용<br>다. 개인정보·신상정보 목록을 책상 위 등에 방치<br>라. 기타 비공개 정보에 대한 관리소홀<br>2. 사무실ㆍ보호구역 보안관리 허술<br>가. 통제구역 출입문을 개방한 채 퇴근 등<br>나. 인가되지 않은 작업자의 내부 시스템 접근<br>다. 통제구역 내 장비·시설 등 무단 사진촬영<br>3. 전산정보 보호대책 부실<br>가. 업무망 인터넷망 혼용사용, 보안 USB 사용규정 위반<br>나. 웹하드·P2P 등 인터넷 자료공유사이트를 활용하여 용역사업 관련 자료 수발신<br>다. 개발·유지보수 시 원격작업 사용<br>라. 저장된 비공개 정보 패스워드 미부여<br>마. 인터넷망 연결 PC 하드디스크에 비공개 정보를 저장<br>바. 외부용 PC를 업무망에 무단 연결 사용<br>사. 보안관련 프로그램 강제 삭제<br>아. 사용자 계정관리 미흡 및 오남용(시스템 불법접근 시도 등)</td></tr>
+<tr><td>처리기준</td><td>위반자 및 직속 감독자 등 중징계 및 교체<br>재발 방지를 위한 조치계획 제출<br>위반자 대상 특별 보안교육 실시</td></tr>
+<tr><td rowspan="2">보 통</td><td>위반사항</td><td>1. 기관 제공 중요정책ㆍ민감 자료 관리 소홀<br>가. 주요 현안ㆍ보고자료를 책상 위 등에 방치<br>나. 정책ㆍ현안자료를 휴지통ㆍ폐지함 등에 유기 또는 이면지 활용<br>2. 사무실 보안관리 부실<br>가. 캐비넷ㆍ서류함ㆍ책상 등을 개방한 채 퇴근<br>나. 출입키를 책상 위 등에 방치<br>3. 보호구역 관리 소홀<br>가. 통제ㆍ제한구역 출입문을 개방한 채 근무<br>나. 보호구역내 비인가자 출입허용 등 통제 미실시<br>4. 전산정보 보호대책 부실<br>가. 보조저장매체(이동형 하드디스크, USB메모리 등)를 서랍ㆍ책상 위 등에 방치한 채 퇴근<br>나. 비인가 메신저 무단 사용<br>다. PC를 켜 놓거나 보조저장매체를 꽂아 놓고 퇴근<br>라. 부팅ㆍ화면보호 패스워드 미부여 또는 "1111" 등 단순숫자 부여<br>마. PC 비밀번호를 모니터 옆 등 외부에 노출<br>바. 비인가 보조저장매체 무단 사용</td></tr>
+<tr><td>처리기준</td><td>위반자 및 직속 감독자 등 경징계<br>위반자 및 직속 감독자 경위서 제출(제출처:국회기록원)<br>위반자 대상 특별 보안교육 실시</td></tr>
+<tr><td rowspan="2">경미</td><td>위반사항</td><td>1. 업무 관련서류 관리 소홀<br>가. 진행중인 업무자료를 책상 등에 방치, 퇴근<br>나. 복사기ㆍ인쇄기 위에 서류 방치<br>2. 근무자 근무상태 불량<br>가. 각종 보안장비 운용 미숙<br>나. 경보ㆍ보안장치 작동 불량<br>3. 전산정보 보호대책 부실<br>가. PC 내 보안성이 검증되지 않은 프로그램 사용<br>나. 보안 관련 소프트웨어의 주기적 점검 위반</td></tr>
+<tr><td>처리기준</td><td>위반자 서면ㆍ구두 경고 등 문책<br>위반자 경위서 제출(제출처: 국회기록원)</td></tr>
+</table>
+
+[붙임 3] 보안 위약금 부과 기준
+
+보안 위약금 부과기준
+
+1. 위반 수준별로 A \~ D 등급으로 차등 부과
+
+* 위약금은 매 점검 또는 보안 사고 적발, 보안 사고 발생 별로 부과
+
+<table>
+<tr><th rowspan="2">구분</th><th colspan="4">위반 수준</th></tr>
+<tr><td>A급</td><td>B급</td><td>C급</td><td>D급</td></tr>
+<tr><td>위반</td><td>심각 1건</td><td>중대 1건</td><td>보통 2건 이상</td><td>경미 3건 이상</td></tr>
+<tr><td>위약금<br>비중</td><td>부정당업자 등록</td><td>총계약금의 5%</td><td>총계약금의 3%</td><td>총계약금의 1%</td></tr>
+</table>
+
+* 위반 수준은 [붙임 2] 참고
+
+2. 보안 위약금은 다른 요인에 의해 상쇄, 삭감이 되지 않도록 부과
+
+* 보안사고는 1회의 사고만으로도 그 파급력이 큰 것을 감안하여 타 항목과 별도 부과
+
+3. 사업 종료 시 지출금액 조정을 통해 위약금 정산
+
+[붙임 4] 기술적용계획표
+
+| 사업명 | 정보자원 이전 및 정보인프라 구축 사업 |
+| --- | --- |
+| 작성일 | 2026. 5. |
+
+□ 법률 및 고시
+
+| 구분 | 항 목 |
+| --- | --- |
+| 법률 | ｏ 지능정보화 기본법<br>ｏ 공공기관의 정보공개에 관한 법률<br>ｏ 개인정보 보호법<br>ｏ 소프트웨어 진흥법<br>ｏ 인터넷주소자원에 관한 법률<br>ｏ 전자서명법<br>ｏ 전자정부법<br>ｏ 국가정보원법<br>ｏ 정보통신기반 보호법<br>ｏ 정보통신망 이용촉진 및 정보보호 등에 관한 법률<br>ｏ 통신비밀보호법<br>ｏ 국가를 당사자로 하는 계약에 관한 법률<br>ｏ 하도급거래 공정화에 관한 법률<br>ｏ 지방자치단체를 당사자로 하는 계약에 관한 법률<br>ｏ 공공데이터의 제공 및 이용 활성화에 관한 법률<br>ｏ 클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 |
+| 고시 등 | ｏ 보안업무규정(대통령령)<br>ｏ 사이버안보 업무규정(대통령령)<br>ｏ 행정기관 정보시스템 접근권한 관리 규정(국무총리훈령)<br>ｏ 장애인ㆍ고령자 등의 정보 접근 및 이용 편의 증진을 위한 고시(과학기술정보통신부고시)<br>ｏ 전자서명인증업무 운영기준(과학기술정보통신부고시)<br>ｏ 전자정부 웹사이트 품질관리 지침(행정안전부고시)<br>ｏ 정보보호시스템 공통평가기준(미래창조과학부고시)<br>ｏ 정보보호시스템 평가·인증 등에 관한 고시(과학기술정보통신부고시)<br>ｏ 정보시스템 감리기준(행정안전부고시)<br>ｏ 전자정부사업관리 위탁에 관한 규정(행정안전부고시)<br>ｏ 전자정부사업관리 위탁용역계약 특수조건(행정안전부예규)<br>ｏ 행정전자서명 인증업무지침(행정안전부고시)<br>ｏ 행정기관 도메인이름 및 IP주소체계 표준(행정안전부고시)<br>ｏ 개인정보의 안전성 확보조치 기준(개인정보보호위원회고시)<br>ｏ 정보보호 및 개인정보보호 관리체계 인증 등에 관한 고시(개인정보보호위원회고시ㆍ과학기술정보통신부고시)<br>ｏ 지방자치단체 입찰 및 계약 집행 기준(행정안전부예규)<br>ｏ 지방자치단체 입찰시 낙찰자 결정기준(행정안전부예규)<br>ｏ 표준 개인정보 보호지침(개인정보보호위원회고시)<br>ｏ 엔지니어링사업대가의 기준(산업통상자원부고시)<br>ｏ 소프트웨어 기술성 평가기준 지침(과학기술정보통신부고시)<br>ｏ 소프트웨사업 계약 및 관리감독에 관한 지침(과학기술정보통신부고시)<br>ｏ 중소 소프트웨어사업자의 사업 참여 지원에 관한 지침(과학기술정보통신부고시)<br>ｏ 소프트웨어 품질성능 평가시험 운영에 관한 지침(과학기술정보통신부고시)<br>ｏ (계약예규) 용역계약일반조건(기획재정부계약예규)<br>ｏ (계약예규) 협상에 의한 계약체결기준(기획재정부계약예규)<br>ｏ (계약예규) 경쟁적 대화에 의한 계약체결기준(기획재정부계약예규)<br>ｏ 하도급거래공정화지침(공정거래위원회예규)<br>ｏ 정보보호조치에 관한 지침(과학기술정보통신부고시)<br>ｏ 개인정보 영향평가에 관한 고시(개인정보보호위원회고시)<br>ｏ 행정정보 공동이용 지침(행정안전부예규)<br>ｏ 공공기관의 데이터베이스 표준화 지침(행정안전부고시)<br>ｏ 공공데이터 관리지침(행정안전부고시)<br>ｏ 모바일 전자정부 서비스 관리 지침(행정안전부예규)<br>ｏ 행정기관 및 공공기관 정보자원 통합기준(행정안전부고시)<br>ｏ 국가정보보안기본지침(국가정보원)<br>ｏ 행정기관 및 공공기관의 클라우드컴퓨팅서비스 이용 기준 및 안전성 확보 등에 관한 고시(행정안전부고시)<br>ｏ 클라우드컴퓨팅서비스 보안인증에 관한 고시(과학기술정보통신부고시) |
+
+□ 서비스 접근 및 전달 분야
+
+<table>
+<tr><th rowspan="2">구 분</th><th rowspan="2">항 목</th><th colspan="4">적용계획/결과</th><th rowspan="2">부분적용/ 미적용시 사유 및 대체기술</th></tr>
+<tr><td>적용</td><td>부분적용</td><td>미적용</td><td>해당없음</td></tr>
+<tr><td colspan="7">기본 지침</td></tr>
+<tr><td colspan="2">ｏ 정보시스템은 사용자가 다양한 브라우저 환경에서 서비스를 이용할 수 있도록 표준기술을 준수하여야 하고, 장애인, 저사양 컴퓨터 사용자 등 서비스 이용 소외계층을 고려한 설계ㆍ구현을 검토하여야 한다.</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td colspan="7">세부 기술 지침</td></tr>
+<tr><td rowspan="4">관련규정</td><td>ｏ 전자정부 웹사이트 품질관리 지침<br>ｏ 한국형 웹 콘텐츠 접근성 지침 2.2</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>ｏ 모바일 전자정부 서비스 관리 지침</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>ｏ 장애인ㆍ고령자 등의 정보 접근 및 이용 편의 증진을 위한 고시</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>ｏ 디지털 정부서비스 UI/UX 가이드라인</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td rowspan="8">외부 접근<br>장치</td><td colspan="6">ｏ 웹브라우저 관련</td></tr>
+<tr><td>- HTML 4.01/HTML 5, CSS 2.1 / CSS 3</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- XHTML 1.0</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- XML 1.0, XSL 1.0, XSLT 2.0</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- ECMAScript 14th</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="6">ｏ 모바일 관련</td></tr>
+<tr><td>- 모바일 웹 콘텐츠 저작 지침 1.0<br>(KICS.KO-10.0307)</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- 모바일 애플리케이션 콘텐츠 접근성 지침 2.0<br>(KSX3253:2016)</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>서비스<br>요구사항</td><td>서비스관리(KS X ISO/IEC 20000)/ ITIL v3, v4</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td rowspan="2">서비스 전달<br>프로토콜</td><td>IPv4</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>IPv6</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+□ 인터페이스 및 통합 분야
+
+<table>
+<tr><th rowspan="2">구 분</th><th rowspan="2">항 목</th><th colspan="4">적용계획/결과</th><th rowspan="2">부분적용/ 미적용시 사유 및 대체기술</th></tr>
+<tr><td>적용</td><td>부분적용</td><td>미적용</td><td>해당없음</td></tr>
+<tr><td colspan="7">기본 지침</td></tr>
+<tr><td colspan="2">ｏ 정보시스템 간 서비스의 연계 및 통합에는 웹서비스 적용을 검토하고, 개발된 웹서비스 중 다른 기관과 공유가 가능한 웹서비스는 범정부 차원의 공유ㆍ활용이 가능하도록 지원하여야 한다.</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td colspan="7">세부 기술 지침</td></tr>
+<tr><td rowspan="6">서비스 통합</td><td colspan="6">ｏ 웹 서비스</td></tr>
+<tr><td>- SOAP 1.2, WSDL 2.0, XML 1.0</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- RESTful</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td colspan="6">ｏ 비즈니스 프로세스 관리</td></tr>
+<tr><td>- UML 2.X / BPMN 2.X</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- ebXML/BPEL/XPDL</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>데이터 공유</td><td>ｏ 데이터 형식: XML 1.0, JSON</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>인터페이스</td><td>ｏ 서비스 발견 및 명세: RESTful API, WSDL 2.0</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+</table>
+
+□ 플랫폼 및 기반구조 분야
+
+<table>
+<tr><th rowspan="2">구 분</th><th rowspan="2">항 목</th><th colspan="4">적용계획/결과</th><th rowspan="2">부분적용/ 미적용시 사유 및 대체기술</th></tr>
+<tr><td>적용</td><td>부분적용</td><td>미적용</td><td>해당없음</td></tr>
+<tr><td colspan="7">기본 지침</td></tr>
+<tr><td colspan="2">ｏ 정보시스템 운영에 사용되는 통신장비는 IPv4와 IPv6가 동시에 지원되는 장비를 채택하여야 한다.</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">ｏ 하드웨어는 다른 기종 간 연계가 가능하여야 하며, 특정 기능을 수행하는 임베디드 장치 및 주변 장치는 해당 장치가 설치되는 정보시스템과 호환성 및 확장성이 보장되어야 한다.</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td colspan="7">세부 기술 지침</td></tr>
+<tr><td rowspan="5">네트워크</td><td>ｏ 화상회의 및 멀티미디어 통신 : H.320~H.324, H.310</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td colspan="6">ｏ 부가통신: VoIP</td></tr>
+<tr><td>- H.323</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- SIP</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- Megaco(H.248)</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td rowspan="8">운영체제 및<br>기반 환경</td><td colspan="6">ｏ 서버용(개방형) 운영 체제 및 기반환경</td></tr>
+<tr><td>- POSIX.0</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- UNIX</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- Windows Server</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- Linux</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="6">ｏ 모바일용 운영 체계 및 기반환경</td></tr>
+<tr><td>- android</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- IOS</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td rowspan="6">데이터베이스</td><td colspan="6">ｏ DBMS</td></tr>
+<tr><td>- RDBMS</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- ORDBMS</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- OODBMS</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- MMDBMS</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- TSDBMS</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>시스템 관리</td><td>ｏ ITIL v3 / ISO20000</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>소프트웨어 공학</td><td>ｏ 개발프레임워크 : 전자정부 표준프레임워크</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">클라우드<br>컴퓨팅</td><td>ｏ IaaS</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>ｏ PaaS</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>ｏ SaaS</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+</table>
+
+□ 요소기술 분야
+
+<table>
+<tr><th rowspan="2">구 분</th><th rowspan="2">항 목</th><th colspan="4">적용계획/결과</th><th rowspan="2">부분적용/ 미적용시 사유 및 대체기술</th></tr>
+<tr><td>적용</td><td>부분적용</td><td>미적용</td><td>해당없음</td></tr>
+<tr><td colspan="7">기본 지침</td></tr>
+<tr><td colspan="2">ｏ 응용서비스는 컴포넌트화하여 개발하는 것을 원칙으로 한다.</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td colspan="2">ｏ 데이터는 데이터 공유 및 재사용, 데이터 교환, 공공데이터 제공,데이터 품질 향상, 데이터베이스 통합 등을 위하여 표준화되어야 한다.</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td colspan="2">ｏ 데이터는 공공데이터(「전자정부법」 제2조제6호의 행정정보를 말한다)로 제공하기 위하여 기계 판독이 가능한 형태로 정비, ｢공공데이터의 제공 및 활성화에 관한 법률」상 제공제외 대상의 별도 테이블 분리ㆍ설계, 품질확보 등이 수행되어야 한다.</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td colspan="2">ｏ 행정정보의 공동활용에 필요한 행정코드는 행정표준코드를 준수하여야 하며, 그렇지 못한 경우에는 행정기관등의 장이 그 사유를 행정안전부장관에게 보고하고, 「행정기관의 코드표준화 추진지침」에 따라 코드체계 및 코드를 생성하여 행정안전부장관에게 표준 등록을 요청하여야 한다.</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td colspan="2">ｏ 패키지소프트웨어는 다른 패키지소프트웨어 또는 다른 정보시스템과의 연계를 위해 데이터베이스 사용이 투명해야 하며 다양한 유형의 인터페이스를 지원하여야 한다.</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td colspan="7">세부 기술 지침</td></tr>
+<tr><td>관련규정</td><td>ｏ 공공기관의 데이터베이스 표준화 지침<br>ｏ 공공데이터 관리지침<br>ｏ 공공데이터 제공·관리 매뉴얼</td><td>○</td><td></td><td></td><td></td><td>준용</td></tr>
+<tr><td rowspan="6">데이터 표현</td><td>ｏ 정적표현: HTML 4.01 / HTML 5</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="6">ｏ 동적표현</td></tr>
+<tr><td>- JSP 2.x</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- ASP.net</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- PHP</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td>- 기타 ( )</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td rowspan="6">프로그래밍</td><td colspan="6">ｏ 프로그래밍</td></tr>
+<tr><td>- C</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- C++</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- Java</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- C#</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- 기타 ( )</td><td></td><td></td><td></td><td>○</td><td></td></tr>
+<tr><td rowspan="7">데이터 교환</td><td colspan="6">ｏ 교환프로토콜</td></tr>
+<tr><td>- XMI 2.0 / XMI 3.2</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- SOAP 1.2</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- API</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="6">ｏ 문자셋</td></tr>
+<tr><td>- EUC-KR</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>- UTF-8(단, 신규시스템은 UTF-8 우선 적용)</td><td>○</td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+□ 보안 분야
+
+<table>
+<tr><th rowspan="2">구 분</th><th rowspan="2">항 목</th><th colspan="7">적용계획/결과</th><th rowspan="2">부분적용/ 미적용시 사유 및 대체기술</th></tr>
+<tr><td>적용</td><td colspan="3">부분적용</td><td colspan="2">미적용</td><td>해당없음</td></tr>
+<tr><td colspan="10">기본 지침</td></tr>
+<tr><td colspan="2">ｏ 정보시스템의 보안을 위하여 위험분석을 통한 보안 계획을 수립하고 이를 적용하여야 한다. 이는 정보시스템의 구축 운영과 관련된 “서비스 접근 및 전달”, “플랫폼 및 기반구조”, “요소기술” 및 “인터페이스 및 통합” 분야를 모두 포함하여야 한다.</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">ｏ 보안이 중요한 서비스 및 데이터의 접근에 관련된 사용자 인증은 전자서명 또는 행정전자서명을 기반으로 하여야 한다.</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">ｏ 네트워크 장비 및 네트워크 보안장비에 임의 접속이 가능한 악의적인 기능 등 설치된 백도어가 없도록 하여야 하고 보안기능 취약점 발견 시 개선ㆍ조치하여야 한다.</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="10"></td></tr>
+<tr><td colspan="10">세부 기술 지침</td></tr>
+<tr><td rowspan="3">관련<br>규정</td><td>ｏ 전자정부법</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>ｏ 국가정보보안기본지침(국가정보원)</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>ｏ 네트워크 장비 구축·운영사업 추가특수조건(조달청 지침)</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td rowspan="49">제품별 도입<br>요건 및 보안<br>기준<br>준수</td><td colspan="9">ｏ 국정원 검증필 암호모듈 탑재ㆍ사용 대상(암호가 주기능인 정보보호제품)</td></tr>
+<tr><td>- PKI제품</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- SSO제품(보안기능 확인서 또는 CC인증 필수)</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>- 디스크ㆍ파일 암호화 제품</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 문서 암호화 제품(DRM)(보안기능 확인서 또는 CC인증 필수)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 메일 암호화 제품</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 구간 암호화 제품</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 하드웨어 보안 토큰</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- DB암호화 제품(보안기능 확인서 또는 CC인증 필수)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 상기제품(8종) 이외 중요정보 보호를 위해 암호기능이 내장된 제품</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 암호모듈 검증서에 명시된 제품과 동일 제품 여부</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td colspan="9">ｏ 보안기능 확인서 또는 CC인증 필수제품 유형군(국제 CC인 경우 보안적합성 검증 필요)</td></tr>
+<tr><td>- (네트워크)침입차단</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>- (네트워크)침입방지(침입탐지 포함)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 통합보안관리(통합로그관리 포함)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 웹 응용프로그램 침입차단</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>- DDos 대응(성능평가로 도입 가능)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 인터넷 전화 보안</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 무선침입방지</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 무선랜 인증</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 가상사설망(검증필 암호모듈 탑재 필수)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 네트워크 접근통제</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 망간 자료전송(2022.1 이전 인증제품)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 안티 바이러스(성능평가로 도입 가능)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 패치관리</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 스팸메일 차단</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 서버 접근통제</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- DB접근 통제</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 스마트카드</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 디지털 복합기 (비휘발성 저장매체 장착 제품에 대한 완전삭제 혹은 암호화 기능)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 소스코드 보안약점 분석도구(성능평가로 도입 가능)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 스마트폰 보안관리</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 소프트웨어기반 보안USB(2020.1.1이전 인증제품, 검증필 암호모듈 탑재 필수)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 호스트 자료유출 방지(2021.1.1이전 인증제품, 매체제어제품 포함, 자료저장 기능이 있는 경우 국정원 검증필 암호모듈 탑재 필수)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 네트워크 자료유출방지(2021.1.1 이전 인증제품)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- CC인증서에 명시된 제품과 동일 제품 여부</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="9">ｏ 보안기능 확인서 필수제품 유형군</td></tr>
+<tr><td>- 소프트웨어기반 보안USB(검증필 암호모듈 탑재 필수)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 호스트 자료유출 방지(매체제어제품 포함, 자료저장 기능이 있는 경우 국정원 검증필 암호모듈 탑재 필수)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 망간 자료전송</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>- 네트워크 자료유출방지</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 네트워크 장비(L3 스위치 이상)</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>- 가상화관리제품</td><td colspan="2">○</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="9">ｏ 모바일 서비스(앱·웹) 등</td></tr>
+<tr><td>- 보안취약점 및 보안약점 점검·조치(모바일 전자정부 서비스 관리 지침)</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 국가ㆍ공공기관 모바일 활용업무에 대한 보안가이드라인</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td colspan="9">ｏ 민간 클라우드 활용</td></tr>
+<tr><td>- 클라우드 서비스 보안인증(CSAP)을 받은 서비스</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td>- 국가·공공기관 클라우드 컴퓨팅 보안가이드</td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">○</td><td></td></tr>
+<tr><td rowspan="15">백도어 방지 기술적 확인 사항</td><td colspan="9">ｏ 보안기능 준수</td></tr>
+<tr><td>- 식별 및 인증</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 암호지원</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 정보 흐름 통제</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 보안 관리</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 자체 시험</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 접근 통제</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 전송데이터 보호</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 감사 기록</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 그 밖의 제품별 특화기능</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="9">ｏ 보안기능 확인 및 취약점 제거</td></tr>
+<tr><td>- 보안기능별 명령어 등 시험 및 운영방법 제공</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 취약점 개선(취약점이 없는 펌웨어 및 패치 적용)</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 백도어 제거(비공개 원격 관리 및 접속 기능)</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>- 오픈소스 적용 기능 및 리스트 제공</td><td>○</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+</table>
+
+[붙임 5] 하도급계약의 적정성 판단 세부기준
+
+하도급계약의 적정성 판단 세부기준
+
+Ⅰ. 자격의 적정성
+
+<table>
+<tr><th>판단항목</th><th>세부 판단 항목</th><th colspan="2">세부 판단 기준 및 방법</th></tr>
+<tr><td>(재)하수급인의 자격</td><td>참가제한</td><td>o 「국가계약법」또는 「지방계약법」에 따라 하수급인이 부정당업자로 지정되어 입찰참가제한 중인 경우</td><td>감점<br>(-25점)</td></tr>
+</table>
+
+Ⅱ. 수행능력의 적정성
+
+<table>
+<tr><th>판단항목</th><th>세부 판단 항목</th><th>세부 판단 기준 및 방법</th></tr>
+<tr><td rowspan="2">(재)하수급인의<br>사업수행<br>능력<br>(40점)</td><td>사업수행실적<br>(30점)</td><td>하수급인의 최근 3년간 유사사업 수행실적<br>※ 하도급 계약금액 대비 최근 3년간 유사사업 수행실적 합산액의 비율을 기준으로 평가<br>[중첩 테이블 #22: 100%이상 | 100%미만～ 80%이상 | 80%미만～ 60%이상 | 60%미만～ 50%이상 | 50%미만]<br>100%이상 / 100%미만～ 80%이상 / 80%미만～ 60%이상 / 60%미만～ 50%이상 / 50%미만<br>30점 / 28점 / 26점 / 25～16점 / 15점<br>하도급 사업 투입 인력 중 해당 사업과 유사사업 수행에 1건 이상 참여한 경험이 있는 인력비율<br>[중첩 테이블 #23: 70%이상 | 70%미만～ 60%이상 | 60%미만～ 50%이상 | 50%미만～ 40%이상 | 40%미만]<br>70%이상 / 70%미만～ 60%이상 / 60%미만～ 50%이상 / 50%미만～ 40%이상 / 40%미만<br>30점 / 28점 / 26점 / 25～16점 / 15점<br>※ 계약상대자는 , 중 택일하여 판단요청 가능<br>※ 증빙서류 미제출 및 제출한 서류로 사업수행실적이 증빙되지 않을 경우 0점 처리</td></tr>
+<tr><td>고용안정<br>및 적법근로<br>(10점)</td><td>② 하도급사업 투입인력 전원의 고용보험 가입 등 관련법 준수 여부<br>1.「고용보험법」 제15조에 따른 고용보험 가입<br>2. 파견근로자의「파견근로자보호 등에 관한 법률」 제7조에 따른 근로자파견사업 허가업체 소속 확인 및 고용보험 가입<br>3.「고용보험법」 제10조에 따라 고용보험법이 적용되지 않는 인력의 경우 이를 증명하는 서류<br>4. 대표자의 경우 사업자 등록증<br>※ 하도급 사업 투입인력이 각 호를 충족하지 못하는 경우 0점 처리</td></tr>
+</table>
+
+Ⅲ. 계약의 공정성
+
+<table>
+<tr><th rowspan="2">(재)하도급<br>계약방식<br>(60점)</th><th>하도급<br>대금지급<br>방식의 적정성<br>(30점)</th><th>① 원도급 계약의 대금지급 방식 대비 하도급계약의 대금지급 방식의 일치 여부<br>- ㉮ 대금지급 방식 (현금/어음 등), ㉯ 지급시기, ㉰ 지급률 (선금/중도금/잔금)<br>[중첩 테이블 #24: ㉮불일치 (㉯,㉰일치 여부 무관) | ㉮, ㉯, ㉰ 전부 일치 | ㉮는 일치하고 ㉯, ㉰ 중 1개 일치 | …]<br>㉮불일치 (㉯,㉰일치 여부 무관) / ㉮, ㉯, ㉰ 전부 일치 / ㉮는 일치하고 ㉯, ㉰ 중 1개 일치 / ㉮는 일치하고 ㉯, ㉰ 전부 불일치<br>0점 / 30점 / 15점 / 0점<br>※「(계약일반)용역계약 일반조건」제27조의2 또는「하도급 거래 공정화에 관한 법률」제6조제1항 또는 제13조에 따른 적법한 기일(15일)이내 지급시기를 결정한 경우 ㉯와 일치 간주<br>※ 원도급 사업의 계약대금 지급방식보다 하도급 계약대금의 지급방식이 하수급인에게 유리한 경우에는 ㉯와 ㉰ 전부 일치 간주</th></tr>
+<tr><td>하도급 금액의<br>적정성<br>(30점)</td><td>② 원도급의 하도급예정액 대비 하도급계약금액의 비율(부분하도급률)<br>[중첩 테이블 #25: 95%이상 | 95%미만～ 90%이상 | 90%미만～ 85%이상 | 85%미만～ 80%이상 | 80%미만～ …]<br>95%이상 / 95%미만～ 90%이상 / 90%미만～ 85%이상 / 85%미만～ 80%이상 / 80%미만～ 70%이상 / 70%미만<br>30점 / 25점 / 20점 / 15점 / 10점 / 5점<br>1. 부분하도급률(%) = (하도급계약금액/하도급예정액) × 100<br>2. 하도급예정액 : 국가기관등과 수급인간 계약서(산출내역서)상의 총 계약금액 중 각각 하도급 되는 예정금액<br>3. 하도급계약금액 : (재)하도급 계약 시 계약서상의 명시된 계약금액</td></tr>
+</table>
+
+Ⅳ. 기타
+
+<table>
+<tr><th rowspan="3">기타</th><th rowspan="3">가 점<br>(최대 5점)</th><th>① 최근 3년간 하수급인이 유효기간 내에 있는 소프트웨어 관련 인증을 획득한 경우(가점 2점)<br>※ 소프트웨어 관련 인증: 소프트웨어프로세스(SP), 소프트웨어 품질인증(GS 1등급, 2등급), 정보보호시스템인증(CC), 국가정보원 검증/지정, 신기술인증(NET), 신제품인증(NEP) 등 국가인증 및 국제표준인증 등</th></tr>
+<tr><td>② 최근 3년간 하수급인의 정부․지자체․공공기관 수상경력(회당 1점)</td></tr>
+<tr><td>③ (재)하도급 계약 시 제20조제3항 각 호에 따른 표준계약서를 활용하는 경우(가점 1점)</td></tr>
+</table>
